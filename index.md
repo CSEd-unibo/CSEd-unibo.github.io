@@ -2,4 +2,4 @@
 
 ## Anno Accademico 2019/20
 
-Testo di prova
+Docenti: Renzo Davoli e Michael Lodi
