@@ -1,20 +1,20 @@
 # Dal Web
 
-[Computer Science Curricula 2013](http://www.acm.org/education/CS2013-final-report.pdf) . Per chi si domandasse cosa sia informatica e cosa no, questo rapporto finale di un gruppo congiunto IEEE/ACM stabilisce i contenuti dei corsi di laurea in Informatica.
+[XXX Computer Science Curricula 2013](http://www.acm.org/education/CS2013-final-report.pdf) . Per chi si domandasse cosa sia informatica e cosa no, questo rapporto finale di un gruppo congiunto IEEE/ACM stabilisce i contenuti dei corsi di laurea in Informatica.
 Sono contenuti a livello universitario, non per la scuola secondaria (ma rendono chiara la definizione della materia da insegnare)
 
 [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)  articolo fondamentale di Jeannette Wing 2006 (perche' e' importante ragionare in modo informatico, e come questo aiuta ad affrontare meglio i problemi di tutti i giorni)
 
 [Imparare il Pensiero Computazionale, Imparare a Programmare](http://amslaurea.unibo.it/6730/1/lodi_michael_tesi.pdf)  Tesi di Laurea di Michael Lodi (Bologna 2014)
 
-[Computer Science Unplugged](http://www.csunplugged.org)  un libro per la didattica dell'informatica (quella vera! non la Information Technology) '''senza computer''' per studenti delle scuole elementari e medie. Il libro e' divulgato con licenza creative commons (si puo' copiare, stampare, divulgare liberamente) ed e' stato tradotto in Italiano da Renzo Davoli e Giovanni Michele Bianco. Il sito e' in corso di traduzione e presenta tante nuove esperienze non ancora presenti nel libro.... L'anima del progetto di chiama Tim Bell, professore all'Universita' di Canterbury, Christchurch, Nuova Zelanda. Da oltre 15 anni viene usato in tante scuole neozelandesi. Esiste anche un [http://www.youtube.com/watch?v=T5yKw9cHIJQ programma televisivo]. 
+[Computer Science Unplugged](http://www.csunplugged.org)  un libro per la didattica dell'informatica (quella vera! non la Information Technology) '''senza computer''' per studenti delle scuole elementari e medie. Il libro e' divulgato con licenza creative commons (si puo' copiare, stampare, divulgare liberamente) ed e' stato tradotto in Italiano da Renzo Davoli, Piergiovanna Grossi e Giovanni Michele Bianco. Il sito e' in corso di traduzione e presenta tante nuove esperienze non ancora presenti nel libro.... L'anima del progetto di chiama Tim Bell, professore all'Universita' di Canterbury, Christchurch, Nuova Zelanda. Da oltre 15 anni viene usato in tante scuole neozelandesi. Esiste anche un [http://www.youtube.com/watch?v=T5yKw9cHIJQ programma televisivo]. (Il libro in froam pdf in italiano è disponibile in classic.csunplugged.org bottone "book").
 
 [Code.org](http://code.org) : anybody can learn. Iniziativa per avvicinare i giovani all'informatica e alla programmazione.
 
 [sheplusplus](http://sheplusplus.stanford.edu/) : Iniziativa per ispirare le donne a potenziare l'informatica. Meta' del genere umano e' poco rappresentato nell'informatica, stiamo perdendo una gran parte delle soluzioni che potrebbero venir generate dalla creativit&agrave; femminile.
 
-[Computer Science Field Guide Online Textbook (in development)](http://www.cosc.canterbury.ac.nz/csfieldguide/) 
-Tim Bell (lo stesso di csunplugged sopra) sta portando l'esperienza di csunplugged nella didattica per le scuole superiori. Il lavoro non e' ancora stato rilasciato, e' in corso di preparazione. Salvate il link! 
+[Computer Science Field Guide Online Textbook](http://www.cosc.canterbury.ac.nz/csfieldguide/) 
+Tim Bell (lo stesso di csunplugged sopra) ha portato l'esperienza di csunplugged nella didattica per le scuole superiori. 
 
 [Tabela Dinamica Italiano](http://www.ufrgs.br/soft-livre-edu/wiki/Tabela_Dinamica_Italiano_16/01/2015) : enorme catalogo di software libero per la didattica (il catalogo e' stato realizzato da un gruppo di studio brasiliano)
 
@@ -28,7 +28,7 @@ Anche Alice e' uno strumento grafico per imparare a programmare. E' stato creato
 
 [App Inventor](http://www.appinventor.org)  Un corso e un libro (in creative commons) per creare app per cellulari. Sicuramente un approccio che genera interesse per gli studenti. Attenzione pero' a non entrare nella ''shop'' mania (i.e. metto una app nello shop e divento ricco)...
 
-[How to think like a Computer Scientist/Problem Solving using Python (interactive books)](http://interactivepython.org)  Bellissimi libri interattivi (e liberi) per la didattica del linguaggio Python e degli algoritmi di base.
+[How to think like a Computer Scientist/Problem Solving using Python](http://www.openbookproject.net/thinkcs/python/english2e/)  libro libero per la didattica del linguaggio Python e degli algoritmi di base. E" disponibile anche una [forma interattiva (meno libera)](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
 [Invent with Python: learn to program by making Computer Games](http://inventwithpython.com/)  Scrivere giochi per imparare a programmare. Questa e' la tecnica che usano gli autori di questo libro (libero) per catturare l'interesse dei ragazzi.
 
@@ -60,8 +60,8 @@ Anche Alice e' uno strumento grafico per imparare a programmare. E' stato creato
 
 [Learn Scratch](http://learnscratch.org/)  Video corsi di Scratch (in inglese e spagnolo).
 
-[Standing on the shoulder of Giants](http://www.foss-sourcebook.org/)  Progetto lanciato da un gruppo di lavoro dell'Open World Forum 2012: usare i repository di software libero come musei per gli studenti di informatica. La spiegazione degli algoritmi viene associata allo studio di implementazioni reali in uso negli strumenti di uso comune.
-
+<!--[Standing on the shoulder of Giants](http://www.foss-sourcebook.org/)  Progetto lanciato da un gruppo di lavoro dell'Open World Forum 2012: usare i repository di software libero come musei per gli studenti di informatica. La spiegazione degli algoritmi viene associata allo studio di implementazioni reali in uso negli strumenti di uso comune.
+-->
 [TED: Ideas worth spreading](http://www.ted.com/)  Le conferenze TED sono diventate un punto di riferimento. Per i docenti sono fonte di ispirazione per la creativita' e per lo stile di presentazione degli argomenti.
 
 [Sir Ken Robinson: Schools kill creativity (video)](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html)  Sir Ken Robinson in questa memorabile presentazione mostra come troppo spesso oggi la scuola limiti la creativita' invece che incentivarla. Una lezione per i docenti del XXI secolo che devono guardare al futuro e eliminare le componenti obsolete della scuola.
@@ -69,7 +69,7 @@ Anche Alice e' uno strumento grafico per imparare a programmare. E' stato creato
 [Sir Ken Robinson: Changing paradigms (video)](http://www.thersa.org/events/rsaanimate/animate/rsa-animate-changing-paradigms) 
 Il tema trattato e' lo stesso della TED conference precedente ma viene usato lo stile di presentazione della lavagna ''animata''.
 
-[Running On Empty: The Failure to Teach K–12 Computer Science in the Digital Age](http://www.acm.org/runningonempty/)  Rapporto dell'ACM che mostra quanto sia eterogeneo il livello di didattica dell'Informatica nella scuola primaria e secondaria negli Stati Uniti. E' un pubblico riconoscimento di un problema e una richiesta pressante di una azione.
+[XXX Running On Empty: The Failure to Teach K–12 Computer Science in the Digital Age](http://www.acm.org/runningonempty/)  Rapporto dell'ACM che mostra quanto sia eterogeneo il livello di didattica dell'Informatica nella scuola primaria e secondaria negli Stati Uniti. E' un pubblico riconoscimento di un problema e una richiesta pressante di una azione.
 
 [Sage: Open Source Mathematics Software](http://www.sagemath.org/)  Potente software matematico rilasciato sotto la licenza GPL. Si puo' usare online o installare. L'interfaccia utente e' in Python.
 
@@ -79,15 +79,11 @@ Il tema trattato e' lo stesso della TED conference precedente ma viene usato lo 
 
 [Roberto di Cosmo: ''CyberSnare'' (o tradotto come ''Trappola nel Cyberspazio'')](http://www.dicosmo.org/Piege/cybersnare/)  Storico articolo di Roberto Di Cosmo. Descrive la percezione dell'informatica (o meglio dell'ICT) oggi.
 
-[European Portable Phone Driving License](http://www.eppdl.org)  Fondamentale patente per l'uso dei telefoni cellulari. Si auspica l'inserimento di questa importantissima certificazione nei POF di tutte le scuole. In caso contrario i nostri studenti arrivati nel mercato del lavoro non sapranno usare i cellulari.
-
 [Renzo Davoli: Il cocktail del Software Libero (video)](http://www.youtube.com/watch?v=v2V2xjVDy8c)  Era il Linux Day 2011 e un professore universitario tenta di spiegare cosa sia il software libero.
 
 [Renzo Davoli: Libero Software in Libera Universit&agrave; (video)](http://www.gnu.unisi.it/2010/12/09/renzo-davoli-racconta-il-software-libero/)  Sempre il solito prof. tenta di spiegare perche' per scuola e per la universita' sia semplicemente immorale (prima ancora che illegale, oggi piu' che mai) usare software proprietario.
 
-[Dossier Scuola dell'Italian Linux Society](http://www.dossierscuola.it)  Una utilissima guida al software libero nella scuola in Italia.
-
-[wiiLavagnaDigitale](http://wiildos.wikispaces.com/Pagina+iniziale/)  Anche le LIM possono essere addomesticate.
+[wiiLavagnaDigitale](http://www.wiildos.it)  Anche le LIM possono essere addomesticate.
 
 [CRA Taulbee Survey](http://cra.org/resources/taulbee/)  Statistiche sui corsi di studio universitari in Informatica negli Stati Uniti.
 
@@ -105,9 +101,9 @@ Il tema trattato e' lo stesso della TED conference precedente ma viene usato lo 
 
 Clifford Stoll: ''High Tech Heretic: Why Computers Don't Belong in the Classroom and Other Reflections by a Computer Contrarian'' Bantam Doubleday Dell Publishing Group, 1999 (In Italiano: ''Confessioni di un eretico high-tech, Perché i computer nelle scuole non servono e altre considerazioni sulle nuove tecnologie'', Garzanti libri 2001) Importante riflessione sui limiti del mito della tecnologia nelle scuole.
 
-[Roberto di Cosmo: ''Hijacking the World:The dark side of Microsoft''](http://www.dicosmo.org/HoldUp/index.html.en)  Cosa di solito non si conosce sul software proprietario.
+[Roberto di Cosmo: ''Hijacking the World:The dark side of Microsoft''](http://www.dicosmo.org/HoldUp/English/hijacking_the_world/) Cosa di solito non si conosce sul software proprietario.
 
-[Bodrin, Levine: ''Against Intellectual Monopoly''](http://levine.sscnet.ucla.edu/general/intellectual/against.htm)  Le leggi che limitano la liberta' di conoscenza sono obsolete. I due professori della Washington Univ. di St. Luis ci spiegano cosa non va.
+[Bodrin, Levine: ''Against Intellectual Monopoly''](http://www.dklevine.com/general/intellectual/against.htm) Le leggi che limitano la liberta' di conoscenza sono obsolete. I due professori della Washington Univ. di St. Luis ci spiegano cosa non va.
 
 [Andrea Glorioso (ed.): ''Il Software Libero in Italia''](http://www.copyleft-italia.it/libri/floss-italia.html)  Un libro (libero!) corale dove viene raccontata la situazione del software libero in Italia.
 
@@ -127,7 +123,7 @@ ACM SigCSE
 
 ACM ITiCSE
 
-[Didattica Aperta]([http://www.didatticaaperta.it/) ]
+[Didattica Aperta](http://www.didatticaaperta.it/) ]
 
 # Riferimenti Normativi
 
@@ -142,19 +138,19 @@ ACM ITiCSE
 
 [Allegato B alla nota MIUR prot. 3119 del 1 aprile 2014](http://www.cs.unibo.it/~renzo/nota-3119-del-1-aprile-2014-tabelle-assegnazione-insegnamenti-allB.pdf) 
 
-=preview libri di testo=
+# preview libri di testo
 
 [Tecnologie Informatiche Hoepli](http://www.hoepli.it/editore/hoepli_file/materiali_libri/203443001.pdf) 
 
 [Tecnologie Informatiche Plus: Linguaggio C](http://cdn2.scuolabook.it/Uploaded/hoepli_9788820354039_preview/hoepli_9788820354039_preview.pdf) 
 
-=Altro materiale da valutare=
+# Altro materiale da valutare
 
 [Cos'&egrave; l'informatica](http://aladdin.unimi.it/materiali/talk/2014_museo_mattia.pdf) . Mattia Monga (UniMi)
 
-[Next Gen](http://www.nesta.org.uk/library/documents/NextGenv32.pdf)  Gli imprenditori di visual effect/videogiochi chiedono al governo inglese di insegnare "coding" nelle scuole
+[XXX Next Gen](http://www.nesta.org.uk/library/documents/NextGenv32.pdf)  Gli imprenditori di visual effect/videogiochi chiedono al governo inglese di insegnare "coding" nelle scuole
 
-[Is computer science the new latin?](http://weblogs.java.net/blog/cayhorstmann/archive/2008/04/is_computer_sci.html)  L'insegnamento dell'IT invece della CS ha tanto fatto odiare la materia che la materia e' odiata (nelle preferenze dei corsi opzionali americani) piu' del latino!
+[XXX Is computer science the new latin?](http://weblogs.java.net/blog/cayhorstmann/archive/2008/04/is_computer_sci.html)  L'insegnamento dell'IT invece della CS ha tanto fatto odiare la materia che la materia e' odiata (nelle preferenze dei corsi opzionali americani) piu' del latino!
 
 [Passo dopo passo impariamo a programmare in Python (per scuola elementare/media)](http://linuxdidattica.org/polito/)  Un testo per bambini dove si insegna Python (Curato dal Politecnico di Torino).
 
@@ -173,7 +169,7 @@ siano liberi da schermi e computer nella scuola. Un maestro della scuola primari
 
 [Fabrice Bellard](http://en.wikipedia.org/wiki/Fabrice_Bellard)  Un genio e un hacker. Autore di Qemu, dei filtri ffmpeg, e' autore di una tecnica innovativa per trovare una approssimazione molto precisa di pi greco.
 
-[Getting Started in Computer Science Education Research](http://www.ics.heacademy.ac.uk/resources/pedagogical/cs_research/index.php)  Cosa e' la ricerca in Computer Science Education.
+[XXX Getting Started in Computer Science Education Research](http://www.ics.heacademy.ac.uk/resources/pedagogical/cs_research/index.php)  Cosa e' la ricerca in Computer Science Education.
 
 [Il progetto KidsLink](http://kidslink.bo.cnr.it/)  A Bologna siamo sempre stati all'avanguardia. Questo antico progetto ''dal basso'' portava lo studio dell'informatica e dell'hacking nelle scuole, complice il CNR.
 
@@ -199,11 +195,12 @@ Il dossier scuola (copia locale, il sito dossierscuola e' non raggiungibile da q
 
 [Programming Basics](http://www.programmingbasics.org/)  Un sito per insegnare Javascript ai bambini
 
-[YouSrc](http://www.yousrc.com/)  Viene usato un linguaggio molto semplice (ELC) per insegnare a programmare. (non condivido l'approccio).
+<!--[YouSrc](http://www.yousrc.com/)  Viene usato un linguaggio molto semplice (ELC) per insegnare a programmare. (non condivido l'approccio).-->
 
 [Five Minute University](http://www.youtube.com/watch?v=c00GPvns31U)  Esempio (comico) di cio' che la scuola ''non'' deve mai diventare. Padre Guido Sarducci (un personaggio del programma Saturday Live Live della NBC) fonda una Universita' privata che in cinque minuti fornisce una laurea. E' l'amaro commento il punto piu' importante: ''The idea is that in five minutes you learn what the average college graduate remembers five years after he or she is out of school.''. Ecco cosa veramente rimane di una scuola nozionistica. (L'attore e' Don Novello).
 
-[Documento](http://www.aicanet.it/eventicontestuali/allegati-eventi-2013/Qualificazioni_AICA_DLgs13-2013.pdf)  nel quale Aica supera abbondantemente il limite del ridicolo affermando che con le sue certificazioni e' in grado di fornire titoli paragonabili al dottorato di ricerca.
+[Documento](https://www.aicanet.it/documents/10776/66233/Qualificazioni_AICA_DLgs13-2013.pdf)
+nel quale Aica supera abbondantemente il limite del ridicolo affermando che con le sue certificazioni e' in grado di fornire titoli paragonabili al dottorato di ricerca.
 
 [Inroads 2015/01](http://www.cs.unibo.it/~renzo/aptiva/inroads2015_1/)  Nel numero di marzo 2015 della rivista Inroads c'e' uno speciale sulla didattica dell'informatica per "non majors", cioe' per non informatici (compresi i corsi di advanced placement nelle scuole superiori). I temi trattati, sebbene siano riferiti a corsi di college/undergraduate quindi universitari, presentano idee che possono essere trasposte per discutere i contenuti e i metodi della didattica dell'informatica nelle scuole non per informatici. (la copia locale e' protetta da password, e' per soli fini didattici).
 
