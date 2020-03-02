@@ -1,6 +1,6 @@
 # Dal Web
 
-[XXX Computer Science Curricula 2013](http://www.acm.org/education/CS2013-final-report.pdf) . Per chi si domandasse cosa sia informatica e cosa no, questo rapporto finale di un gruppo congiunto IEEE/ACM stabilisce i contenuti dei corsi di laurea in Informatica.
+[Computer Science Curricula 2013](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) Per chi si domandasse cosa sia informatica e cosa no, questo rapporto finale di un gruppo congiunto IEEE/ACM stabilisce i contenuti dei corsi di laurea in Informatica.
 Sono contenuti a livello universitario, non per la scuola secondaria (ma rendono chiara la definizione della materia da insegnare)
 
 [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)  articolo fondamentale di Jeannette Wing 2006 (perche' e' importante ragionare in modo informatico, e come questo aiuta ad affrontare meglio i problemi di tutti i giorni)

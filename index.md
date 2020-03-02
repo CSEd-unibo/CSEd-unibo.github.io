@@ -15,6 +15,6 @@ Docenti: Renzo Davoli e Michael Lodi
 
 ### Lezione del 02/03
 
-[Lezione Zero]()
+[Lezione Zero](http://www.cs.unibo.it/~renzo/csed/zero.pdf)
 
 [Didattica e Informatica (Michael Lodi)](http://www.cs.unibo.it/~michael.lodi2/csed/2020-03-02-Didattica-e-Informatica.pdf)
