@@ -18,3 +18,9 @@ Docenti: Renzo Davoli e Michael Lodi
 [Lezione Zero](http://www.cs.unibo.it/~renzo/csed/zero.pdf)
 
 [Didattica e Informatica (Michael Lodi)](http://www.cs.unibo.it/~michael.lodi2/csed/2020-03-02-Didattica-e-Informatica.pdf)
+
+### Lezione del 06/03
+
+Lezione 1
+
+Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=it) è il Ted talk più visto in assoluto, e, secondo me, uno dei più divertenti.
