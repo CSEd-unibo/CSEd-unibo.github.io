@@ -23,4 +23,4 @@ Docenti: Renzo Davoli e Michael Lodi
 
 Lezione 1
 
-Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=it) è il Ted talk più visto in assoluto, e, secondo me, uno dei più divertenti.
+Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=it) è il Ted talk più visto in assoluto, e uno dei più divertenti.
