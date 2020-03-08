@@ -21,6 +21,6 @@ Docenti: Renzo Davoli e Michael Lodi
 
 ### Lezione del 06/03
 
-Lezione 1
+[Lezione Uno](http://www.cs.unibo.it/~renzo/csed/uno.pdf)
 
 Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=it) è il Ted talk più visto in assoluto, e uno dei più divertenti.
