@@ -24,3 +24,7 @@ Docenti: Renzo Davoli e Michael Lodi
 [Lezione Uno](http://www.cs.unibo.it/~renzo/csed/uno.pdf)
 
 Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=it) è il Ted talk più visto in assoluto, e uno dei più divertenti.
+
+### Lezione del 09/03
+
+[Bottom Up o Top Down?](http://www.cs.unibo.it/~michael.lodi2/csed/2020-03-09-bottomuptopdown.pdf)
