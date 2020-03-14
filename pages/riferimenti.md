@@ -1,3 +1,5 @@
+Questa pagina sarebbe da riordinare e aggiornare...
+
 # Dal Web
 
 [Computer Science Curricula 2013](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) Per chi si domandasse cosa sia informatica e cosa no, questo rapporto finale di un gruppo congiunto IEEE/ACM stabilisce i contenuti dei corsi di laurea in Informatica.
@@ -60,8 +62,10 @@ Anche Alice e' uno strumento grafico per imparare a programmare. E' stato creato
 
 [Learn Scratch](http://learnscratch.org/)  Video corsi di Scratch (in inglese e spagnolo).
 
-<!--[Standing on the shoulder of Giants](http://www.foss-sourcebook.org/)  Progetto lanciato da un gruppo di lavoro dell'Open World Forum 2012: usare i repository di software libero come musei per gli studenti di informatica. La spiegazione degli algoritmi viene associata allo studio di implementazioni reali in uso negli strumenti di uso comune.
+<!--
+[Standing on the shoulder of Giants](http://www.foss-sourcebook.org/)  Progetto lanciato da un gruppo di lavoro dell'Open World Forum 2012: usare i repository di software libero come musei per gli studenti di informatica. La spiegazione degli algoritmi viene associata allo studio di implementazioni reali in uso negli strumenti di uso comune.
 -->
+
 [TED: Ideas worth spreading](http://www.ted.com/)  Le conferenze TED sono diventate un punto di riferimento. Per i docenti sono fonte di ispirazione per la creativita' e per lo stile di presentazione degli argomenti.
 
 [Sir Ken Robinson: Schools kill creativity (video)](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html)  Sir Ken Robinson in questa memorabile presentazione mostra come troppo spesso oggi la scuola limiti la creativita' invece che incentivarla. Una lezione per i docenti del XXI secolo che devono guardare al futuro e eliminare le componenti obsolete della scuola.
@@ -69,7 +73,7 @@ Anche Alice e' uno strumento grafico per imparare a programmare. E' stato creato
 [Sir Ken Robinson: Changing paradigms (video)](http://www.thersa.org/events/rsaanimate/animate/rsa-animate-changing-paradigms) 
 Il tema trattato e' lo stesso della TED conference precedente ma viene usato lo stile di presentazione della lavagna ''animata''.
 
-[XXX Running On Empty: The Failure to Teach K–12 Computer Science in the Digital Age](http://www.acm.org/runningonempty/)  Rapporto dell'ACM che mostra quanto sia eterogeneo il livello di didattica dell'Informatica nella scuola primaria e secondaria negli Stati Uniti. E' un pubblico riconoscimento di un problema e una richiesta pressante di una azione.
+[Running On Empty: The Failure to Teach K–12 Computer Science in the Digital Age](https://runningonempty.acm.org/)  Rapporto dell'ACM che mostra quanto sia eterogeneo il livello di didattica dell'Informatica nella scuola primaria e secondaria negli Stati Uniti. E' un pubblico riconoscimento di un problema e una richiesta pressante di una azione.
 
 [Sage: Open Source Mathematics Software](http://www.sagemath.org/)  Potente software matematico rilasciato sotto la licenza GPL. Si puo' usare online o installare. L'interfaccia utente e' in Python.
 
@@ -87,9 +91,7 @@ Il tema trattato e' lo stesso della TED conference precedente ma viene usato lo 
 
 [CRA Taulbee Survey](http://cra.org/resources/taulbee/)  Statistiche sui corsi di studio universitari in Informatica negli Stati Uniti.
 
-[Wiki del prof Roberto Bernetti di Ancona](http://edu.robertobernetti.com/bin/view)  E' interessante la sezione sull'insegnamento dell'informatica nei Licei (realizzato con la collaborazione del dott. Andrea Aquino).
-
-[Mind Mapping - Mappe mentali](http://www.mindmapping.com/)  Pur non essendo collegato alsolo mondo della computer science ritengo che questo modo di rappresentare le informazioni possa essere utile in ambito didattico per dare una visione di insieme di un argomento. Personalmente uso sovente le mappe mentali quando devo prendere appunti o gioco a fare il reverser per descrivere il comportamento di un programma. (Un software free per il loro utilizzo su computer [http://freemind.sourceforge.net/wiki/index.php/Main_Page])
+[Mind Mapping - Mappe mentali](http://www.mindmapping.com/)  Pur non essendo collegato alsolo mondo della computer science ritengo che questo modo di rappresentare le informazioni possa essere utile in ambito didattico per dare una visione di insieme di un argomento. Personalmente uso sovente le mappe mentali quando devo prendere appunti o gioco a fare il reverser per descrivere il comportamento di un programma. (Un software free per il loro utilizzo su computer [http://freemind.sourceforge.net/wiki/index.php/Main\_Page])
 
 [Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext) : Guo fa una statistica e mostra come Python sia il linguaggio piu' usato per insegnare la programmazione nelle maggiori universita' degli Stati Uniti.
 
@@ -123,7 +125,7 @@ ACM SigCSE
 
 ACM ITiCSE
 
-[Didattica Aperta](http://www.didatticaaperta.it/) ]
+[Didattica Aperta](http://www.didatticaaperta.it/)
 
 # Riferimenti Normativi
 
@@ -148,9 +150,11 @@ ACM ITiCSE
 
 [Cos'&egrave; l'informatica](http://aladdin.unimi.it/materiali/talk/2014_museo_mattia.pdf) . Mattia Monga (UniMi)
 
-[XXX Next Gen](http://www.nesta.org.uk/library/documents/NextGenv32.pdf)  Gli imprenditori di visual effect/videogiochi chiedono al governo inglese di insegnare "coding" nelle scuole
+[Next Gen](http://www.nesta.org.uk/library/documents/NextGenv32.pdf)  Gli imprenditori di visual effect/videogiochi chiedono al governo inglese di insegnare "coding" nelle scuole
 
-[XXX Is computer science the new latin?](http://weblogs.java.net/blog/cayhorstmann/archive/2008/04/is_computer_sci.html)  L'insegnamento dell'IT invece della CS ha tanto fatto odiare la materia che la materia e' odiata (nelle preferenze dei corsi opzionali americani) piu' del latino!
+[Is computer science the new latin?](http://horstmann.com/unblog/2008-04-05/apcs.html)
+L'insegnamento dell'IT invece della CS ha tanto fatto odiare la materia che la materia e' odiata (nelle preferenze dei corsi opzionali americani) piu' del latino!
+Il link originale è andato perduto (http://weblogs.java.net/blog/cayhorstmann/archive/2008/04/is\_computer\_sci.html)
 
 [Passo dopo passo impariamo a programmare in Python (per scuola elementare/media)](http://linuxdidattica.org/polito/)  Un testo per bambini dove si insegna Python (Curato dal Politecnico di Torino).
 
@@ -169,7 +173,7 @@ siano liberi da schermi e computer nella scuola. Un maestro della scuola primari
 
 [Fabrice Bellard](http://en.wikipedia.org/wiki/Fabrice_Bellard)  Un genio e un hacker. Autore di Qemu, dei filtri ffmpeg, e' autore di una tecnica innovativa per trovare una approssimazione molto precisa di pi greco.
 
-[XXX Getting Started in Computer Science Education Research](http://www.ics.heacademy.ac.uk/resources/pedagogical/cs_research/index.php)  Cosa e' la ricerca in Computer Science Education.
+[Getting Started in Computer Science Education Research](https://www.academia.edu/20071493/Report_getting_started_computerscience_education_research)  Cosa e' la ricerca in Computer Science Education.
 
 [Il progetto KidsLink](http://kidslink.bo.cnr.it/)  A Bologna siamo sempre stati all'avanguardia. Questo antico progetto ''dal basso'' portava lo studio dell'informatica e dell'hacking nelle scuole, complice il CNR.
 
