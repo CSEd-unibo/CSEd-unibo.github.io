@@ -81,6 +81,8 @@ Il tema trattato e' lo stesso della TED conference precedente ma viene usato lo 
 
 [Java – Objects First: An Introduction to Computer Programming using Java and BlueJ](http://www.people.okanagan.bc.ca/rgee/javabook.pdf)  Un libro che usa la tecnica didattica ''object first'' per insegnare la programmazione (e gli algoritmi/strutture dati? fose solo l'apparenza degli algoritmi e delle strutture dati). 
 
+[Lodi, Davoli, Montanari, Martini: Informatica senza e con computer nella Scuola Primaria](https://hal.inria.fr/hal-02379212) Raccolta di esperienze in scuole primarie a Bologna.
+
 [Roberto di Cosmo: ''CyberSnare'' (o tradotto come ''Trappola nel Cyberspazio'')](http://www.dicosmo.org/Piege/cybersnare/)  Storico articolo di Roberto Di Cosmo. Descrive la percezione dell'informatica (o meglio dell'ICT) oggi.
 
 [Renzo Davoli: Il cocktail del Software Libero (video)](http://www.youtube.com/watch?v=v2V2xjVDy8c)  Era il Linux Day 2011 e un professore universitario tenta di spiegare cosa sia il software libero.
@@ -98,6 +100,8 @@ Il tema trattato e' lo stesso della TED conference precedente ma viene usato lo 
 [Il Bliki di Renzo Davoli](http://www.raspibo.org/wiki/index.php/Renzo%27s_Bliki)  Contiene fra le altre cose "No more screts in your CPU" un progetto didattico per la didattica dell'architettura dei processori.
 
 [Bebras Italiano](http://bebras.di.unimi.it/)  una gara di computational thinking. [http://bebras.org/ sito internazionale]
+
+[Computer Science (crash course)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) Una collezione di 17 videolezioni. Carrie Anne Philbin (la stessa che ha creato i Geek Gurl Diaries).
 
 # Testi
 
