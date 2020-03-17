@@ -2,6 +2,8 @@ Questa pagina sarebbe da riordinare e aggiornare...
 
 # Dal Web
 
+[Dal sito di Michael Lodi](https://lodi.ml/risorse/) Raccolta sparsa di riferimenti, adatti soprattutto a insegnanti di scuola primaria e "medie", o per chi vuole introdurre la programmazione (specialmente con Scratch) con appraccio creativo. Contiene anche riferimenti più teorici sul pensiero computazionale.
+
 [Computer Science Curricula 2013](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) Per chi si domandasse cosa sia informatica e cosa no, questo rapporto finale di un gruppo congiunto IEEE/ACM stabilisce i contenuti dei corsi di laurea in Informatica.
 Sono contenuti a livello universitario, non per la scuola secondaria (ma rendono chiara la definizione della materia da insegnare)
 

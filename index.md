@@ -28,3 +28,13 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 ### Lezione del 09/03
 
 [Bottom Up o Top Down?](http://www.cs.unibo.it/~michael.lodi2/csed/2020-03-09-bottomuptopdown.pdf)
+
+### Lezione del 13/03
+
+[Teorie e paradigmi dell'apprendimento](http://www.cs.unibo.it/~michael.lodi2/csed/2020-03-13-teorieparadigmi.pdf)
+
+Altri materiali sono presenti su IOL
+
+### Lezione del 16/03
+
+[Scolleghiamoci](http://www.cs.unibo.it/~renzo/csed/quattro.pdf)
