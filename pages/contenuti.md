@@ -1,3 +1,29 @@
+##CONOSCENZE DI BASE
+
+(v. [Concetti fondamentali dell'Informatica](concetti_fondamentali.md) )
+Definizione di Informatica
+Hardware vs. Software
+Algoritmo
+Linguaggio
+Programma/Processo
+Eroi
+
+##CLASSI DI APPLICAZIONI
+
+GUI
+Word Processor (WYSIWYG e non, font tipografici)
+Foglio elettronico (cella, formule e dipendenza)
+Presentazione
+Grafica/elaborazione immagini (vettoriale e bitmap)
+Elaborazione suono/musica (campionamento e MIDI)
+Elaborazione video
+Browser
+Instant messaging
+Posta Elettronica
+
+Applicazioni installate e cloud based
+Applicazioni e Distribuzioni
+
 ##PROGRAMMAZIONE
 
 Linguaggi programmazione: procedurali, funzionali, logici
@@ -74,7 +100,7 @@ ricerca binaria/dicotomica;
 alberi di ricerca;
 hashing (separate chaining, linear probing)
 
-Alcoritmi su alberi:
+Algoritmi su alberi:
 Visita depth first. breath first;
 alberi binari: preordine, inordine, postordine;
 alberi bilanciati;
@@ -175,6 +201,17 @@ Loosely coupled multiprocessor: sistemi massicciamente paralleli.
 
 *(Attualita': approfondimento sulla struttura dei Data-Center)*
 
+##MACCHINE ASTRATTE, INGUAGGI FORMALI E CALCOLABILITA'
+(ci sono argomenti adatti alle scuole superiori?)
+
+Stringhe, alfabeti, linguaggi, operazioni.
+Macchine a Stati finiti (deterministiche e non deterministiche: equivalenza)
+Linguaggi regolari
+Grammatiche: classificazione di Chomsky
+Automi a pila e grammatiche context free
+Macchine di Turing
+Computabilità: MT universale, riducibilità, definizione di P, NP, NP-hard, NP-completo)
+
 ##COMPILATORI
 
 Front-End e Back-End: porting di un compilatore
@@ -188,12 +225,6 @@ Storia e tassonomia dei linguaggi di programmazione.
 Il linkage editor, la gestione delle librerie, librerie statiche e dinamiche.
 
 Il codice e l'ambiente di esecuzione.
-
-##MACCHINE ASTRATTE E CALCOLABILITA'
-(ci sono argomenti adatti alle scuole superiori?)
-
-##LINGUAGGI FORMALI
-(ci sono argomenti adatti alle per le scuole superiori?)
 
 ##SISTEMI OPERATIVI
 
@@ -234,17 +265,13 @@ Protocolli applicativi.
 
 Sicurezza in rete.
 
-
-*Architettura di Internet:*
-
+Architettura di Internet:
 *Fisico/Data Link: Ethernet, Wi-Fi, ADSL*
-
 *Network/Transport: IP, IPv6, TCP/UDP, ICMP (ICMPv6)*
-
 *Protocolli Applicativi: DNS, SMTP, POP, IMAP, HTTP, FTP, SSH, protocolli Peer-to-Peer*
 
 ##DATA BASE
-Concetto di sistema informativo. Informatizzazzione dei sistemi informativi.
+Concetto di sistema informativo. Informatizzazione dei sistemi informativi.
 
 Il modello E/R. Gli attributi e le associazioni. Tipi di associazioni. Lo schema E/R.
 
@@ -254,24 +281,40 @@ I sistemi integrati: DBMS. Tre linguaggi per i DBMS: DDL, DML, DCL. I linguaggi 
 
 L'SQL come tutto fare della teoria relazionale. Modellazione di un sistema informativo: le istruzioni di DDL. I vincoli in SQL. Dalle operazioni relazionali e alle istruzioni di DML dell'SQL. Le interrogazioni: tecniche e funzionalità SQL. Gli indici. Cenni di politiche di sicurezza: SQL come DCL.
 
-Domanda aperta: presentare prima la teoria relazionale, con tanto di algebra relazionale, e solo in seguito mostrare come l'SQL si dimostri linguaggio tutto fare nel realizzarne concetti e operazioni o invece introdurre l'SQL assieme al concetto di algebra relazionale, integrando passo passo la spiegazione delle operazioni relazionali con il parallelo delle corrispettive nel linguaggio SQL (che darebbe, tra l'altro, la possibilità di un effetto pratico, verificale dagli studenti)?
+<!--Domanda aperta: presentare prima la teoria relazionale, con tanto di algebra relazionale, e solo in seguito mostrare come l'SQL si dimostri linguaggio tutto fare nel realizzarne concetti e operazioni o invece introdurre l'SQL assieme al concetto di algebra relazionale, integrando passo passo la spiegazione delle operazioni relazionali con il parallelo delle corrispettive nel linguaggio SQL (che darebbe, tra l'altro, la possibilità di un effetto pratico, verificale dagli studenti)? -->
+
+##SICUREZZA
+
+Vulnerabilità, rischi, attaccanti, exploit
+Crittografia (simmetrica, asimmetrica, firma eletronica)
+Autenticazione
+Autorizzazione e controllo di accesso
+Vulnerabilità del software (bug di progetto, errori di memoria, tempo autorizzazione-tempo uso, iniezione di codice)
+Architetture di rete sicure (firewall, VPN)
+Sicurezza dei sistemi wireless
+Codice malevolo (virus, vermi, cavalli di troia, botnet e reti sotterranee, honeypot)
+Ingegneria sociale (phishing)
 
 ##INGEGNERIA DEL SOFTWARE
 
 Design pattern: Model View Controller (MVC)
-
 Software testing
 
 ##USABILITA' E ACCESSIBILITA'
 
 Concetti di base sull'usabilità. Concetti di base sull'accessibilità.
 
+##BIG DATA
+
+##INTELLIGENZA ARTIFICIALE
+Test di Turing
+Intelligenza debole e forte
+Reti Neuronali *multilivello, feed forward, ricorrenti*
+Apprendimento *supervisionato, isemi-supervisionato, non supervisionato*
+
 ##ASPETTI LEGALI ED ETICI
 
 Programma come testo, diritto di autore. Concetto di Plagio. Licenze.
-
 Software proprietario e software libero.
-
 Protocolli e Formati aperti e chiusi.
-
 Open Data.
