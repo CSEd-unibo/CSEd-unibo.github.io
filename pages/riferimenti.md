@@ -137,6 +137,12 @@ ACM ITiCSE
 
 [Indicazioni Nazionali/Regolamenti scuole superiori](http://archivio.pubblica.istruzione.it/riforma_superiori/nuovesuperiori/index.html) 
 
+[Esami di Stato](https://www.istruzione.it/esame_di_stato/index.shtml)
+
+# Curricula Universitati
+
+[ACM Curricula Recommendations](ihttps://www.acm.org/education/curricula-recommendations)
+
 # Altro
 [Renzo Davoli: Vergognatevi (errori Sintattici, Semantici e Metodologici delle domande di ''Cultura Digitale'' del Concorsone)](http://www.bononia.it/~renzo/vergogna.html) 
 

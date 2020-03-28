@@ -38,3 +38,19 @@ Altri materiali sono presenti su IOL
 ### Lezione del 16/03
 
 [Scolleghiamoci](http://www.cs.unibo.it/~renzo/csed/quattro.pdf)
+
+### Lezione del 20/03
+
+Costruzionismo e apprendimento creativo
+
+### Lezione del 23/03
+
+metodologie unplugged, algoritmi di ordinamento
+
+### Lezione del 27/03
+
+Pensiero computazionale e "coding" nelle Indicazioni Nazionali
+
+### Lezione del 30/03
+
+L'informatica nelle scuole secondarie superiori
