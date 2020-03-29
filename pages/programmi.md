@@ -1,9 +1,28 @@
 #Riflessioni sui *Programmi*
 
-Questa pagina contiene una (parziale) riflessione sui contenuti da svolgere nelle varie scuole e negli anni di corso.
 ##Tabella A-41
 
 ![A-41](images/Tabella_A41_2016.png)
+
+Altre note dalla *Supplemento ordinario alla “Gazzetta Ufficiale„ n. 43 del 22 febbraio 2016*:
+
+Con la laurea LM-18 Informatica si può accedere alle seguenti classi di concorsoi (oltre A-41):
+
+* A-26 Matematica (a patto di avere 80 crediti MAT)
+* A-40 Scienze e tecnologie elettriche e elettroniche (a patto di avere 12 crediti ING-INF e 36 ING-IND)
+* A-47 Matematica applicata:
+	* matematica a Liceo scientifico opzione scienze applicate
+	* matematica a Tecnico economico
+	* matematica a Proffessionale
+
+La LM-18 *non* dà accesso alla classe A-60 "Tecnologia nella scuola secondaria di primo grado".
+
+La classe A-66 "Trattamento testi" ex dattilografia-stenografia, alla quale si accedeva con un diploma di
+ragioneria (fortunatamente ad esaurimento) consente l'insegnamento di:
+
+* Tecnologie dell'informazione e della comunicazione negli istituti prof. rurale, industriale/artigianato
+* Informatica e Laboratorio negli istituti professionali per Serivizi commerciali
+* Informatica nel primo biennio degli istituti tecnici economici
 
 ##Informatica nelle scuole secondarie superiori
 
@@ -12,6 +31,8 @@ Questa pagina contiene una (parziale) riflessione sui contenuti da svolgere nell
 [Scuola secondaria di II grado in Italia](https://it.wikipedia.org/wiki/Scuola_secondaria_di_secondo_grado_in_Italia)
 
 [Quadri orari delle scuole secondarie superiori](https://www.orientamentoistruzione.it/_file/documenti/QUADRI_ORARI/MIUR-%20Scuola%20Secondaria-superiore.pdf)
+
+[Esami di Stato](https://www.istruzione.it/esame_di_stato/index.shtml)
 
 ##Licei
 
@@ -102,7 +123,11 @@ Quinto Anno:
 ###Tutti gli Indirizzi
 ![figura](images/Tecnici-tecninf.png)
 
-####prima: Tecnologia Informatica (3h)
+####prima: Tecnologie Informatiche (3h)
+
+![figura](images/tecnici-sta.png)
+
+####seconda: Scienze e Tecnologie Applicate (3h)
 
 ###Indirizzo Informatica e Telecomunicazioni. Articolazione: Informatica
 
@@ -150,13 +175,20 @@ Quinto Anno:
 ####seconda: Informatica e Laboratorio (2h)
 
 ###Settore Industria e Artigianato. Tutti gli indirizzi
+
 ![figura](images/Prof-tic-ind.png)
-![figura](images/Prof-tic-man.png)
+
 
 ####prima: Tecnologie dell'informazione e della comunicazione (2h)
 ####seconda: Tecnologie dell'informazione e della comunicazione (2h)
 
 ###Settore Industria e Artigianato. Indirizzo: Manutenzione ed Assistenza Tecnica
+![figura](images/Prof-tic-man.png)
+
+####prima: Tecnologie dell'informazione e della comunicazione (2h)
+####seconda: Tecnologie dell'informazione e della comunicazione (2h)
+
+![figura](images/Prof-tti.png)
 
 ####terza: Tecnologie e tecniche di installazione (3h)
 ####quarta: Tecnologie e tecniche di installazione (5h)

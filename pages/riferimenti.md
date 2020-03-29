@@ -141,7 +141,7 @@ ACM ITiCSE
 
 # Curricula Universitati
 
-[ACM Curricula Recommendations](ihttps://www.acm.org/education/curricula-recommendations)
+[ACM Curricula Recommendations](https://www.acm.org/education/curricula-recommendations)
 
 # Altro
 [Renzo Davoli: Vergognatevi (errori Sintattici, Semantici e Metodologici delle domande di ''Cultura Digitale'' del Concorsone)](http://www.bononia.it/~renzo/vergogna.html) 
