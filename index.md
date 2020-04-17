@@ -60,3 +60,13 @@ La relazione da svolgere a gruppi, con scadenza 3 maggio 2020, 23:59, si trova s
 ### Lezione del 03/04
 
 Physical computing
+
+### Lezione del 06/04
+
+[Unità Didattica (UD), Obiettivi di apprendimento, Esame finale.](http://www.cs.unibo.it/~michael.lodi2/csed/2020-04-06-obiettivi-ud-esamefinale.pdf)
+
+Ulteriore materiale per l'esame finale presente su IOL.
+
+### Lezione del 17/04
+
+Discussione su proposte degli studenti per UD esame finale
