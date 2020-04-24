@@ -104,6 +104,7 @@ La variabile ```i``` è  _______________
 Una variabile è un *precedente* se contiene il valore di un'altra variabile nel momento in cui quest'ultima assume un nuovo valore (e dunque ricorda il valore precedente di quest'ultima)
 
 ```python
+#Da un'idea di Dario Malchiodi
 prev_fibo = 0
 fibo = 1
 conta = 2
