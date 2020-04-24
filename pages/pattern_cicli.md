@@ -33,7 +33,7 @@ per i che varia tra i valori estremi degli indici di c: # (es tra 0 e len(c))
 _Esempio._ Scrivere una funzione che _stampa a video_, su linee separate, tutti gli elementi di una collezione
 
 
-```
+```python
 #con iteratore
 def stampa_it(c):
   for e in c:
@@ -61,7 +61,7 @@ _Esempio._ Scrivere una funzione che _stampa a video_, su linee separate, **le l
 
 
 
-```python3
+```python
 def inversione(s):
   for i in range(len(s), 0, -1): # i varia tra len(s) (compreso) e 0 (escluso): [len(s), 0[
     print(s[i-1]) #mentre gli indici del vettore variano tra ]len(s), 0], per questo devo fare i-1
@@ -72,7 +72,7 @@ inversione('ciao')
 _Esempio._ Scrivere una funzione Python che *stampa a video*, su linee separate, **le vocali** di una stringa passata come parametro.
 
 
-```python3
+```python
 def stampa_vocale(s):
   vocali = 'aeiouAEIOU'
   for l in s:
@@ -86,7 +86,7 @@ Python permette di iterare sugli elementi di una stringa con il costrutto for (`
 In alternativa possiamo accedere a ciascun carattere con il suo indice
 
 
-```
+```python
 def stampa_vocale(s):
   vocali = 'aeiouAEIOU'
   for i in range(len(s)): #range(len(s)) indica [0, len(s)[
@@ -118,7 +118,7 @@ _Esempio._ Scrivere una funzione che **restituisce la lunghezza di una sequenza*
 
 
 
-```python3
+```python
 def lunghezza(seq):
   accumulatore = 0 # perchè inizializziamo a 0? perché non dovremmo? -ml
   for e in seq:
@@ -131,7 +131,7 @@ print(lunghezza('ciao'))
 _Esempio._ Scrivere una funzione che _stampa a video_ **il numero di vocali** di una stringa passata come parametro.
 
 
-```python3
+```python
 def stampa_n_vocali(s):
   vocali = 'aeiouAEIOU' # si potrebbe voler considerare anche le vocali accentate
   n_vocali = 0
@@ -146,7 +146,7 @@ stampa_n_vocali('ciao')
 _Esempio._ Scrivere una funzione Python che *restituisce* **una stringa contenente le vocali** di una stringa passata come parametro.
 
 
-```python3
+```python
 def vocali(s):
   vocali='aeiouAEIOU'
   vocali_in_s = ''
@@ -202,7 +202,7 @@ Senza questa assuzione, nel caso in cui ``i == lunghezza(c)``, continuando a val
 _Esempio._ Definire una funzione Python che **restituisce ``True`` se un elemento** (fornito come parametro) **si trova in una collezione** (fornita come parametro). Servirsi di un ciclo che processa gli elementi della collezione, fornendo una strategia per l'uscita dal ciclo nel caso l'elemento obiettivo della ricerca venga trovato prima del termine della scansione.
 
 
-```python3
+```python
 def ricerca_lineare(elem , seq):
   for e in seq:
     if e == elem:
@@ -259,7 +259,7 @@ NB: Si assume la valutazione "lazy"...
 _Esempio._ Modificare la soluzione precedente in modo da gestire il caso in cui l'obiettivo della ricerca **non venga trovato** nella collezione, trattandolo come un caso particolare.
 
 
-```python3
+```python
 def ricerca_lineare(elem, seq):
   for e in seq:
     if e == elem:
@@ -270,7 +270,7 @@ def ricerca_lineare(elem, seq):
 Analogamente, una possibile soluzione che utilizza il costrutto `while` sarà così definita:
 
 
-```python3
+```python
 def ricerca_lineare_while(elem, seq):
   i = 0
   while i < len(seq):
@@ -283,7 +283,7 @@ def ricerca_lineare_while(elem, seq):
 O, più compattamente:
 
 
-```python3
+```python
 def ricerca_lineare_while(elem, seq):
   i = 0
   while i < len(seq) and seq[i] != elem:
@@ -295,7 +295,7 @@ _Esempio._ Scrivere una funzione che restituisce ``True`` se il numero ``n`` pas
 Si tratta dell'algoritmo "ovvio", e corrisponde alla ricerca di un divisore per ``n`` tra i numeri minori di ``n``. 
 
 
-```python3
+```python
 def primo(n): #supponiamo n>1
   for i in range(2,n): #in realtà basta arrivare a sqrt(n)
     if n % i == 0: # n è divisibile per i
@@ -325,7 +325,7 @@ finché valore != sentinella:
 _Esempio._ Scrivere un programma che richiede in input i voti (da 1 a 10) di uno studente, li stampa (scansione semplice), li somma (scansione con accumulo) e termina quando l'utente inserisce il numero 0.
 
 
-```python3
+```python
 somma = 0
 voto = int(input("Inserisci un voto (intero, da 1 a 10): "))
 while voto!= 0:
@@ -351,7 +351,7 @@ finché valore non valido:
 _Esempio._ Scrivere un programma che chiede all'utente di inserire un voto. Il programma verifica che sia compreso tra 1 e 10 (estremi inclusi): se non lo è, richiede nuovamente l'inserimento e continua così finché non viene inserito un voto "valido".
 
 
-```python3
+```python
   voto = float(input("Inserisci un voto (da 1 a 10): "))
   while (voto < 1 or voto > 10):
     print("Il voto deve essere compreso tra 1 e 10")
@@ -366,3 +366,5 @@ _Esempio._ Scrivere un programma che chiede all'utente di inserire un voto. Il p
 2. [Philip Guo - Python Tutor](http://pythontutor.com/visualize.html)
 3. [Wikipdia - Design pattern](https://it.wikipedia.org/wiki/Design_pattern)
 4. [Michael J. Clancy and Marcia C. Linn. 1999. Patterns and pedagogy. SIGCSE Bull. 31, 1](https://doi.org/10.1145/384266.299673)
+
+*Grazie a Simone Martini e Stefano Pio Zingaro per i contributi al miglioramento di questa pagina*

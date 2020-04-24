@@ -1,20 +1,21 @@
 # Ruoli delle variabili
 
-<!-- Gli studi sui ruoli delle variabili sono di [omissis...]. Questa pagina è ispirata al materiale presente [qui](). -->
+Gli studi sui ruoli delle variabili sono di [Jorma Sajaniemi](http://saja.kapsi.fi/) e colleghi
+. Questa pagina è ispirata al materiale presente [qui](http://saja.kapsi.fi/var_roles/).
 
 I ruoli delle variabili sono usi tipici dei che le variabili hanno nei programmi.
 
-Secondo i ricercatori che li propongono, i seguenti ruoli coprono il 99% dei programmi semplici. <!--[].-->
+[Secondo](http://www.cs.joensuu.fi/~saja/var_roles/abstracts/cse05.pdf) i ricercatori che li propongono, i seguenti ruoli coprono il 99% dei programmi semplici.
 
 Non suggeriamo di insegnare i ruoli in astratto, quanto di farli osservare (e nominarli) esplicitamente quando si incontrano istanze concrete della loro applicazione.
-<!--Maggiori informazioni sull'uso dei ruoli può essere trovato [qui]().-->
+Maggiori informazioni sull'uso dei ruoli nella didattica può essere trovato [qui](http://saja.kapsi.fi/var_roles/teaching.html).
 
-*NB: svolgere gli esercizi di completamento solo dopo aver letto tutti i ruoli.*
+*NB: svolgere gli **esercizi di completamento** indicati sotto ciascun ruolo solo dopo aver letto tutti i ruoli.*
 
 ## Valore fissato
 Una variabile assume il ruolo di "valore fissato" se il suo valore non viene modificato a runtime, **dopo l'inizializzazione**. 
 
-```python3
+```python
 pigreco = 3.14
 r = float(input("Inserisci il raggio:"))
 vol = (4/3)*pigreco*(r**3)
@@ -29,10 +30,10 @@ Cosa fa il programma? ________________
 
 Il contatore/indice serve per scorreere una succesisone di vaori in modo sistematico. Può anche essere usato per contare o come indice di un array/lista.
 
-```python3
+```python
 n = int(input("Di che numero vuoi la tabellina?:"))
 fattore = 0
-while fattore<11:
+while fattore < 11:
     print(n,"x",fattore,"=",n*fattore)
     fattore += 1
 ```
@@ -44,7 +45,7 @@ Cosa fa il programma? ________________
 
 Una variabile è un **valore più recente** se contiene il più recente valore che posseggo di una certa sequenza o input.
 
-```python3
+```python
 voto = float(input("Inserisci un voto (da 1 a 10): "))
 while (voto < 1 or voto > 10):
     print("Il voto deve essere compreso tra 1 e 10")
@@ -59,7 +60,7 @@ Cosa fa il programma? ________________
 
 Si tratta del "miglior" valore che ho trovato fino a questo momento.
 
-```python3
+```python
 L = [3, 1, 4, 10, 2, 7]
 massimo = L[0]
 for e in L[1:]:
@@ -77,7 +78,7 @@ Cosa fa il programma? ________________
 ## Accumulatore
 Un accumulatore accumula tutti i valori che ho trovato fino a questo momento. Solitamente, va inizializzato con l'elemento neutro dell'operazione di accumulazione (es. 0 se somma, 1 se prodotto, collezione vuota se collezione, stringa vuota, True o False...).
 
-```python3
+```python
 s = 0
 n = 0
 i = int(input("Pioggia caduta: "))
@@ -102,7 +103,7 @@ La variabile ```i``` è  _______________
 ## Precedente
 Una variabile è un *precedente* se contiene il valore di un'altra variabile nel momento in cui quest'ultima assume un nuovo valore (e dunque ricorda il valore precedente di quest'ultima)
 
-```python3
+```python
 prev_fibo = 0
 fibo = 1
 conta = 2
@@ -123,7 +124,7 @@ Cosa fa il programma? ________________
 Un flag unidirezionale è un booleano che può essere cambiata una sola volta, dopodiché non può più essere riportata al suo valore originale (è "write once").
 
 
-```python3
+```python
 s = "Michael Lodi"
 spazio = False
 vocali = 0
@@ -147,7 +148,7 @@ Cosa fa il programma? ________________
 
 Una variabile è temporanea se il suo valore è utilizzato soltanto per un breve periodo di tempo [e solo per calcoli intermedi], come ad esempio lo scambio di variabili. Si usa anche per ragioni di efficienza (memorizzare un valore che andrebbe ricalcolato più volte) o per rendere più leggibile un programma.
 
-```python3
+```python
 M = [[1,2,3],[4,5,6]]
 MT = []
 r = len(M)
@@ -174,7 +175,7 @@ Cosa fa il programma? ________________
 
 Un attraversatore serve per scorrere gli elementi di una struttura dati (ad esempio in un "foreach")
 
-```python3
+```python
 class Nodo:
     def __init__(self, valore=None, succ=None):
         self.valore = valore
@@ -194,6 +195,9 @@ print()
 La variabile ```p``` è un **attraversatore**
 La variabile ```LL``` è  _______________
 Cosa fa il programma? ________________
+
+
+
 
 
 Altri ruoli, che non studiamo oggi, sono:
