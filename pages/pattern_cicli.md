@@ -30,6 +30,14 @@ per i che varia tra i valori estremi degli indici di c: # (es tra 0 e len(c))
    incrementa o decrementa i
 ```
 
+Con indici e while
+```
+i = uno dei valori estremi di c
+finché i minore di uno dei valori estremi degli indici di c: # (es tra 0 e len(c))
+   processa c[i]
+   incrementa o decrementa i
+```
+
 _Esempio._ Scrivere una funzione che _stampa a video_, su linee separate, tutti gli elementi di una collezione
 
 
@@ -359,7 +367,7 @@ _Esempio._ Scrivere un programma che chiede all'utente di inserire un voto. Il p
 ```
 
 # Esercizio
-* Per ogni pattern, individuare un esempio (diverso da quelli già presentati e possibilmente non ovvio) di applicazione del pattern, e scrivere il codice Python corrispondente.
+* Per ogni pattern, individuare un esempio (diverso da quelli già presentati e possibilmente non troppo ovvio) di applicazione del pattern, e scrivere il codice Python corrispondente.
 
 # Riferimenti Bibliografici
 1. [Owen Astrachan & Eugene Wallingford - Loop Patterns](http://www.cs.uni.edu/~wallingf/patterns/loops.html)
