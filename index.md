@@ -88,4 +88,6 @@ Esercizi:
 
 ### Lezione del 27/04
 
-- esercizio sui [pattern elementari](pages/pattern_cicli.md)
+Esercizio sui [pattern elementari](pages/pattern_cicli.md)
+
+[Tutte le slide su didattica della programmazione](http://www.cs.unibo.it/~michael.lodi2/csed/2020-04-20-24-27_didattica_programmazione.pdfs)
