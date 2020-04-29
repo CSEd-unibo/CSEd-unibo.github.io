@@ -369,10 +369,93 @@ _Esempio._ Scrivere un programma che chiede all'utente di inserire un voto. Il p
 # Esercizio
 * Per ogni pattern, individuare un esempio (diverso da quelli già presentati e possibilmente non troppo ovvio) di applicazione del pattern, e scrivere il codice Python corrispondente.
 
+## Possibile soluzione
+Questi esempi sono certamente "non ovvi", alcuni ovviamente non vanno bene per studenti che stanno appena iniziando a programmare.
+
+
+### Scansione lineare *semplice*
+```python
+def mappa(f,S):
+    """data una funzione f e una sequenza mutabile f, applica f ad ogni elemento di S"""
+    for i in range(len(S)):
+        S[i] = f(S[i])
+
+def raddoppia(e):
+    return e * 2
+
+S = [1,2,3]
+mappa(raddoppia,S)
+print(S)
+S = ['a','b','c']
+mappa(raddoppia,S)
+print(S)
+```
+
+### Scansione lineare con accumulo
+```python
+'''Verificare se randint(0,1) è bilanciata'''
+lanci = 10**6
+teste = 0
+i = 0
+from random import randint
+while i < lanci:
+    teste += randint(0,1)
+    i += 1
+print(teste,lanci//2)
+```
+
+### Ricerca lineare certa
+```python
+#cerca il prossimo anno bisestile!
+
+from calendar import isleap
+from datetime import datetime
+
+anno = datetime.today().year + 1 #prossimo anno
+
+while not isleap(anno):
+    anno += 1
+print(anno)
+```
+
+### Ricerca lineare incerta
+```python
+def sequenza_numerica(S):
+    """True sse S è una sequenza di tutti numeri (int, float, complex)"""
+    for e in S:
+        if type(e) not in (int, float, complex):
+            return False
+    return True
+```
+
+### Scansione lineare (semplice o con accumulo) fino all'arrivo di una sentinella
+```python
+"""Quante estrazioni ci metto ad estrarre 42"""
+from random import randint
+r = randint(0,100)
+i = 1
+while r != 42:
+    r = randint(0,100)
+    i += 1
+print("Ho usato", i, "estrazioni per ottenere 42")
+```
+
+### Lettura in input fino a che non si riceve il valore desiderato
+```python
+from ast import literal_eval
+#più sicuro di eval
+
+tupla = literal_eval(input("Inserisci una tupla numerica, separata da virgole: "))
+while not sequenza_numerica(tupla):
+    print("La tupla deve essere una sequenza numerica")
+    tupla = literal_eval(input("Inserisci una tupla numerica, separata da virgole: "))
+print(tupla)
+```
+
 # Riferimenti Bibliografici
 1. [Owen Astrachan & Eugene Wallingford - Loop Patterns](http://www.cs.uni.edu/~wallingf/patterns/loops.html)
 2. [Philip Guo - Python Tutor](http://pythontutor.com/visualize.html)
 3. [Wikipdia - Design pattern](https://it.wikipedia.org/wiki/Design_pattern)
 4. [Michael J. Clancy and Marcia C. Linn. 1999. Patterns and pedagogy. SIGCSE Bull. 31, 1](https://doi.org/10.1145/384266.299673)
 
-*Grazie a Simone Martini e Stefano Pio Zingaro per i contributi al miglioramento di questa pagina*
+*Grazie a Simone Martini e Stefano Pio Zingaro per i contributi al miglioramento di questa pagina e per alcuni esempi.*
