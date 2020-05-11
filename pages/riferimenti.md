@@ -105,6 +105,8 @@ Il tema trattato e' lo stesso della TED conference precedente ma viene usato lo 
 
 [Computer Science (crash course)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) Una collezione di 17 videolezioni. Carrie Anne Philbin (la stessa che ha creato i Geek Gurl Diaries).
 
+[NESTA Next Gen.](https://www.nesta.org.uk/report/next-gen) Un report delle aziende specializzate in videogiochi e effetti video in U.K.: la scuola non fornisce piu' le competenze dell'informatica, occorre un cambiamento.
+
 # Testi
 
 Clifford Stoll: ''High Tech Heretic: Why Computers Don't Belong in the Classroom and Other Reflections by a Computer Contrarian'' Bantam Doubleday Dell Publishing Group, 1999 (In Italiano: ''Confessioni di un eretico high-tech, Perché i computer nelle scuole non servono e altre considerazioni sulle nuove tecnologie'', Garzanti libri 2001) Importante riflessione sui limiti del mito della tecnologia nelle scuole.

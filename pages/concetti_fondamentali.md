@@ -37,7 +37,7 @@ Sono essenzialmente tre:
 
 ###Cos'&egrave; un Linguaggio?
 
-È una quadrupla: alfabeto, lessico, sintassi, semantica. L'alfabeto è un insieme di simboli, la sintassi è un insieme formato da sequenze finite (stringhe) di caratteri dell'alfabeto (insieme delle parole del linguaggio), la sintassi è un insieme formato da stringhe parole del linguaggio (insieme delle frasi del linguaggio), la semantica è una funzione che associa ad ogni frase una azione o un oggetto.
+È una quadrupla: alfabeto, lessico, sintassi, semantica. L'alfabeto è un insieme di simboli, il lessico è un insieme formato da sequenze finite (stringhe) di caratteri dell'alfabeto (insieme delle parole del linguaggio), la sintassi è un insieme formato da stringhe parole del linguaggio (insieme delle frasi del linguaggio), la semantica è una funzione che associa ad ogni frase una azione o un oggetto.
 
 ###Quali linguaggi studia l'informatica?
 
