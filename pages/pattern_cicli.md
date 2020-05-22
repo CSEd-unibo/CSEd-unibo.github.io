@@ -366,14 +366,14 @@ _Esempio._ Scrivere un programma che chiede all'utente di inserire un voto. Il p
     voto = float(input("Inserisci un voto (da 1 a 10): "))
 ```
 
-# Esercizio
+## Esercizio
 * Per ogni pattern, individuare un esempio (diverso da quelli già presentati e possibilmente non troppo ovvio) di applicazione del pattern, e scrivere il codice Python corrispondente.
 
-## Possibile soluzione
+### Possibile soluzione
 Questi esempi sono certamente "non ovvi", alcuni ovviamente non vanno bene per studenti che stanno appena iniziando a programmare.
 
 
-### Scansione lineare *semplice*
+#### Scansione lineare *semplice*
 ```python
 def mappa(f,S):
     """data una funzione f e una sequenza mutabile f, applica f ad ogni elemento di S"""
@@ -391,7 +391,7 @@ mappa(raddoppia,S)
 print(S)
 ```
 
-### Scansione lineare con accumulo
+#### Scansione lineare con accumulo
 ```python
 '''Verificare se randint(0,1) è bilanciata'''
 lanci = 10**6
@@ -404,7 +404,7 @@ while i < lanci:
 print(teste,lanci//2)
 ```
 
-### Ricerca lineare certa
+#### Ricerca lineare certa
 ```python
 #cerca il prossimo anno bisestile!
 
@@ -418,7 +418,7 @@ while not isleap(anno):
 print(anno)
 ```
 
-### Ricerca lineare incerta
+#### Ricerca lineare incerta
 ```python
 def sequenza_numerica(S):
     """True sse S è una sequenza di tutti numeri (int, float, complex)"""
@@ -428,7 +428,7 @@ def sequenza_numerica(S):
     return True
 ```
 
-### Scansione lineare (semplice o con accumulo) fino all'arrivo di una sentinella
+#### Scansione lineare (semplice o con accumulo) fino all'arrivo di una sentinella
 ```python
 """Quante estrazioni ci metto ad estrarre 42"""
 from random import randint
@@ -440,7 +440,7 @@ while r != 42:
 print("Ho usato", i, "estrazioni per ottenere 42")
 ```
 
-### Lettura in input fino a che non si riceve il valore desiderato
+#### Lettura in input fino a che non si riceve il valore desiderato
 ```python
 from ast import literal_eval
 #più sicuro di eval
@@ -452,7 +452,7 @@ while not sequenza_numerica(tupla):
 print(tupla)
 ```
 
-# Riferimenti Bibliografici
+## Riferimenti Bibliografici
 1. [Owen Astrachan & Eugene Wallingford - Loop Patterns](http://www.cs.uni.edu/~wallingf/patterns/loops.html)
 2. [Philip Guo - Python Tutor](http://pythontutor.com/visualize.html)
 3. [Wikipdia - Design pattern](https://it.wikipedia.org/wiki/Design_pattern)

@@ -91,3 +91,17 @@ Esercizi:
 Esercizio sui [pattern elementari](pages/pattern_cicli.md)
 
 [Tutte le slide su didattica della programmazione](http://www.cs.unibo.it/~michael.lodi2/csed/2020-04-20-24-27_didattica_programmazione.pdf)
+
+### Lezione del 04/05
+
+Il ruolo del laboratorio
+
+### Lezione del 08/05
+
+Software con licenza di… non uccidere la libertà
+
+### Lezione dell'11/05
+
+[Solo Software Libero nella scuola!](pages/libreswatschool.md)
+
+Discussione sull'esame finale
