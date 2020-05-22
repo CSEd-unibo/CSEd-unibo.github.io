@@ -94,11 +94,13 @@ Esercizio sui [pattern elementari](pages/pattern_cicli.md)
 
 ### Lezione del 04/05
 
-Il ruolo del laboratorio
+[Il ruolo del laboratorio](http://www.cs.unibo.it/~renzo/csed/quindici.pdf)
+
+[Il Ristorante Brachetti](http://www.cs.unibo.it/~renzo/csed/ristorante.pdf)
 
 ### Lezione del 08/05
 
-Software con licenza di… non uccidere la libertà
+[Software con licenza di… non uccidere la libertà](http://www.cs.unibo.it/~renzo/csed/sedici.pdf)
 
 ### Lezione dell'11/05
 
