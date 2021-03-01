@@ -224,3 +224,5 @@ nel quale Aica supera abbondantemente il limite del ridicolo affermando che con 
 
 [Program or be programmed](https://www.youtube.com/watch?v=imV3pPIUy1k)  Video di Rushkoff. Tratta di temi del libro con lo stesso titolo.
 
+[Wiki del corso A.A. 19/20](../index1920.md)
+
