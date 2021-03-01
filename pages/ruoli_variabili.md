@@ -23,12 +23,12 @@ print("Il volume della sfera è", vol)
 ```
 
 Sia la variabile ```pigreco``` che ```r``` sono dei **valori fissati**
-La variabile ```vol``` è  [una variabile temporanea]
-Cosa fa il programma? [Restituisce il volume di una sfera di raggio preso in input]
+La variabile ```vol``` è  _______________
+Cosa fa il programma? ________________
 
 ## Contatore o Indice
 
-Il contatore/indice serve per scorrere una succesisone di vaori in modo sistematico. Può anche essere usato per contare o come indice di un array/lista.
+Il contatore/indice serve per scorreere una succesisone di vaori in modo sistematico. Può anche essere usato per contare o come indice di un array/lista.
 
 ```python
 n = int(input("Di che numero vuoi la tabellina?:"))
@@ -38,8 +38,8 @@ while fattore < 11:
     fattore += 1
 ```
 La variabile ```fattore``` è un contatore/indice.
-La variabile ```n``` è  [un valore fissato]
-Cosa fa il programma? [Stampa la tabellina di n da nx0 a nx10]
+La variabile ```n``` è  _______________
+Cosa fa il programma? ________________
 
 ## Valore più recente
 
@@ -54,7 +54,7 @@ print(voto)
 ```
 
 La variabile ```voto``` è un **valore più recente**.
-Cosa fa il programma? [Richiede in input un voto, finché l'utente non inserisce un valore legale (cioè voto >= 1 e <= 10)]
+Cosa fa il programma? ________________
 
 ## Valore più desiderato
 
@@ -70,9 +70,9 @@ print("Massimo: ", massimo)
 ```
 
 La variabile ```massimo``` è un **valore più desiderato**.
-La variabile ```L``` è  [un valore fissato]
-La variabile ```e``` è  [un attraversatore]
-Cosa fa il programma? [Trova e stampa il massimo di L]
+La variabile ```L``` è  _______________
+La variabile ```e``` è  _______________
+Cosa fa il programma? ________________
 
 
 ## Accumulatore
@@ -95,8 +95,9 @@ else:
 ```
 
 La variabile ```s``` è un **accumulatore**.
-La variabile ```n``` è  [un contatore o un accumulatore]
-La variabile ```i``` è  [un valore più recente]
+La variabile ```n``` è  _______________
+La variabile ```i``` è  _______________
+
 
 
 ## Precedente
@@ -115,9 +116,9 @@ while fibo < 4000000:
 print(conta)
 ```
 La variabile ```prev_fibo``` è un **precedente** della variabile ```fibo```
-La variabile ```conta``` è [un contatore]
-La variabile ```c``` è [una variabile temporanea (o, meno evidente, un accumulatore)]
-Cosa fa il programma? [Conta quanti numeri di Fibonacci sono < 4000000]
+La variabile ```conta``` è ______________
+La variabile ```c``` è ______________
+Cosa fa il programma? ________________
 
 ## Flag unidirezionale
 
@@ -139,10 +140,10 @@ if spazio:
 ```
 
 La variabile ```spazio``` è un **flag unidirezionale**
-La variabile ```vocali``` è  [un contatore]
-La variabile ```c``` è  [un attraversatore]
-La variabile ```s``` è  [un valore fissato]
-Cosa fa il programma? [Stampa il numero di vocali nella sringa s, e un messaggio se s contiene almeno uno spazio]
+La variabile ```vocali``` è  _______________
+La variabile ```c``` è  _______________
+La variabile ```s``` è  _______________
+Cosa fa il programma? ________________
 
 ## Temporanea
 
@@ -162,11 +163,11 @@ if r != 0:
 print(MT)
 ```
 Le variabili ```r``` e  ```c``` sono variabli **temporanee**
-Le variabili ```r``` e  ```c``` sono anche [valori fissati]
-Le variabili ```MT``` e ```col``` sono [accumulatori]
-La variabile ```col``` è anche [temporanea]
-Le variabili ```i``` e ```j``` sono [indici]
-Cosa fa il programma? [Stampa la trasposta della matrice M]
+Le variabili ```r``` e  ```c``` sono anche ________________
+Le variabili ```MT``` e ```col``` sono _______________
+La variabile ```col``` è anche _______________
+Le variabili ```i``` e ```j``` sono _______________
+Cosa fa il programma? ________________
 
 
 
@@ -193,8 +194,9 @@ print()
 ```
 
 La variabile ```p``` è un **attraversatore**
-La variabile ```LL``` è  [un valore fissato]
-Cosa fa il programma? [Scorre e stampa tutti i valori della Linked List LL]
+La variabile ```LL``` è  _______________
+Cosa fa il programma? ________________
+
 
 
 
