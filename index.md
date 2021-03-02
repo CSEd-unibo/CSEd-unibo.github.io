@@ -9,6 +9,14 @@ Docenti: Renzo Davoli e Michael Lodi
 [La classe virtuale per seguire le lezioni](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmQzYzZiMTgtYWI3Yi00NmY2LWJmYjEtNzliNGRjNjg2MGE2%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%22080683d2-51aa-4842-aa73-291a43203f71%22%7d)
 
 ### Lezione del 02/03
+
+[Lezione Zero: cosa non è l'Informatica](http://cs.unibo.it/~renzo/csed21/zero21.pdf)
+
+[Didattica e didattica dell'Informatica](http://www.cs.unibo.it/~michael.lodi2/csed2021/00didatticaeinformatica.pdf)
+
+Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=it) è il Ted talk più visto in assoluto, e uno dei più divertenti.
+
+
 ### Lezione del 03/03
 ### Lezione del 09/03
 ### Lezione del 10/03
