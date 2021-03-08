@@ -16,8 +16,10 @@ Docenti: Renzo Davoli e Michael Lodi
 
 Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=it) è il Ted talk più visto in assoluto, e uno dei più divertenti.
 
-
 ### Lezione del 03/03
+
+[Lezione Uno: i linguaggi dell'Informatica](http://cs.unibo.it/~renzo/csed21/uno21.pdf)
+
 ### Lezione del 09/03
 ### Lezione del 10/03
 ### Lezione del 16/03
