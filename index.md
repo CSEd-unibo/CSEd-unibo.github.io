@@ -21,6 +21,11 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 [Lezione Uno: i linguaggi dell'Informatica](http://cs.unibo.it/~renzo/csed21/uno21.pdf)
 
 ### Lezione del 09/03
+
+[Bottom up vs. Top down, Scratch vs. Code.org](http://www.cs.unibo.it/~michael.lodi2/csed2021/02bottomtop.pdf)
+
+Confronto tra Scratch e Code.org, a coppie. Su Virtuale.
+
 ### Lezione del 10/03
 ### Lezione del 16/03
 ### Lezione del 17/03
