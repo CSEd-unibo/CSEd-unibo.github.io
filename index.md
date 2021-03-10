@@ -8,6 +8,8 @@ Docenti: Renzo Davoli e Michael Lodi
 
 [La classe virtuale per seguire le lezioni](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmQzYzZiMTgtYWI3Yi00NmY2LWJmYjEtNzliNGRjNjg2MGE2%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%22080683d2-51aa-4842-aa73-291a43203f71%22%7d)
 
+M. Lodi (2020). [Introducing Computational Thinking in K-12 Education: Historical, Epistemological, Pedagogical, Cognitive, and Affective Aspects](http://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf). Tesi di dottorato.
+
 ### Lezione del 02/03
 
 [Lezione Zero: cosa non è l'Informatica](http://cs.unibo.it/~renzo/csed21/zero21.pdf)
@@ -27,6 +29,15 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 Confronto tra Scratch e Code.org, a coppie. Su Virtuale.
 
 ### Lezione del 10/03
+
+V. Lonati. [Principi per un apprendimento significativo](http://lonati.di.unimi.it/3-PrincipiApprendimentoSignificativo.pdf)
+
+[Paradigmi e teorie dell'apprendimento (gli "-ismi")](http://www.cs.unibo.it/~michael.lodi2/csed2021/02bottomtop.pdf)
+
+Studiare la sezione [3.1 da Lodi (2020)](http://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf)
+
+Attività di riflessione "Gli ingranaggi della vostra infanzia", su Virtuale.
+
 ### Lezione del 16/03
 ### Lezione del 17/03
 ### Lezione del 23/03
