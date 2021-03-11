@@ -32,7 +32,7 @@ Confronto tra Scratch e Code.org, a coppie. Su Virtuale.
 
 V. Lonati. [Principi per un apprendimento significativo](http://lonati.di.unimi.it/3-PrincipiApprendimentoSignificativo.pdf)
 
-[Paradigmi e teorie dell'apprendimento (gli "-ismi")](http://www.cs.unibo.it/~michael.lodi2/csed2021/02bottomtop.pdf)
+[Paradigmi e teorie dell'apprendimento (gli "-ismi")](http://www.cs.unibo.it/~michael.lodi2/csed2021/03paradigmi.pdf)
 
 Studiare la sezione [3.1 da Lodi (2020)](http://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf)
 
