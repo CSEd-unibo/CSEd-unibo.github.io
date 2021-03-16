@@ -39,6 +39,9 @@ Studiare la sezione [3.1 da Lodi (2020)](http://amsdottorato.unibo.it/9188/1/Tes
 Attività di riflessione "Gli ingranaggi della vostra infanzia", su Virtuale.
 
 ### Lezione del 16/03
+
+[Lezione Quattro: scolleghiamoci](http://cs.unibo.it/~renzo/csed21/quattro21pdf)
+
 ### Lezione del 17/03
 ### Lezione del 23/03
 ### Lezione del 24/03
