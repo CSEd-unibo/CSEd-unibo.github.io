@@ -4,8 +4,11 @@ Questa pagina sarebbe da riordinare e aggiornare...
 
 [Dal sito di Michael Lodi](https://lodi.ml/risorse/) Raccolta sparsa di riferimenti, adatti soprattutto a insegnanti di scuola primaria e "medie", o per chi vuole introdurre la programmazione (specialmente con Scratch) con appraccio creativo. Contiene anche riferimenti più teorici sul pensiero computazionale.
 
-[Computer Science Curricula 2013](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) Per chi si domandasse cosa sia informatica e cosa no, questo rapporto finale di un gruppo congiunto IEEE/ACM stabilisce i contenuti dei corsi di laurea in Informatica.
+[Computer Science Curricula 2013](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) 
+Per chi si domandasse cosa sia informatica e cosa no, questo rapporto finale di un gruppo congiunto IEEE/ACM stabilisce i contenuti dei corsi di laurea in Informatica.
 Sono contenuti a livello universitario, non per la scuola secondaria (ma rendono chiara la definizione della materia da insegnare)
+
+[Computing Curricula 2020 - CC2020](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf) Altro documento co-firmato ACM-IEEE, fornisce una visione più ampia dei vari curricula correlati all'informatica.
 
 [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)  articolo fondamentale di Jeannette Wing 2006 (perche' e' importante ragionare in modo informatico, e come questo aiuta ad affrontare meglio i problemi di tutti i giorni)
 
@@ -20,7 +23,7 @@ Sono contenuti a livello universitario, non per la scuola secondaria (ma rendono
 [Computer Science Field Guide Online Textbook](http://www.cosc.canterbury.ac.nz/csfieldguide/) 
 Tim Bell (lo stesso di csunplugged sopra) ha portato l'esperienza di csunplugged nella didattica per le scuole superiori. 
 
-[Tabela Dinamica Italiano](http://www.ufrgs.br/soft-livre-edu/wiki/Tabela_Dinamica_Italiano_16/01/2015) : enorme catalogo di software libero per la didattica (il catalogo e' stato realizzato da un gruppo di studio brasiliano)
+[Tabela Dinamica Italiano](https://www.ufrgs.br/soft-livre-edu/wiki/Tavola_dinamica_software_per_l%E2%80%99educazione_liberi) : enorme catalogo di software libero per la didattica (il catalogo e' stato realizzato da un gruppo di studio brasiliano)
 
 [Scratch](http://scratch.mit.edu) 
 Strumento libero per imparare a programmare in modo grafico ed interattivo. Creato dall'MIT.

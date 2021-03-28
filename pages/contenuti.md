@@ -10,7 +10,7 @@ Eroi
 
 ##CLASSI DI APPLICAZIONI
 
-GUI
+GUI vs. CLI
 Word Processor (WYSIWYG e non, font tipografici)
 Foglio elettronico (cella, formule e dipendenza)
 Presentazione
@@ -37,7 +37,6 @@ Compilatori e Interpreti
 
 Script e Programmi
 
-Metodi:
 Pseudocodice;
 
 Concetti di programmazione:
@@ -52,6 +51,8 @@ Funzioni;
 Ricorsione;
 Moduli;
 Oggetti;
+Attributi:
+Metodi:
 Classi;
 Librerie
 
@@ -60,7 +61,8 @@ Tipi Elementari:
 int;
 float;
 char;
-unicode
+unicode;
+UTF
 
 Strutture Dati:
 scalari;
@@ -201,7 +203,7 @@ Loosely coupled multiprocessor: sistemi massicciamente paralleli.
 
 *(Attualita': approfondimento sulla struttura dei Data-Center)*
 
-##MACCHINE ASTRATTE, INGUAGGI FORMALI E CALCOLABILITA'
+##MACCHINE ASTRATTE, LINGUAGGI FORMALI E CALCOLABILITA'
 (ci sono argomenti adatti alle scuole superiori?)
 
 Stringhe, alfabeti, linguaggi, operazioni.
@@ -289,7 +291,7 @@ Vulnerabilità, rischi, attaccanti, exploit
 Crittografia (simmetrica, asimmetrica, firma eletronica)
 Autenticazione
 Autorizzazione e controllo di accesso
-Vulnerabilità del software (bug di progetto, errori di memoria, tempo autorizzazione-tempo uso, iniezione di codice)
+Vulnerabilità del software (bug di progetto, errori di memoria, buffer overflow, tempo autorizzazione-tempo uso, iniezione di codice) 
 Architetture di rete sicure (firewall, VPN)
 Sicurezza dei sistemi wireless
 Codice malevolo (virus, vermi, cavalli di troia, botnet e reti sotterranee, honeypot)
@@ -298,6 +300,7 @@ Ingegneria sociale (phishing)
 ##INGEGNERIA DEL SOFTWARE
 
 Design pattern: Model View Controller (MVC)
+Modelli a cascata e agile.
 Software testing
 
 ##USABILITA' E ACCESSIBILITA'
