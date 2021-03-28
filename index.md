@@ -38,15 +38,23 @@ Studiare la sezione [3.1 da Lodi (2020)](http://amsdottorato.unibo.it/9188/1/Tes
 
 Attività di riflessione "Gli ingranaggi della vostra infanzia", su Virtuale.
 
-### Lezione del 16/03
+### Lezione del 16/03 e del 17/03
 
 [Lezione Quattro: scolleghiamoci](http://cs.unibo.it/~renzo/csed21/quattro21.pdf)
 
-### Lezione del 17/03
 ### Lezione del 23/03
+
+[Costruzionismo, apprendimento creativo, LOGO](http://www.cs.unibo.it/~michael.lodi2/csed2021/06costruzionismo.pdf)
+
+Studiare le sezioni [3.2, 3.3, 3.4 da Lodi (2020)](http://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf)
+
 ### Lezione del 24/03
+
+[Pensiero Computazionale, “Coding”,Documenti nazionali](http://www.cs.unibo.it/~michael.lodi2/csed2021/07penscompcodingindicazioni.pdf)
+
+Studiare l'articolo ["Abbiamo davvero bisogno del pensiero computazionale?"](http://mondodigitale.aicanet.net/2017-5/articoli/MD72_02_abbiamo_davvero_bisogno_del_pensiero_computazionale.pdf)
+
 ### Lezione del 30/03
-### Lezione del 31/03
 ### Lezione del 07/04
 ### Lezione del 13/04
 ### Lezione del 14/04
