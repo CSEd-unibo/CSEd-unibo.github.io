@@ -55,7 +55,13 @@ Studiare le sezioni [3.2, 3.3, 3.4 da Lodi (2020)](http://amsdottorato.unibo.it/
 Studiare l'articolo ["Abbiamo davvero bisogno del pensiero computazionale?"](http://mondodigitale.aicanet.net/2017-5/articoli/MD72_02_abbiamo_davvero_bisogno_del_pensiero_computazionale.pdf)
 
 ### Lezione del 30/03
+
+L'informatica nelle scuole secondarie superiori (vedere le pagine Contenuti e Programmi scuola secondaria)
+
 ### Lezione del 07/04
+
+[Lezione sette: Fare e capire, o forse Fare è capire](http://cs.unibo.it/~renzo/csed21/sette21.pdf)
+
 ### Lezione del 13/04
 ### Lezione del 14/04
 ### Lezione del 20/04
