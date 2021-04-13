@@ -56,13 +56,18 @@ Studiare l'articolo ["Abbiamo davvero bisogno del pensiero computazionale?"](htt
 
 ### Lezione del 30/03
 
-L'informatica nelle scuole secondarie superiori (vedere le pagine Contenuti e Programmi scuola secondaria)
+L'informatica nelle scuole secondarie superiori (vedere le pagine [Contenuti](pages/contenuti.md) e [*Programmi* scuola secondaria](pages/programmi.md))
 
 ### Lezione del 07/04
 
 [Lezione sette: Fare e capire, o forse Fare è capire](http://cs.unibo.it/~renzo/csed21/sette21.pdf)
 
 ### Lezione del 13/04
+
+[Progettazione didattica, obiettivi di apprendimento, esame finale](http://www.cs.unibo.it/~michael.lodi2/csed2021/10obiettiviesame.pdf)
+
+[Su Virtuale](https://virtuale.unibo.it/course/view.php?id=17584#section-10) altro materiale (esempi, forum)
+
 ### Lezione del 14/04
 ### Lezione del 20/04
 ### Lezione del 21/04
