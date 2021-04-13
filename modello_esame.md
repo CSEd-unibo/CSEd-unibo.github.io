@@ -1,7 +1,7 @@
 ---
-title: Titolo Materiale Didattico (v. 0.8)
+title: Titolo Materiale Didattico (v. 0.9)
 author: Nome Cognome
-date: la data dell'esame orale
+date: 13/04/2021
 ---
 
 Esame di Didattica dell'Informatica, A.A. 2020/2021
@@ -22,11 +22,12 @@ l'attività?
 - Per la scuola dell'infanzia / primaria / scuole \"medie\" si può fare riferimento a una delle discipline nelle Indicazioni Nazionali, nei Nuovi Scenari, e/o alla disciplina Informatica dalla Proposta CINI
 - Per le scuole secondarie di secondo grado (superiori), fare riferimento ai documenti ministeriali e/o alla Proposta CINI.
 
-Può essere---adattata---rivolta a studneti di diverse età e indirizzi?
+Può essere---adattata---rivolta a studenti di diverse età e indirizzi?
 
 
 ## Motivazione e Finalità
-Perché avete scelto di realizzare questa specifica attività, una sua brevissima descrizione generale
+Perché avete scelto di realizzare questa specifica attività
+Una sua brevissima descrizione generale
 
 ## Innovatività
 Perché questa proposta è innovativa? Cosa è già presente su questo tema nella ricerca in Didattica dell'Informatica o nelle risorse disponibili online?
@@ -51,7 +52,7 @@ E' possibile (ma non obbligatorio) organizzarli in termini di
 * traguardi di competenze
 * obiettivi di conoscenze e abilità
 
-Scrivere gli obiettivi basandosi su una tassonomia (es. Bloom rivisitata, Guerra-Frabboni-Arrigo, SOLO...)
+E' obbligatorio scrivere gli obiettivi di apprendimento specifici basandosi su una tassonomia (es. Bloom rivisitata, Guerra-Frabboni-Arrigo, SOLO...)
 
 ## Metodologie didattiche
 Elencare brevemente quali metodologie didattiche si utilizzano.
@@ -78,7 +79,7 @@ Deve contenere almeno:
 1. Materiale didattico per studenti
 2. Guida per gli insegnanti
     * Consigli su come utilizzare il materiale didattico. E' possibile inframezzarli al materiale didattico per studenti (in tal caso chiarire cosa è per l'insegnante e cosa viene dato agli studenti)
-    * Suggerimenti su come valutare il raggiungimento degli obiettivi (soprattutto valutazione formativa)
+    * Suggerimenti su come valutare il raggiungimento degli obiettivi di apprendimento da voi individuati (soprattutto valutazione formativa)
 
 # Bibliografia
 Citare le fonti utilizzate (si consiglia ad esempio bibtex o biblatex)
