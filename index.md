@@ -91,6 +91,11 @@ Esercizio sui [pattern elementari](pages/pattern_cicli.md)
 --->
 
 ### Lezione del 27/04
+
+Didattica della Architettura, dei Sistemi Operativi, delle Reti ....
+
+[Il Ristorante Brachetti](http://www.cs.unibo.it/~renzo/csed/ristorante.pdf)
+
 ### Lezione del 28/04
 ### Lezione del 04/05
 ### Lezione del 05/05
