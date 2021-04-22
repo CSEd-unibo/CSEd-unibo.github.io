@@ -84,11 +84,10 @@ Esercizi:
 - compeltamenti nei [ruoli delle variabili](pages/ruoli_variabili.md)
 
 ### Lezione del 21/04
-<!---
-Esercizio sui [pattern elementari](pages/pattern_cicli.md)
 
-[Tutte le slide su didattica della programmazione]()
---->
+[Tutte le slide su didattica della programmazione](http://www.cs.unibo.it/~michael.lodi2/csed2021/11didaprog.pdf)
+
+Esercizio sui [pattern elementari](pages/pattern_cicli.md) da consegnare su Virtuale
 
 ### Lezione del 27/04
 
