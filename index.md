@@ -95,8 +95,15 @@ Didattica della Architettura, dei Sistemi Operativi, delle Reti ....
 
 [Il Ristorante Brachetti](http://www.cs.unibo.it/~renzo/csed/ristorante.pdf)
 
+[Il ruolo del laboratorio](http://www.cs.unibo.it/~renzo/csed21/quattordici21.pdf)
+
 ### Lezione del 28/04
+(tace)
+
 ### Lezione del 04/05
+
+[Software con licenza di ...  non uccidere la libertà](http://www.cs.unibo.it/~renzo/csed21/quindici21.pdf)
+
 ### Lezione del 05/05
 ### Lezione del 11/05
 ### Lezione del 12/05
