@@ -97,16 +97,21 @@ Didattica della Architettura, dei Sistemi Operativi, delle Reti ....
 
 [Il ruolo del laboratorio](http://www.cs.unibo.it/~renzo/csed21/quattordici21.pdf)
 
-### Lezione del 28/04
-(tace)
-
 ### Lezione del 04/05
 
 [Software con licenza di ...  non uccidere la libertà](http://www.cs.unibo.it/~renzo/csed21/quindici21.pdf)
 
 ### Lezione del 05/05
+
+[Perché solo software libero nella scuola](pages/libreswatschool.md)
+
+Inizio di discussione dei progetti finali
+
 ### Lezione del 11/05
-### Lezione del 12/05
-### Lezione del 18/05
-### Lezione del 19/05
+
+[Valutazione degli apprendimenti (informatici)](http://www.cs.unibo.it/~michael.lodi2/csed2021/16valutazione.pdf)
+
+### Ricevimenti del 12/05, 18/05, 19/05
+
+Discussione progetti finali
 
