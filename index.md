@@ -8,11 +8,11 @@ Docenti: Renzo Davoli e Michael Lodi
 
 [La classe virtuale per seguire le lezioni](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZjZGQ3NGQtM2VjNC00MTEyLThjN2YtZjhjZDRlZDVlYzY2%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%221336b26d-f91b-4c13-a7f4-0e3924442a79%22%7d)
 
-## Testi di riferimento
+### Testi di riferimento
 
 M. Lodi (2020). [Introducing Computational Thinking in K-12 Education: Historical, Epistemological, Pedagogical, Cognitive, and Affective Aspects](http://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf). Tesi di dottorato. *Capitoli selezionati verranno assegnati da studiare*
 
-## Testi di approfondimento
+### Testi di approfondimento
 
 S. Grover. Computer Science in K-12: An A-To-Z Handbook on Teaching Programming. Edfinity, 2020. *Semplice ma completo*
 
