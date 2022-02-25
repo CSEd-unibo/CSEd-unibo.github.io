@@ -22,6 +22,13 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 24/02
 
+[Introduzione al corso, all'esame e al Prof. Davoli](http://cs.unibo.it/~renzo/csed22/intro22.pdf)
+
+[Introduzione al modulo 2 e al Prof. Lodi](https://www.cs.unibo.it/~michael.lodi2/csed2022/intro22_ML.pdf)
+
+[Lezione: cosa non è l'informatica](http://cs.unibo.it/~renzo/csed22/noinfo.pdf)
+
 ### Lezione del 25/02
 
+[Didattica, didattica dell'informatica, apprendimento significativo](https://www.cs.unibo.it/~michael.lodi2/csed2022/didattica_informatica_ML.pdf)
 
