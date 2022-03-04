@@ -41,6 +41,24 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 
 ### Lezione del 04/03
 
-Didattica della programmazione 1
+[Didattica della programmazione 1](https://www.cs.unibo.it/~michael.lodi2/csed2022/didattica_programmazone_ML_1.pdf)
 
-*Una versione **ridotta** delle slide di oggi è scaricabile* [qui](https://www.cs.unibo.it/~michael.lodi2/csed2022/didaprog1_handout.pdf). *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*
+- riordinare <a href="https://acos.cs.hut.fi/html/jsparsons/jsparsons-python-custom/exercise?name=Un%20programma...%20brutto!%20(da%20Violetta%20Lonati%2C%20UniMI)&initial=def%20brutto(x)%3A%5Cn%20%20%20%20c%20%3D%200%5Cn%20%20%20%20while%20x%20%3E%200%3A%5Cn%20%20%20%20%20%20%20%20a%20%3D%20x%20%25%2010%5Cn%20%20%20%20%20%20%20%20b%20%3D%201%20-%20a%252%5Cn%20%20%20%20%20%20%20%20c%20%2B%3D%20b%5Cn%20%20%20%20%20%20%20%20x%20%2F%2F%3D%2010%5Cn%20%20%20%20return%20c&instructions=-%20Riordinare%20le%20istruzioni%0D%0A-%20Pensare%20a%20dei%20nomi%20pi%C3%B9%20significativi%20per%20le%20variabili&description=Il%20programma%20deve%20calcolare%20il%20numero%20di%20cifre%20pari%20nel%20numero%20x">questo</a> programma affinché calcoli il numero di cifre pari in ```x```. Poi pensare a dei nomi più significativi per le variabili.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
+
+
