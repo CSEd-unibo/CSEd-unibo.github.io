@@ -16,7 +16,7 @@ M. Lodi (2020). [Introducing Computational Thinking in K-12 Education: Historica
 
 S. Grover. Computer Science in K-12: An A-To-Z Handbook on Teaching Programming. Edfinity, 2020. *Semplice ma completo*
 
-O. Hazzan, T. Lapidot, N. Ragonis. Guide to teaching computer science: An activity-based approach. Third Edition. Springer, 2020. [Liberamente scaricabile da rete UniBO](https://link.springer.com/book/10.1007/978-3-030-39360-1) *Più teorico*
+O. Hazzan, T. Lapidot, N. Ragonis. Guide to teaching computer science: An activity-based approach. Third Edition. Springer, 2020. [Liberamente scaricabile da rete UniBO](https://link.springer.com/book/10.1007/978-3-030-39360-1). *Più teorico*
 
 S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (Cambridge Handbooks in Psychology). Cambridge: Cambridge University Press, 2019. *Per approcciarsi alla ricerca in didattica. Completissimo*
 
@@ -32,3 +32,15 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 [Didattica, didattica dell'informatica, apprendimento significativo](https://www.cs.unibo.it/~michael.lodi2/csed2022/didattica_informatica_ML.pdf)
 
+
+### Lezione del 03/03
+
+Cosa non è l'informatica
+
+Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=it) è il Ted talk più visto in assoluto, e uno dei più divertenti.
+
+### Lezione del 04/03
+
+Didattica della programmazione 1
+
+*Una versione **ridotta** delle slide di oggi è scaricabile* [qui](https://www.cs.unibo.it/~michael.lodi2/csed2022/didaprog1_handout.pdf). *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*
