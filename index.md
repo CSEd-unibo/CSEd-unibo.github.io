@@ -49,6 +49,9 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 
 [I linguaggi dell'Informatica](http://cs.unibo.it/~renzo/csed22/linguaggi.pdf)
 
+[Esempi in linguaggio Python](esempi/esempi_python.md)
+[Esercizi di leettura in Python](esempi/lettura_python.md)
+
 ### Lezione del 11/03
 
 
