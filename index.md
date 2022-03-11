@@ -54,11 +54,15 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 
 ### Lezione del 11/03
 
+[Didattica della programmazione 2](https://www.cs.unibo.it/~michael.lodi2/csed2022/didattica_programmazone_ML_2.pdf)
 
+- diversi esempi di *program comprehension*. ([Attività su Virtuale](https://virtuale.unibo.it/mod/quiz/view.php?id=811706))
+- compeltamenti nei [ruoli delle variabili](pages/ruoli_variabili.md)
+- esempi di [pattern elementari](pages/pattern_cicli.md)
 
+[Informatica a scuola]()
 
-
-
+*Una versione **ridotta** delle slide di oggi è scaricabile* [qui](https://www.cs.unibo.it/~michael.lodi2/csed2022/infoscuola_handout.pdf). *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*
 
 
 
@@ -67,4 +71,6 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
+
+[comment]: # ( compito per casa sui pattern elementari e peer evaluation ([Attività su Virtuale](https://virtuale.unibo.it/course/view.php?id=25799#section-1) )
 

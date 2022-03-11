@@ -1,16 +1,16 @@
 # Ruoli delle variabili
 
-Gli studi sui ruoli delle variabili sono di [Jorma Sajaniemi](http://saja.kapsi.fi/) e colleghi
-. Questa pagina è ispirata al materiale presente [qui](http://saja.kapsi.fi/var_roles/).
+Gli studi sui ruoli delle variabili sono di [Jorma Sajaniemi](http://saja.kapsi.fi/) e colleghi. 
+Questa pagina è ispirata al materiale presente [qui](http://saja.kapsi.fi/var_roles/).
 
 I ruoli delle variabili sono usi tipici dei che le variabili hanno nei programmi.
 
-[Secondo](http://www.cs.joensuu.fi/~saja/var_roles/abstracts/cse05.pdf) i ricercatori che li propongono, i seguenti ruoli coprono il 99% dei programmi semplici.
+[Secondo](https://web.archive.org/web/20170809094739id_/http://cs.joensuu.fi/~saja/var_roles/abstracts/cse05.pdf) i ricercatori che li propongono, i seguenti ruoli coprono il 99% dei programmi semplici.
 
 Non suggeriamo di insegnare i ruoli in astratto, quanto di farli osservare (e nominarli) esplicitamente quando si incontrano istanze concrete della loro applicazione.
 Maggiori informazioni sull'uso dei ruoli nella didattica può essere trovato [qui](http://saja.kapsi.fi/var_roles/teaching.html).
 
-*NB: svolgere gli **esercizi di completamento** indicati sotto ciascun ruolo solo dopo aver letto tutti i ruoli.*
+*NB: svolgere gli **esercizi di completamento** indicati sotto ciascun ruolo **solo dopo aver letto tutti i ruoli**.*
 
 ## Valore fissato
 Una variabile assume il ruolo di "valore fissato" se il suo valore non viene modificato a runtime, **dopo l'inizializzazione**. 
@@ -28,7 +28,7 @@ Cosa fa il programma? ________________
 
 ## Contatore o Indice
 
-Il contatore/indice serve per scorreere una succesisone di vaori in modo sistematico. Può anche essere usato per contare o come indice di un array/lista.
+Il contatore/indice serve per scorrere una succesisone di vaori in modo sistematico. Può anche essere usato per contare o come indice di un array/lista.
 
 ```python
 n = int(input("Di che numero vuoi la tabellina?:"))
