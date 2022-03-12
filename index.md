@@ -50,7 +50,7 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 [I linguaggi dell'Informatica](http://cs.unibo.it/~renzo/csed22/linguaggi.pdf)
 
 [Esempi in linguaggio Python](esempi/esempi_python.md)
-[Esercizi di leettura in Python](esempi/lettura_python.md)
+[Esercizi di lettura in Python](esempi/lettura_python.md)
 
 ### Lezione del 11/03
 
@@ -59,8 +59,15 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 - diversi esempi di *program comprehension*. ([Attività su Virtuale](https://virtuale.unibo.it/mod/quiz/view.php?id=811706))
 - compeltamenti nei [ruoli delle variabili](pages/ruoli_variabili.md)
 - esempi di [pattern elementari](pages/pattern_cicli.md)
+- compito per casa sui pattern elementari (per il **7 aprile**) e peer evaluation (per il **21 aprile**)([Attività su Virtuale](https://virtuale.unibo.it/course/view.php?id=25799#section-1)
 
-[Informatica a scuola]()
+### Lezione del 17/03
+
+*Solo per questa giornata, la lezione si terrà in AULA III Ciamician - Piano Terra - Via F. Selmi 2*
+
+### Lezione del 18/03
+
+[Informatica a scuola et al.](https://www.cs.unibo.it/~michael.lodi2/csed2022/infoscuola_ML.pdf)
 
 *Una versione **ridotta** delle slide di oggi è scaricabile* [qui](https://www.cs.unibo.it/~michael.lodi2/csed2022/infoscuola_handout.pdf). *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*
 
@@ -68,9 +75,7 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 
 
 
-
-
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
-[comment]: # ( compito per casa sui pattern elementari e peer evaluation ([Attività su Virtuale](https://virtuale.unibo.it/course/view.php?id=25799#section-1) )
+[comment]: # (  )
 
