@@ -232,7 +232,7 @@ Il codice e l'ambiente di esecuzione.
 
 Definizione di Sistema Operativo (e di Distribuzione). Storia dei Sistemi Operativi. Sistemi Batch e interattivi. Sistemi mono-multi utente.
 
-Struttura dei sistemi operativi: monolitico, monolitico/modulare, exokernel, microkernel, macchine virtuali.
+Struttura dei sistemi operativi: monolitico, monolitico/modulare, microkernel, macchine virtuali.
 
 Processi e Thread
 
@@ -268,9 +268,9 @@ Protocolli applicativi.
 Sicurezza in rete.
 
 Architettura di Internet:
-*Fisico/Data Link: Ethernet, Wi-Fi, ADSL*
-*Network/Transport: IP, IPv6, TCP/UDP, ICMP (ICMPv6)*
-*Protocolli Applicativi: DNS, SMTP, POP, IMAP, HTTP, FTP, SSH, protocolli Peer-to-Peer*
+* Fisico/Data Link: Ethernet, Wi-Fi, ADSL
+* Network/Transport: IP, IPv6, TCP/UDP, ICMP (ICMPv6)
+* Protocolli Applicativi: DNS, SMTP, POP, IMAP, HTTP, FTP, SSH, protocolli Peer-to-Peer
 
 ##DATA BASE
 Concetto di sistema informativo. Informatizzazione dei sistemi informativi.
