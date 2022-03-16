@@ -10,6 +10,8 @@ Sono contenuti a livello universitario, non per la scuola secondaria (ma rendono
 
 [Computing Curricula 2020 - CC2020](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf) Altro documento co-firmato ACM-IEEE, fornisce una visione più ampia dei vari curricula correlati all'informatica.
 
+[Informatics for all](https://www.informaticsforall.org/) gruppo di lavoro creato da ACM, Cepris, Informatics Europe e IFIP per promuovere l'informatica come materia di studio nelle scuole.
+
 [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)  articolo fondamentale di Jeannette Wing 2006 (perche' e' importante ragionare in modo informatico, e come questo aiuta ad affrontare meglio i problemi di tutti i giorni)
 
 [Imparare il Pensiero Computazionale, Imparare a Programmare](http://amslaurea.unibo.it/6730/1/lodi_michael_tesi.pdf)  Tesi di Laurea di Michael Lodi (Bologna 2014)
