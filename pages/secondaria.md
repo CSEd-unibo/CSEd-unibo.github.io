@@ -44,5 +44,15 @@ Tracce esami di Stato [esempi](https://www.istruzione.it/esame_di_stato/esempi/d
 [Algoritmi in C!!!](https://www.scuolabook.it/paolo-camagni-riccardo-nikolassy-algoritmi-in-c-hoepli-editore-9788820353315.html)
 
 
+##### Situazione internazionale:
+[Olanda](https://www.researchgate.net/publication/308497335_A_New_Informatics_Curriculum_for_Secondary_Education_in_The_Netherlands)
+
+[Francia](https://www.researchgate.net/publication/263934835_Computer_Science_Education_in_French_Secondary_Schools)
+
+[Germania](https://www.researchgate.net/publication/330598771_Paving_the_Way_for_Computer_Science_in_German_Schools)
+
+[Regno Unito](https://en.wikipedia.org/wiki/Computer_science_education_in_the_United_Kingdom)
+
+
 ##### senza parole
 [si commenta da sé](https://www.aicanet.it/-/il-valore-delle-competenze-informatiche)
