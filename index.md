@@ -65,6 +65,11 @@ Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_
 
 *Solo per questa giornata, la lezione si terrà in AULA III Ciamician - Piano Terra - Via F. Selmi 2*
 
+Materiale per la lezione:
+
+* [Contenuti](pages/contenuti.md)
+* [_Programmi_](pages/programmi.md)
+
 ### Lezione del 18/03
 
 [Informatica a scuola et al.](https://www.cs.unibo.it/~michael.lodi2/csed2022/infoscuola_ML.pdf)
