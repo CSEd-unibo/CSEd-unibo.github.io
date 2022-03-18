@@ -72,7 +72,7 @@ Materiale per la lezione:
 
 ### Lezione del 18/03
 
-[Informatica a scuola et al.](https://www.cs.unibo.it/~michael.lodi2/csed2022/infoscuola_ML.pdf)
+[Informatica a scuola et al.](https://www.cs.unibo.it/~michael.lodi2/csed2022/infoscuola_handout.pdf)
 
 *Una versione **ridotta** delle slide di oggi è scaricabile* [qui](https://www.cs.unibo.it/~michael.lodi2/csed2022/infoscuola_handout.pdf). *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*
 
