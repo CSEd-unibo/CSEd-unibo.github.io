@@ -72,9 +72,10 @@ Materiale per la lezione:
 
 [Informatica a scuola (infanzia, primaria, "medie"), pensiero computazionale e "coding", Proposta di indicazioni nazionali, Bottom-up vs. Top down](https://www.cs.unibo.it/~michael.lodi2/csed2022/infoscuola_ML.pdf)
 
+### Lezione del 24 marzo
+[Scolleghiamoci](http://cs.unibo.it/~renzo/csed22/scolleghiamoci.pdf)
 
-
-
+### Lezione del 25 marzo
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
