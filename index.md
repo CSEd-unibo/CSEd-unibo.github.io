@@ -77,6 +77,13 @@ Materiale per la lezione:
 
 ### Lezione del 25 marzo
 
+Carmelo Presicce: [Informatica Creativa (con Scratch)](https://docs.google.com/presentation/d/189bvT9zAh-K6j5YFrFTrpeJiXOZW9ObKYNHigsbta64)
+* [Galleria dei vostri progetti Scratch](https://scratch.mit.edu/studios/31340687) - *se ne manca qualcuno, avvisateci :)*
+
+### Lezione del 31 marzo
+
+### Lezione dell'1 aprile
+
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
 [comment]: # (  )
