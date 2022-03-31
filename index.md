@@ -83,6 +83,10 @@ Carmelo Presicce: [Informatica Creativa (con Scratch)](https://docs.google.com/p
 
 ### Lezione del 31 marzo
 
+[Fare è capire](http://cs.unibo.it/~renzo/csed22/farecapire.pdf)
+
+[Esempio di lezione](http://cs.unibo.it/~renzo/csed22/fare.pdf)
+
 ### Lezione dell'1 aprile
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
