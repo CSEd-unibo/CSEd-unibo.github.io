@@ -85,7 +85,7 @@ Carmelo Presicce: [Informatica Creativa (con Scratch)](https://docs.google.com/p
 
 [Fare è capire](http://cs.unibo.it/~renzo/csed22/farecapire.pdf)
 
-[Esempio di lezione](http://cs.unibo.it/~renzo/csed22/fare.pdf)
+[Cosando](http://cs.unibo.it/~renzo/csed22/fare.pdf)
 
 ### Lezione dell'1 aprile
 
