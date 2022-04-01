@@ -89,6 +89,22 @@ Carmelo Presicce: [Informatica Creativa (con Scratch)](https://docs.google.com/p
 
 ### Lezione dell'1 aprile
 
+Marco Sbaraglia:
+
+* Confessioni di un prof delle superiori
+* [Necessity learning design](https://docs.google.com/presentation/d/1tjFUfJzOOGkeQNdptizrudBbFXERYLDIyiLl5CRstgs/edit?usp=sharing)
+
+### Lezione del 7 aprile
+
+
+### Lezione dell'8 aprile
+
+*Entro oggi va consegnato il [compito per casa sui pattern elementari](https://virtuale.unibo.it/course/view.php?id=25799#section-1)) su cui poi fare peer evaluation.*
+
+Simone Martini: TBA
+
+Presentazione del modello di relazione per **l'esame finale**.
+
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
 [comment]: # (  )
