@@ -1,18 +1,14 @@
 ---
-title: Titolo Materiale Didattico
+title: Titolo Materiale Didattico (v. 0.9)
 author: Nome Cognome
-date: 08/04/2022
+date: 13/04/2021
 ---
 
-Esame di Didattica dell'Informatica, A.A. 2021/2022
+Esame di Didattica dell'Informatica, A.A. 2020/2021
 
-# Changelog (se necessario)
-
-Se questa relazione è stata già consegnata in precedenza, indicare qui
-
-* i cambiamenti più sificativi
-* dove trovare un eventuale diff (se ritenuto necessario)
-* risposte a eventuali domande/commenti fatti dai docenti sulle versioni precedenti
+**Attezione!** Se la versione è <1.0, questo testo è ancora una bozza,
+non si tratta della struttura definitiva da usare per la relazione
+d'esame.
 
 # Inquadramento del lavoro
 
@@ -63,7 +59,7 @@ Elencare brevemente quali metodologie didattiche si utilizzano.
 
 Da quelle più classiche (es. lezione frontale, dialogata... uno schema [qui](https://www.leonardope.it/pvw/app/default/pvw_img.php?sede_codice=PELS0001&doc=2130858)) a quelle più moderne (unplugged, cooperative learning, pair programming, flipped classroom) discusse o viste a lezione. 
 
-Massima libertà di introdurre altre metodologie non spiegate a lezione (es. EAS) con i dovuti riferimenti.
+Massima libertà di introdurre altre metodologie non spiegate a lezione (es. EAS, con i dovuti riferimenti).
 
 Se si parla di didattica della programmazione, fare anche riferimento ai relativi concetti (macchina concettuale, misconcezioni, visualizzazione, program comprehension) spiegati a lezione.
 
@@ -82,7 +78,7 @@ Viene lasciata a voi massima libertà su come organizzarla.
 Deve contenere almeno:
 1. Materiale didattico per studenti
 2. Guida per gli insegnanti
-    * Consigli su come utilizzare il materiale didattico. E' possibile inframezzarli al materiale didattico per studenti (ma in tal caso chiarire bene cosa è per l'insegnante e cosa viene dato agli studenti)
+    * Consigli su come utilizzare il materiale didattico. E' possibile inframezzarli al materiale didattico per studenti (in tal caso chiarire cosa è per l'insegnante e cosa viene dato agli studenti)
     * Suggerimenti su come valutare il raggiungimento degli obiettivi di apprendimento da voi individuati (soprattutto valutazione formativa)
 
 # Bibliografia
