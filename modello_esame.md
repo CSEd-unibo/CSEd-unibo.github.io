@@ -31,6 +31,7 @@ Può essere---adattata---rivolta a studenti di diverse età e indirizzi?
 
 ## Motivazione e Finalità
 Perché avete scelto di realizzare questa specifica attività
+
 Una sua brevissima descrizione generale
 
 ## Innovatività
@@ -52,11 +53,12 @@ Proposta CINI numerata, Indicazioni nazionali / linee guida per scuola
 secondaria di secondo grado).
 
 ### Obiettivi di apprendimento
+E' obbligatorio scrivere gli obiettivi di apprendimento specifici basandosi su una tassonomia (es. Bloom rivisitata, Guerra-Frabboni-Arrigo, SOLO...)
+
 E' possibile (ma non obbligatorio) organizzarli in termini di
 * traguardi di competenze
 * obiettivi di conoscenze e abilità
 
-E' obbligatorio scrivere gli obiettivi di apprendimento specifici basandosi su una tassonomia (es. Bloom rivisitata, Guerra-Frabboni-Arrigo, SOLO...)
 
 ## Metodologie didattiche
 Elencare brevemente quali metodologie didattiche si utilizzano.

@@ -105,11 +105,26 @@ Materiali:
 
 ### Lezione dell'8 aprile
 
-*Entro oggi va consegnato il [compito per casa sui pattern elementari](https://virtuale.unibo.it/course/view.php?id=25799#section-1)) su cui poi fare peer evaluation.*
+Simone Martini: [LEGO Programming]()
 
-Simone Martini: TBA
+[Esame finale](https://www.cs.unibo.it/~michael.lodi2/csed2022/esame_ML.pdf)
 
-Presentazione del modello di relazione per **l'esame finale**.
+* [Modello di relazione per l'esame finale](https://github.com/CSEd-unibo/CSEd-unibo.github.io/blob/master/modello_esame.md)
+* [Su Virtuale](https://virtuale.unibo.it/course/view.php?id=25799#section-2), altre risorse (esempi, forum)
+
+
+### Lezione del 21 aprile
+
+
+
+
+*Entro il 21 alle 23.59 vanno valutate le consegne di due compagni (assegnate su Virtuale) [pattern elementari](https://virtuale.unibo.it/course/view.php?id=25799#section-1)*
+
+### Lezione del 22 aprile
+
+
+
+
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
