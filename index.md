@@ -105,7 +105,7 @@ Materiali:
 
 ### Lezione dell'8 aprile
 
-Simone Martini: [LEGO Programming]()
+Simone Martini: [LEGO Programming](http://www.cs.unibo.it/~martini/TALKS/martini-Lego-Engl.pdf)
 
 [Esame finale](https://www.cs.unibo.it/~michael.lodi2/csed2022/esame_ML.pdf)
 
