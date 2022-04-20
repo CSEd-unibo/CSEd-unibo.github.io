@@ -115,8 +115,9 @@ Simone Martini: [LEGO Programming](http://www.cs.unibo.it/~martini/TALKS/martini
 
 ### Lezione del 21 aprile
 
+[Il ruolo del Laboratorio](http://cs.unibo.it/~renzo/csed22/lab.pdf)
 
-
+[Il software può uccidere la libertà](http://cs.unibo.it/~renzo/csed22/liberta.pdf)
 
 *Entro il 21 alle 23.59 vanno valutate le consegne di due compagni (assegnate su Virtuale) [pattern elementari](https://virtuale.unibo.it/course/view.php?id=25799#section-1)*
 
