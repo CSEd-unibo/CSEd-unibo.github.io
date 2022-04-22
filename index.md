@@ -119,11 +119,14 @@ Simone Martini: [LEGO Programming](http://www.cs.unibo.it/~martini/TALKS/martini
 
 [Il software può uccidere la libertà](http://cs.unibo.it/~renzo/csed22/liberta.pdf)
 
-*Entro il 21 alle 23.59 vanno valutate le consegne di due compagni (assegnate su Virtuale) [pattern elementari](https://virtuale.unibo.it/course/view.php?id=25799#section-1)*
-
 ### Lezione del 22 aprile
 
+*Una versione **ridotta** delle slide di oggi è scaricabile* [qui](https://www.cs.unibo.it/~michael.lodi2/csed2022/pv_handout.pdf). *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*
 
+### Lezione del 28 aprile
+
+
+### Lezione del 29 aprile
 
 
 
