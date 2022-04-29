@@ -33,13 +33,13 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 [Didattica, didattica dell'informatica, apprendimento significativo](https://www.cs.unibo.it/~michael.lodi2/csed2022/didattica_informatica_ML.pdf)
 
 
-### Lezione del 03 marzo
+### Lezione del 3 marzo
 
 Cosa non è l'informatica
 
 Il [talk di Ken Robinson](https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=it) è il Ted talk più visto in assoluto, e uno dei più divertenti.
 
-### Lezione del 04 marzo
+### Lezione del 4 marzo
 
 [Didattica della programmazione 1](https://www.cs.unibo.it/~michael.lodi2/csed2022/didattica_programmazone_ML_1.pdf)
 
@@ -136,9 +136,9 @@ Rubric per esame:
 * [Rubric relazione](pages/rubric_relazione.md)
 * [Rubric orale](pages/rubric_orale.md)
 
-### Materiale aggiuntivo
+### Lezione differita
 
-[Teorie dell'apprendimento](https://www.cs.unibo.it/~michael.lodi2/csed2022/teorie_ML.pdf)
+[Teorie dell'apprendimento](https://www.cs.unibo.it/~michael.lodi2/csed2022/teorie_ML.pdf). *Leggere il capitolo 3 [qui](http://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf)*
 
 ### Ricevimenti di giovedì 5, 12, 19 maggio
 
