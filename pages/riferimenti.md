@@ -2,6 +2,10 @@ Questa pagina sarebbe da riordinare e aggiornare...
 
 # Dal Web
 
+[The Big Book of Computing Pedagogy](https://helloworld.raspberrypi.org/issues/0) Numero speciale della rivista [Hello World](https://helloworld.raspberrypi.org/) della Raspberry Pi Foundation
+
+[Seminari sulla didattica dell'Informatica](https://www.youtube.com/c/RaspberryPiFoundation/playlists?view=50&sort=dd&shelf_id=8) dal canale youtube della Raspberry Pi Foundation
+
 [Dal sito di Michael Lodi](https://lodi.ml/risorse/) Raccolta sparsa di riferimenti, adatti soprattutto a insegnanti di scuola primaria e "medie", o per chi vuole introdurre la programmazione (specialmente con Scratch) con appraccio creativo. Contiene anche riferimenti più teorici sul pensiero computazionale.
 
 [Computer Science Curricula 2013](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) 
@@ -100,7 +104,7 @@ Il tema trattato e' lo stesso della TED conference precedente ma viene usato lo 
 
 [CRA Taulbee Survey](http://cra.org/resources/taulbee/)  Statistiche sui corsi di studio universitari in Informatica negli Stati Uniti.
 
-[Mind Mapping - Mappe mentali](http://www.mindmapping.com/)  Pur non essendo collegato alsolo mondo della computer science ritengo che questo modo di rappresentare le informazioni possa essere utile in ambito didattico per dare una visione di insieme di un argomento. Personalmente uso sovente le mappe mentali quando devo prendere appunti o gioco a fare il reverser per descrivere il comportamento di un programma. (Un software free per il loro utilizzo su computer [http://freemind.sourceforge.net/wiki/index.php/Main\_Page])
+[Mind Mapping - Mappe mentali](http://www.mindmapping.com/)  Pur non essendo collegato al solo mondo della computer science ritengo che questo modo di rappresentare le informazioni possa essere utile in ambito didattico per dare una visione di insieme di un argomento. Personalmente uso sovente le mappe mentali quando devo prendere appunti o gioco a fare il reverser per descrivere il comportamento di un programma. (Un software free per il loro utilizzo su computer [http://freemind.sourceforge.net/wiki/index.php/Main\_Page])
 
 [Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext) : Guo fa una statistica e mostra come Python sia il linguaggio piu' usato per insegnare la programmazione nelle maggiori universita' degli Stati Uniti.
 
