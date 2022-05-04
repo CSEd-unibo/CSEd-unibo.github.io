@@ -125,6 +125,7 @@ Simone Martini: [LEGO Programming](http://www.cs.unibo.it/~martini/TALKS/martini
 
 ### Lezione del 28 aprile
 
+(Completamento presentazione dei lucidi del 21 aprile + esercizi di lettura codice Python)
 
 ### Lezione del 29 aprile
 
