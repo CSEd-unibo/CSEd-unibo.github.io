@@ -1,4 +1,4 @@
-# Rubric relazione (al 3/5/22)
+# Rubric relazione (al 3/5/22) (NB: verrà modificata nel 2023)
 
 _(non dovrebbe essere difficile fare un [diff](https://github.com/CSEd-unibo/CSEd-unibo.github.io/commits/master/pages/rubric_relazione.md) con le versioni precedenti)_
 

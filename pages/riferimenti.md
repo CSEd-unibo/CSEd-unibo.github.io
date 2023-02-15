@@ -2,7 +2,9 @@ Questa pagina sarebbe da riordinare e aggiornare...
 
 # Dal Web
 
-[The Big Book of Computing Pedagogy](https://helloworld.raspberrypi.org/issues/0) Numero speciale della rivista [Hello World](https://helloworld.raspberrypi.org/) della Raspberry Pi Foundation
+[The Big Book of Computing Pedagogy](https://helloworld.raspberrypi.org/books/big_book_of_pedagogy) Numero speciale della rivista [Hello World](https://helloworld.raspberrypi.org/) della Raspberry Pi Foundation
+
+[The Big Book of Computing Content](https://helloworld.raspberrypi.org/books/big_book_of_computing_content) Numero speciale della rivista [Hello World](https://helloworld.raspberrypi.org/) della Raspberry Pi Foundation
 
 [Seminari sulla didattica dell'Informatica](https://www.youtube.com/c/RaspberryPiFoundation/playlists?view=50&sort=dd&shelf_id=8) dal canale youtube della Raspberry Pi Foundation
 
@@ -236,4 +238,6 @@ nel quale Aica supera abbondantemente il limite del ridicolo affermando che con 
 [Wiki del corso A.A. 19/20](../index1920.md)
 
 [Wiki del corso A.A. 20/21](../index2021.md)
+
+[Wiki del corso A.A. 21/22](../index2122.md)
 
