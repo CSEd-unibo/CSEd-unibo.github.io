@@ -22,11 +22,15 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 23 febbraio
 
-[Introduzione al corso e all'esame]()
+[Introduzione al corso e all'esame](http://www.cs.unibo.it/~renzo/csed23/intro23.pdf)
 
-[Lezione: cosa non è l'informatica]()
+[Lezione: cosa non è l'informatica](http://www.cs.unibo.it/~renzo/csed23/noinfo.pdf)
 
+### Lezione del 24 febbraio
 
+### Lezione del 2 marzo
+
+### Lezione del 3 marzo
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
