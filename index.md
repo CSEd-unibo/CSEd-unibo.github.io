@@ -38,6 +38,10 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 Tace per impegno del Docente.
 
+### Lezione del 9 marzo
+
+[Introduzione, didattica e didattica dell'informatica, apprendimento significativo, grandi idee](https://www.cs.unibo.it/~michael.lodi2/csed2023/intro.pdf)
+
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
 [comment]: # (  )
