@@ -8,6 +8,8 @@ Questa pagina sarebbe da riordinare e aggiornare...
 
 [Seminari sulla didattica dell'Informatica](https://www.youtube.com/c/RaspberryPiFoundation/playlists?view=50&sort=dd&shelf_id=8) dal canale youtube della Raspberry Pi Foundation
 
+[Informatics for All: Quadro di riferimento per l’informatica nella scuola](https://www.informaticsforall.org/the-informatics-reference-framework-for-school-online-it/)
+
 [Dal sito di Michael Lodi](https://lodi.ml/risorse/) Raccolta sparsa di riferimenti, adatti soprattutto a insegnanti di scuola primaria e "medie", o per chi vuole introdurre la programmazione (specialmente con Scratch) con appraccio creativo. Contiene anche riferimenti più teorici sul pensiero computazionale.
 
 [Computer Science Curricula 2013](https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf) 
