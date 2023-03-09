@@ -28,9 +28,15 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 24 febbraio
 
+... continua dalla lezione precedente
+
 ### Lezione del 2 marzo
 
+[I linguaggi dell'informatica](http://www.cs.unibo.it/~renzo/csed23/linguaggi.pdf)
+
 ### Lezione del 3 marzo
+
+Tace per impegno del Docente.
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
