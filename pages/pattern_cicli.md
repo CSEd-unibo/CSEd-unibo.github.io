@@ -366,6 +366,26 @@ _Esempio._ Scrivere un programma che chiede all'utente di inserire un voto. Il p
     voto = float(input("Inserisci un voto (da 1 a 10): "))
 ```
 
+#### Alternative
+Se non si vuole duplicare il codice dell'input, al posto della prima lettura (quella fuori dal while) si può assegnare a ``valore`` un valore sicuramente non valido (es. ``voto = 0`` nell'ultimo esempio; adattabile anche al penultimo), di modo che il ciclo ``while`` venga eseguito sicuramente almeno la prima volta. 
+Nei linguaggi che lo permettono (non Python) è possibile in alternativa usare il costrutto ``do... while``.
+
+Un'altra possibilità è quella di usare le eccezioni.
+
+_Esempio._ Scrivere un programma che chiede all'utente di inserire un intero, e continua a chiederlo finché non lo ottiene.
+
+
+```python
+x = None
+while x is None:
+    try:
+        x = int(input('Dammi un intero: '))
+    except ValueError:
+        print('Volevo un intero, e tu non me lo hai dato.')
+print("Grazie di avermi dato l'intero", x)
+```
+
+
 # Esercizio
 * Per ogni pattern, individuare un esempio (diverso da quelli già presentati e possibilmente non troppo ovvio) di applicazione del pattern, e scrivere il codice Python corrispondente.
 
