@@ -42,6 +42,16 @@ Tace per impegno del Docente.
 
 [Introduzione, didattica e didattica dell'informatica, apprendimento significativo, grandi idee](https://www.cs.unibo.it/~michael.lodi2/csed2023/intro.pdf)
 
+### Lezione del 10 marzo
+
+* [Contenuti](pages/contenuti.md)
+* [_Programmi_](pages/programmi.md)
+
+### Lezione del 16 marzo
+
+[Informatica a scuola (primaria, "medie"), pensiero computazionale e "coding", Proposta di indicazioni nazionali](https://www.cs.unibo.it/~michael.lodi2/csed2023/coding.pdf)
+
+
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
 [comment]: # (  )
