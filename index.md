@@ -63,6 +63,8 @@ Tace per impegno del Docente.
 
 ### Lezione del 24 marzo
 
+[Fare è imparare](http://www.cs.unibo.it/~renzo/csed23/fare.pdf)
+
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
 [comment]: # (  )
