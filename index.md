@@ -51,6 +51,17 @@ Tace per impegno del Docente.
 
 [Informatica a scuola (primaria, "medie"), pensiero computazionale e "coding", Proposta di indicazioni nazionali](https://www.cs.unibo.it/~michael.lodi2/csed2023/coding.pdf)
 
+### Lezione del 17 marzo
+
+[Scolleghiamoci](http://www.cs.unibo.it/~renzo/csed23/scolleghiamoci.pdf)
+
+### Lezione del 23 marzo
+
+* [Organizzatore grafico anticipato](https://www.cs.unibo.it/~michael.lodi2/csed2023/OrganizzatoreParadigmi.pdf)
+
+[Paradigmi dell'apprendimento](https://www.cs.unibo.it/~michael.lodi2/csed2023/paradigmi.pdf)
+
+### Lezione del 24 marzo
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
