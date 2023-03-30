@@ -65,6 +65,14 @@ Tace per impegno del Docente.
 
 [Fare è imparare](http://www.cs.unibo.it/~renzo/csed23/fare.pdf)
 
+### Lezione del 30 marzo
+
+[Progettazione, obiettivi di apprendimento ed esame finale](https://www.cs.unibo.it/~michael.lodi2/csed2023/esame.pdf)
+
+### Lezione del 31 marzo
+
+[Creative computing con Scratch]()
+
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
 [comment]: # (  )
