@@ -71,7 +71,9 @@ Tace per impegno del Docente.
 
 ### Lezione del 31 marzo
 
-[Creative computing con Scratch]()
+[Creative computing con Scratch](https://www.cs.unibo.it/~michael.lodi2/csed2023/scratch.pdf) (*studiare anche le parti non viste a lezione*))
+
+* [La galleria dei nostri progetti Scratch](https://scratch.mit.edu/studios/33117812/) (aggiungete qui tutte le vostre creazioni con Scratch)
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
