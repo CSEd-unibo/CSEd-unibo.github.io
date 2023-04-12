@@ -1,7 +1,7 @@
 ---
 title: Titolo Materiale Didattico
 author: Nome Cognome
-date: 26/03/2023
+date: 12/04/2023
 ---
 
 Esame di Didattica dell'Informatica, A.A. 2022/2023
@@ -41,7 +41,7 @@ Perché questa proposta è innovativa? Cosa è già presente su questo tema nell
 Elencare i contenuti che si suppone siano già stati svolti e appresi dagli studenti
 
 ## Contenuti
-Spiegare brevemente i contenuti. Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardandi esami obbligatori della triennale), elencarli semplicemente. Se ci sono contenuti particolari (es. quantum computing) o specifici illustrarli brevemente, avendo in mente (solo in questa breve sezione) di spiegarli ad un informatico.
+Spiegare brevemente i contenuti. Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardanti esami obbligatori della triennale), elencarli semplicemente. Se ci sono contenuti particolari (es. quantum computing) o specifici illustrarli brevemente, avendo in mente (solo in questa breve sezione) di spiegarli ad un informatico.
 
 ## Traguardi e Obiettivi
 Quali traguardi e obiettivi di apprendimento si vuole raggiungere con le attività proposte?
@@ -63,7 +63,7 @@ E' possibile (ma non obbligatorio) organizzarli in termini di
 ## Metodologie didattiche
 Elencare brevemente quali metodologie didattiche si utilizzano.
 
-Sia quelle più generali (es. lezione frontale, dialogata, cooperative learning, flipped classroom) sia quelle spefiche (es. unplugged, pair-programming) citate o discusse a lezione.
+Sia quelle più generali (es. lezione frontale, dialogata, cooperative learning, flipped classroom) sia quelle specifiche (es. unplugged, pair-programming) citate o discusse a lezione.
 
 Massima libertà di introdurre altre metodologie non spiegate a lezione, debitamente corredate di breve spiegazione e riferimenti bibliografici.
 
@@ -79,13 +79,16 @@ Classe, laboratorio, cortile...
 Quali materiali e strumenti (hardware e software, di ogni tipo, non solo informatico) sono necessari?
 
 # Sviluppo dei contenuti
-Questa deve essere la parte più corposa del documento.
+*Questa deve essere la parte più corposa del documento.*
+
 Viene lasciata a voi massima libertà su come organizzarla. 
 Deve contenere almeno:
 1. Materiale didattico per studenti
 2. Guida per gli insegnanti
     * Consigli su come utilizzare il materiale didattico. E' possibile inframezzarli al materiale didattico per studenti (ma in tal caso rendere esplicito e facile capire cosa è solo per l'insegnante e cosa invece può/deve essere dato agli studenti)
     * Suggerimenti su come valutare il raggiungimento degli obiettivi di apprendimento da voi individuati (focus non tanto sui voti, ma su valutazione formativa e continuativa)
+    
+La descrizione dovrebbe essere sufficientemente completa e dettagliata da consentire ad un insegnante di replicare l'esperienza senza sforzo (anche se poi starà al bravo insegnante eventualmente modificarla e adattarla al proprio contesto).
 
 # Bibliografia
 Citare le fonti utilizzate (si consiglia ad esempio bibtex o biblatex).
@@ -102,8 +105,8 @@ NB: non basta specificare una licenza, bisogna anche rispettarla (es. non includ
 
 # Meta-sezione (da rimuovere): consigli
 
-Per ricercare articoli scientifici, potete usare [Scholar](https://scholar.google.com/). Se connessi da rete UniBO o da casa tramite un [proxy](https://sba.unibo.it/it/almare/servizi-e-strumenti-almare/ezproxy), potete accedere alle banche dati degli editori. Per esempio, potete cercare sulla [Digital Library dell'ACM](https://dl.acm.org/), eventualmente [specializzando la ricerca](https://dl.acm.org/sig/sigcse) ai soli paper relativi al gruppo di interesse per la didattica dell'Informatica (NB: non utilizzare i suggerimenti che compaiono mentre si digita il testo da cercare, pena la perdita del filtro sui soli paper SIGCSE. Notare che, comunque, paper di Didattica dell'Informatica sono pubblicati anche al di fuori di SIGCSE, esempio di in conferenze e riviste di Human-Computer interaction).
+Per ricercare articoli scientifici, potete usare [Scholar](https://scholar.google.com/). Se connessi da rete UniBO o da casa tramite un [proxy](https://sba.unibo.it/it/almare/servizi-e-strumenti-almare/ezproxy), potete accedere alle banche dati degli editori. Per esempio, potete cercare sulla [Digital Library dell'ACM](https://dl.acm.org/), eventualmente [specializzando la ricerca](https://dl.acm.org/sig/sigcse) ai soli paper relativi al gruppo di interesse per la didattica dell'Informatica (NB: non utilizzare i suggerimenti che compaiono mentre si digita il testo da cercare, pena la perdita del filtro sui soli paper SIGCSE. Notare che, comunque, paper di Didattica dell'Informatica sono pubblicati anche al di fuori di SIGCSE, ad esempio in conferenze e riviste di Human-Computer interaction).
 
 Per tutto il documento, seguire le buone regole su come evitare il plagio ([esempio dal MIT](https://integrity.mit.edu/handbook/writing-original-work))
 
-Prer tutto il documento, seguire le regole sulla scrittura in italiano [qui](http://corsi.unibo.it/magistralesemiotica/Documents/Indicazioni%20per%20la%20redazione%20della%20tesi%20di%20laurea.pdf) (se usate bibtex, potete ignorare la dolorosa gestione manuale dei riferimenti bibliograifici)
+Per tutto il documento, seguire le regole sulla scrittura in italiano [qui](http://corsi.unibo.it/magistralesemiotica/Documents/Indicazioni%20per%20la%20redazione%20della%20tesi%20di%20laurea.pdf) (se usate bibtex, potete ignorare la dolorosa gestione manuale dei riferimenti bibliograifici)
