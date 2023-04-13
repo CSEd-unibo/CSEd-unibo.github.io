@@ -75,6 +75,12 @@ Tace per impegno del Docente.
 
 * [La galleria dei nostri progetti Scratch](https://scratch.mit.edu/studios/33117812/) (aggiungete qui tutte le vostre creazioni con Scratch)
 
+### Lezione del 13 aprile
+
+### Lezione del 14 aprile
+
+[Fare è capire](http://www.cs.unibo.it/~renzo/csed23/farecapire.pdf)
+
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
 [comment]: # (  )
