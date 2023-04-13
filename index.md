@@ -77,6 +77,10 @@ Tace per impegno del Docente.
 
 ### Lezione del 13 aprile
 
+[Date ed esempi per esame finale](https://www.cs.unibo.it/~michael.lodi2/csed2023/dateesempi.pdf)
+
+*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi*
+
 ### Lezione del 14 aprile
 
 [Fare è capire](http://www.cs.unibo.it/~renzo/csed23/farecapire.pdf)
