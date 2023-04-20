@@ -85,6 +85,16 @@ Tace per impegno del Docente.
 
 [Fare è capire](http://www.cs.unibo.it/~renzo/csed23/farecapire.pdf)
 
+### Lezione del 20 aprile
+
+Guest lecturer: dott/prof Marco Sbaraglia.
+
+### Lezione del 21 aprile
+
+[Ristorante Brachetti](esempi/ristorante.pdf)
+
+[NAND game](https://nandgame.com/)
+
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
 [comment]: # (  )
