@@ -93,6 +93,10 @@ Guest lecturer: dott/prof Marco Sbaraglia.
 
 [Ristorante Brachetti](esempi/ristorante.pdf)
 
+[circuito 1](http://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKDAQjABYuQ08+GFH3xQ+1BGw6DhYFAOx5ecgVWFJJ7CJmE6Qi3nrUSpEA+GLCuxQheHHaLAO4zwPV-yjOPovSgS2kN7chijK7vKqwRF4An6xXi56zLLuKYluynKZdhnmKvpK4BiB3uae5UJeADI5YJbg2fX2YgBmAIYANgDOdNRBtSF8YY26I1RUHT19SEEAsiDWts0UaQ1q0JrSetiECkW7quKOSVX+tjsI9t6XulXm84W8h6vPe2IomyxAA)
+
+[circuito 2](http://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKDAQgBY5xDaU8vKlRRQKbDiFycQaQdxH4xopAhYB3EAvAZCWnnKgaKAoScEoEeyMYSnLe6bKtHNTh1MgyUKGTfYQhsyiTsHK1GpuXuBgotphNprxsfpUYJx+EoFKYMQh0bmiIhHGQfY5ukYAMrI5poQysYLCIABmAIYANgDOdNT+kmGGw0rFqqVKxHphU64xorNhhXNLefOyvtXrsw0gsy0dPX1INgCy5mYIlWB8ytBqQA)
+
 [NAND game](https://nandgame.com/)
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
