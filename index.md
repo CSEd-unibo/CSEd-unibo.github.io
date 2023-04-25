@@ -87,7 +87,11 @@ Tace per impegno del Docente.
 
 ### Lezione del 20 aprile
 
-Guest lecturer: dott/prof Marco Sbaraglia.
+Ospite: dott/prof Marco Sbaraglia.
+
+* Confessioni di un prof delle superiori
+* [Necessity learning design](https://infedu.vu.lt/journal/INFEDU/article/721/info)
+* Didattica della crittografia: [articolo](http://www.cs.unibo.it/~martini/papers-to-ftp/ITICSE2022-prelim.pdf) e [materiali](https://bigideascryptok12.bitbucket.io/index.html)
 
 ### Lezione del 21 aprile
 
@@ -98,6 +102,11 @@ Guest lecturer: dott/prof Marco Sbaraglia.
 [circuito 2](http://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKDAQgBY5xDaU8vKlRRQKbDiFycQaQdxH4xopAhYB3EAvAZCWnnKgaKAoScEoEeyMYSnLe6bKtHNTh1MgyUKGTfYQhsyiTsHK1GpuXuBgotphNprxsfpUYJx+EoFKYMQh0bmiIhHGQfY5ukYAMrI5poQysYLCIABmAIYANgDOdNT+kmGGw0rFqqVKxHphU64xorNhhXNLefOyvtXrsw0gsy0dPX1INgCy5mYIlWB8ytBqQA)
 
 [NAND game](https://nandgame.com/)
+
+### Lezione del 27 aprile
+
+[Didattica della programmazione (1)](https://www.cs.unibo.it/~michael.lodi2/csed2023/programmazione1.pdf)
+
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 

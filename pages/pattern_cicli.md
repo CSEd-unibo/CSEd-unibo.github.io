@@ -128,7 +128,7 @@ _Esempio._ Scrivere una funzione che **restituisce la lunghezza di una sequenza*
 
 ```python
 def lunghezza(seq):
-  accumulatore = 0 # perchè inizializziamo a 0? perché non dovremmo? -ml
+  accumulatore = 0
   for e in seq:
     accumulatore += 1
   return accumulatore
