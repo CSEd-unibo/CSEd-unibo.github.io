@@ -105,11 +105,21 @@ Ospite: dott/prof Marco Sbaraglia.
 
 ### Lezione del 27 aprile
 
-[Didattica della programmazione (1)](https://www.cs.unibo.it/~michael.lodi2/csed2023/programmazione1.pdf)
+Didattica della Programmazione (1)
 
 ### Lezione del 28 aprile
 
 [Libertà e Scuola](http://www.cs.unibo.it/~renzo/csed23/liberta.pdf)
+
+### Lezione del 4 maggio
+
+Didattica della Programmazione (2)
+
+### Lezione del 5 maggio
+
+Didattica della Programmazione (3)
+
+[Tutte le slide di didattica della programmazione](https://www.cs.unibo.it/~michael.lodi2/csed2023/programmazione.pdf)
 
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
