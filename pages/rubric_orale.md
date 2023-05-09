@@ -1,4 +1,4 @@
-# Rubric orale (al 29/04/22)
+# Rubric orale (all' 8/5/2023)
 
 |  | **_Assente_** | **_Parziale_** | **_Adeguato_** | **_Adeguato++_** |
 |---|---|---|---|---|
