@@ -12,6 +12,8 @@
 [Esame]() 
 
 * [Modello per relazione](https://github.com/CSEd-unibo/CSEd-unibo.github.io/blob/master/modello_esame.md)
+* [Rubric relazione](pages/rubric_relazione.md) 
+* [Rubric orale](pages/rubric_orale.md)
 
 [comment]: # ( [Esame]() [Modello per relazione](https://github.com/CSEd-unibo/CSEd-unibo.github.io/blob/master/modello_esame.md)[Rubric relazione](pages/rubric_relazione.md) [Rubric orale](pages/rubric_orale.md))
 

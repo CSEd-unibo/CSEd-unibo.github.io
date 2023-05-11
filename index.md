@@ -121,6 +121,26 @@ Didattica della Programmazione (3)
 
 [Tutte le slide di didattica della programmazione](https://www.cs.unibo.it/~michael.lodi2/csed2023/programmazione.pdf)
 
+### Lezione dell'11 maggio
+
+Valutazione
+
+### Lezione del 12 maggio
+
+Valutazione formativa di apprendimenti informatici
+
+[Tutte le slide sulla valutazione](https://www.cs.unibo.it/~michael.lodi2/csed2023/valutazione.pdf)
+
+### Lezione del 18 maggio
+
+Argomenti avanzati
+
+### Ricevimento allargato del 19 maggio
+
+Si svolge in Aula Ercolani1
+
+*Gli studenti presentano idee e avanzamenti per la relazione finale, discusse con docenti e colleghi*
+
 [comment]: # (*Una versione **ridotta** delle slide di oggi è scaricabile* qui. *Dopo la lezione, verrà rimossa e pubblicata la versione contenente anche attività, problemi e soluzioni.*)
 
 [comment]: # (  )
