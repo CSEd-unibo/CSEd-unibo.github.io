@@ -125,15 +125,17 @@ Didattica della Programmazione (3)
 
 Valutazione
 
+[Tutte le slide sulla valutazione](https://www.cs.unibo.it/~michael.lodi2/csed2023/valutazione.pdf)
+
 ### Lezione del 12 maggio
 
 Valutazione formativa di apprendimenti informatici
 
-[Tutte le slide sulla valutazione](https://www.cs.unibo.it/~michael.lodi2/csed2023/valutazione.pdf)
+[Top down vs. bottom up](https://www.cs.unibo.it/~michael.lodi2/csed2023/topbottom.pdf)
 
 ### Lezione del 18 maggio
 
-Argomenti avanzati
+[Metodologie didattiche](https://www.cs.unibo.it/~michael.lodi2/csed2023/metodologie.pdf)
 
 ### Ricevimento allargato del 19 maggio
 
