@@ -4,7 +4,7 @@
 
 Docenti: Renzo Davoli e Michael Lodi
 
-[Il corso su Virtuale]()
+[Il corso su Virtuale](https://virtuale.unibo.it/course/view.php?id=46122)
 
 ### Testo di riferimento
 
