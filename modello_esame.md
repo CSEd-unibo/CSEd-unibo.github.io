@@ -113,4 +113,4 @@ Per tutto il documento, seguire le buone regole su come evitare il plagio ([esem
 
 Per tutto il documento, seguire le regole sulla scrittura in italiano, da pag. 6 [qui](https://corsi.unibo.it/magistrale/semiotica/prova-finale/indicazioni-per-la-redazione-della-tesi-di-laurea-semiotica.pdf/@@download/file/Indicazioni%20per%20la%20redazione%20della%20tesi%20di%20laurea%20Semiotica.pdf) (se usate bibtex, potete ignorare la dolorosa gestione manuale dei riferimenti bibliograifici)
 
-La struttura qui fornita va rispettata con precisione. La tabella iniziale (titolo, autore, data) non va riprodotta: si tratta di metadati, utili per creare i rispettivi campi (es. se si converte questo documento con pandoc per generare latex o html).
+La struttura qui fornita va rispettata con precisione. La tabella iniziale (titolo, autore, data) non va riprodotta in formato tabellare: sono campi utili per inserire nel documento formattato le relative informazioni (es. finiranno nei corrispettivi campi per titolo, autore, data se si converte questo documento con pandoc per generare latex o html).
