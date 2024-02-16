@@ -48,15 +48,19 @@ Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardanti
 ## Traguardi e Obiettivi
 Quali traguardi e obiettivi di apprendimento si vuole raggiungere con le attività proposte?
 
-### Collegamento con i documenti ministeriali/proposte
-Indicare quali traguardi/obiettivi presenti nei documenti rilevanti vengono
+### Traguardi/obiettivi generali dai documenti ministeriali/proposte
+Indicare quali traguardi/obiettivi generali presenti nei documenti rilevanti vengono
 raggiunti (es. Indicazioni nazionali per il primo ciclo, Nuovi scenari,
 Proposta CINI numerata, Indicazioni nazionali / linee guida per scuola
 secondaria di secondo grado).
 
-### Obiettivi di apprendimento
-E' obbligatorio scrivere gli obiettivi di apprendimento specifici basandosi su una tassonomia (es. Bloom rivisitata, Guerra-Frabboni-Arrigo, SOLO, o altre non viste a lezione, debitamente citate e spiegate...)
+### Traguardi/obiettivi generali
+E' possibile (ma non obbligatorio e non sempre necessario) aggiungere i propri traguardi e obiettivi generali, come spiegato in classe
 
+### Obiettivi specifici in forma operativa
+Gli obiettivi vanno scritti ipotizzando che inizino tutti con "Lo studente/la studentessa è in grado di...",
+seguendo la tassonomia di Bloom rivisitata,
+e facendo attenzione a non cadere negli errori tipici, come spiegato in classe.
 
 ## Metodologie didattiche
 Elencare e spiegare brevemente quali metodologie didattiche si utilizzano.
@@ -108,3 +112,5 @@ Per ricercare articoli scientifici, potete usare [Scholar](https://scholar.googl
 Per tutto il documento, seguire le buone regole su come evitare il plagio ([esempio dal MIT](https://integrity.mit.edu/handbook/writing-original-work))
 
 Per tutto il documento, seguire le regole sulla scrittura in italiano, da pag. 6 [qui](https://corsi.unibo.it/magistrale/semiotica/prova-finale/indicazioni-per-la-redazione-della-tesi-di-laurea-semiotica.pdf/@@download/file/Indicazioni%20per%20la%20redazione%20della%20tesi%20di%20laurea%20Semiotica.pdf) (se usate bibtex, potete ignorare la dolorosa gestione manuale dei riferimenti bibliograifici)
+
+La struttura qui fornita va rispettata con precisione. La tabella iniziale (titolo, autore, data) non va riprodotta: si tratta di metadati, utili per creare i rispettivi campi (es. se si converte questo documento con pandoc per generare latex o html).
