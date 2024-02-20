@@ -1,7 +1,7 @@
 ---
 title: Titolo Materiale Didattico
 author: Nome Cognome
-date: 15/02/24
+date: 20/02/24
 ---
 
 *Formato Provvisorio*
@@ -37,16 +37,22 @@ Spiegare brevemente (una sola frase) di che attività si tratta.
 Perché è importante svolgere questa attività nella scuola?
 
 ## Innovatività
-Perché questa proposta è innovativa? Cosa è già presente su questo tema nella ricerca in Didattica dell'Informatica o nelle risorse disponibili online (è obbligatorio cercare risultati scientifici e risorse già presenti, e descriverli brevemente) e in cosa si differenzia/cosa mantiene/cosa va a migliorare questa proposta?
+Perché questa proposta è innovativa? Cosa è già presente su questo tema nella ricerca in Didattica dell'Informatica o nelle risorse disponibili online (è obbligatorio cercare risultati scientifici e risorse didattiche già presenti, e descriverli brevemente) e in cosa si differenzia/cosa mantiene/cosa va a migliorare questa proposta?
 
 ## Prerequisiti
 Elencare i contenuti che si suppone siano già stati svolti e appresi dagli studenti
 
+### Percorso
+Se si ipotizza che questa attività sia parte di un percorso ampio sullo stesso tema, descrivere qui il percorso
+
 ## Contenuti (spiegati ai prof universitari)
-Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardanti esami obbligatori della triennale), elencarli semplicemente. Se l'attività riguarda contenuti specifici o particolari (es. elaborazione immagini, crittografia, quantum computing, specifiche tecniche di IA) illustrarli brevemente, avendo in mente (solo in questa breve sezione) di spiegarli ad un informatico.
+Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardanti esami obbligatori della triennale), elencarli semplicemente. Se l'attività riguarda contenuti specifici o particolari (es. elaborazione immagini, crittografia, quantum computing, specifiche tecniche di IA) illustrarli brevemente o fornire link, avendo in mente (solo in questa breve sezione) di spiegarli ad un informatico.
+
+## Grandi idee
+Se ha senso per il materiale proposto, descrivere brevemente (qualche frase) quali sono le "grandi idee" (come spiegato a lezione) che questa attività vuole insegnare.
 
 ## Traguardi e Obiettivi
-Quali traguardi e obiettivi di apprendimento si vuole raggiungere con le attività proposte?
+Nelle varie sottosezioni, vanno elencati traguardi e obiettivi di apprendimento che si vuole raggiungere con le attività proposte
 
 ### Traguardi/obiettivi generali dai documenti ministeriali/proposte
 Indicare quali traguardi/obiettivi generali presenti nei documenti rilevanti vengono
@@ -63,7 +69,7 @@ seguendo la tassonomia di Bloom rivisitata,
 e facendo attenzione a non cadere negli errori tipici, come spiegato in classe.
 
 ## Metodologie didattiche
-Elencare e spiegare brevemente quali metodologie didattiche si utilizzano.
+Elencare brevemente quali metodologie didattiche si utilizzano e spiegarle brevemente.
 
 Sia quelle più generali (es. lezione frontale, dialogata, cooperative learning, flipped classroom) sia quelle specifiche (es. unplugged, pair-programming) citate o discusse a lezione.
 
@@ -111,6 +117,10 @@ Per ricercare articoli scientifici, potete usare [Scholar](https://scholar.googl
 
 Per tutto il documento, seguire le buone regole su come evitare il plagio ([esempio dal MIT](https://integrity.mit.edu/handbook/writing-original-work))
 
-Per tutto il documento, seguire le regole sulla scrittura in italiano, da pag. 6 [qui](https://corsi.unibo.it/magistrale/semiotica/prova-finale/indicazioni-per-la-redazione-della-tesi-di-laurea-semiotica.pdf/@@download/file/Indicazioni%20per%20la%20redazione%20della%20tesi%20di%20laurea%20Semiotica.pdf) (se usate bibtex, potete ignorare la dolorosa gestione manuale dei riferimenti bibliograifici)
+Per tutto il documento, seguire le regole sulla scrittura in italiano, da pag. 6 [qui](https://corsi.unibo.it/magistrale/semiotica/prova-finale/indicazioni-per-la-redazione-della-tesi-di-laurea-semiotica.pdf/@@download/file/Indicazioni%20per%20la%20redazione%20della%20tesi%20di%20laurea%20Semiotica.pdf) (se usate bibtex, potete ignorare la dolorosa gestione manuale dei riferimenti bibliografici)
 
-La struttura qui fornita va rispettata con precisione. La tabella iniziale (titolo, autore, data) non va riprodotta in formato tabellare: sono campi utili per inserire nel documento formattato le relative informazioni (es. finiranno nei corrispettivi campi per titolo, autore, data se si converte questo documento con pandoc per generare latex o html).
+La struttura (sezioni e sottosezioni) qui fornita va rispettata con precisione.
+
+La tabella iniziale (titolo, autore, data) non va riprodotta in formato tabellare: sono campi utili per inserire nel documento formattato le relative informazioni (es. finiranno nei corrispettivi campi per titolo, autore, data se si converte questo documento con pandoc per generare latex o html).
+
+I docenti non valutano la relazione il base alla sua lunghezza: meglio una relazione breve e non ripetitiva, ma che dice esattamente le cose che mostrano comprensione dei materiali del corso. Attenzione però ad inserire sufficienti dettagli affinché un insegnante possa replicare l'attività.
