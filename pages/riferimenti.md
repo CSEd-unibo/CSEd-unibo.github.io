@@ -140,6 +140,8 @@ Dennis Curtin, Kunal Sen, Kim Foley, Cathy Morin: ''INFORMATION TECHNOLOGY: THE 
 
 Don Tapscott, Anthony D Williams: ''Wikinomics: how mass collaboration changes everything'' Portfolio, 2006 (Traduzione: RCS libri 2007).
 
+[UNESCO: ''Guidance for generative AI in education and research''](https://unesdoc.unesco.org/ark:/48223/pf0000386693), 2023
+
 # Conferenze di Riferimento
 
 ACM SigCSE

@@ -24,7 +24,7 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 [Introduzione al corso e all'esame]()
 
-[Lezione: cosa non è l'informatica]()
+[Lezione: cosa non è l'informatica](http://www.cs.unibo.it/~renzo/csed24/noinfo.pdf)
 
 ### Lezione del 23 febbraio
 
