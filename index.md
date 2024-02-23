@@ -28,7 +28,7 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 23 febbraio
 
-[Introduzione, didattica e didattica dell'informatica, apprendimento significativo, grandi idee]()
+[Introduzione, didattica e didattica dell'informatica, apprendimento significativo, grandi idee](https://www.cs.unibo.it/~michael.lodi2/csed2024/introdidattica.pdf)
 
 
 
