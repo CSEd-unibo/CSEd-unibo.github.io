@@ -36,7 +36,10 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 * [Gli ingranaggi della mia infanzia](https://lcl.media.mit.edu/resources/activity/week1/gears.it.pdf?pdf=gears.it)
 
-[Paradigmi e teorie dell'apprendimento]()
+* Capitolo [3 da Lodi (2020)](http://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf)
+
+
+[Paradigmi e teorie dell'apprendimento](https://www.cs.unibo.it/~michael.lodi2/csed2024/paradigmi.pdf)
 
 
 
