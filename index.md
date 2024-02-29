@@ -26,17 +26,17 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 [Lezione: cosa non è l'informatica](http://www.cs.unibo.it/~renzo/csed24/noinfo.pdf)
 
-
 ### Lezione del 23 febbraio
 
 [Introduzione, didattica e didattica dell'informatica, apprendimento significativo, grandi idee](https://www.cs.unibo.it/~michael.lodi2/csed2024/introdidattica.pdf)
-
 
 ### Lezione del 29 febbraio
 
 * [Organizzatore grafico anticipato](https://www.cs.unibo.it/~michael.lodi2/csed2024/OrganizzatoreParadigmi.pdf)
 
-[Paradigmi dell'apprendimento]()
+* [Gli ingranaggi della mia infanzia](https://lcl.media.mit.edu/resources/activity/week1/gears.it.pdf?pdf=gears.it)
+
+[Paradigmi e teorie dell'apprendimento]()
 
 
 
