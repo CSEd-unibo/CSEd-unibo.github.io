@@ -48,3 +48,10 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 [comment]: # (  )
 
+### Lezione del 1 marzo
+
+[I linguaggi dell'Informatica](http://cs.unibo.it/~renzo/csed24/linguaggi.pdf)
+
+[Esempi in linguaggio Python](esempi/esempi_python.md)
+[Esercizi di lettura in Python](esempi/lettura_python.md)
+
