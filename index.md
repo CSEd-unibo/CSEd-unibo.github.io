@@ -55,3 +55,17 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 [Esempi in linguaggio Python](esempi/esempi_python.md)
 [Esercizi di lettura in Python](esempi/lettura_python.md)
 
+
+### Lezione del 7 marzo
+
+I materiali sono su Virtuale
+
+
+*Le lezioni dell'8 e del 14 marzo sono cancellate*
+
+### Lezione del 15 marzo
+
+
+### Lezione del 21 marzo
+
+**Compiti per oggi**: leggere [questo articolo](https://www.cs.unibo.it/~michael.lodi2/csed2024/LO_under.pdf) e produrre uno schema/una sintesi, da consegnare su Virtuale
