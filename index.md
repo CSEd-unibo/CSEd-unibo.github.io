@@ -58,7 +58,9 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 7 marzo
 
-I materiali sono su Virtuale
+[Diverse letture di "top down" e "bottom up"](https://www.cs.unibo.it/~michael.lodi2/csed2024/topbottom.pdf)
+
+[Metodologie e strategie didattiche](https://www.cs.unibo.it/~michael.lodi2/csed2024/strategie.pdf)
 
 
 *Le lezioni dell'8 e del 14 marzo sono cancellate*
@@ -68,4 +70,4 @@ I materiali sono su Virtuale
 
 ### Lezione del 21 marzo
 
-**Compiti per oggi**: leggere [questo articolo](https://www.cs.unibo.it/~michael.lodi2/csed2024/LO_under.pdf) e produrre uno schema/una sintesi, da consegnare su Virtuale
+**Compiti per oggi**: leggere [questo articolo](https://www.cs.unibo.it/~michael.lodi2/csed2024/LO_under.pdf) e produrre uno schema/una sintesi, da *consegnare su Virtuale*
