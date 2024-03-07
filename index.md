@@ -63,7 +63,7 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 [Metodologie e strategie didattiche](https://www.cs.unibo.it/~michael.lodi2/csed2024/strategie.pdf)
 
 
-*Le lezioni dell'8 e del 14 marzo sono cancellate*
+### *Le lezioni dell'8 e del 14 marzo sono cancellate*
 
 ### Lezione del 15 marzo
 
