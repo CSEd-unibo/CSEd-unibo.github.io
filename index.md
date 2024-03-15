@@ -67,6 +67,8 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 15 marzo
 
+* [Contenuti](pages/contenuti.md)
+* [_Programmi_](pages/programmi.md)
 
 ### Lezione del 21 marzo
 
