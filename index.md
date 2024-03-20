@@ -73,3 +73,7 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 ### Lezione del 21 marzo
 
 **Compiti per oggi**: leggere [questo articolo](https://www.cs.unibo.it/~michael.lodi2/csed2024/LO_under.pdf) e produrre uno schema/una sintesi, da *consegnare su Virtuale*
+
+### Lezione del 22 marzo
+
+[Scolleghiamoci](http://www.cs.unibo.it/~renzo/csed24/scolleghiamoci.pdf)
