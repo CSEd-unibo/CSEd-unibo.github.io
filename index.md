@@ -80,6 +80,6 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 [Scolleghiamoci](http://www.cs.unibo.it/~renzo/csed24/scolleghiamoci.pdf)
 
 
-## Lezione del 4 aprile
+### Lezione del 4 aprile
 
 **Compiti per oggi**: leggere [questo articolo](https://www.cs.unibo.it/~michael.lodi2/csed2024/LO_under.pdf) e produrre uno schema/una sintesi, da *consegnare su Virtuale* (potete consegnare anche oltre la scadenza)
