@@ -1,7 +1,7 @@
 ---
 title: Titolo Materiale Didattico
 author: Nome Cognome
-date: 20/02/24
+date: 27/03/24
 ---
 
 *Formato Provvisorio*
@@ -45,8 +45,9 @@ Elencare i contenuti che si suppone siano già stati svolti e appresi dagli stud
 ### Percorso
 Se si ipotizza che questa attività sia parte di un percorso ampio sullo stesso tema, descrivere qui il percorso
 
-## Contenuti (spiegati ai prof universitari)
-Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardanti esami obbligatori della triennale), elencarli semplicemente. Se l'attività riguarda contenuti specifici o particolari (es. elaborazione immagini, crittografia, quantum computing, specifiche tecniche di IA) illustrarli brevemente o fornire link, avendo in mente (solo in questa breve sezione) di spiegarli ad un informatico.
+## Contenuti (spiegati a un infomatico)
+Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardanti esami obbligatori della triennale), elencarli semplicemente.
+Se l'attività riguarda contenuti specifici o particolari (es. elaborazione immagini, crittografia, quantum computing, specifiche tecniche di IA) illustrarli brevemente o fornire link, avendo in mente (solo in questa breve sezione) di spiegarli ad un informatico.
 
 ## Grandi idee
 Se ha senso per il materiale proposto, descrivere brevemente (qualche frase) quali sono le "grandi idee" (come spiegato a lezione) che questa attività vuole insegnare.
