@@ -1,7 +1,7 @@
 ---
 title: Titolo Materiale Didattico
 author: Nome Cognome
-date: 01/04/24
+date: 20/02/24
 ---
 
 *Formato Provvisorio*
@@ -39,16 +39,14 @@ Perché è importante svolgere questa attività nella scuola?
 ## Innovatività
 Perché questa proposta è innovativa? Cosa è già presente su questo tema nella ricerca in Didattica dell'Informatica o nelle risorse disponibili online (è obbligatorio cercare risultati scientifici e risorse didattiche già presenti, e descriverli brevemente) e in cosa si differenzia/cosa mantiene/cosa va a migliorare questa proposta?
 
-### Percorso
-Se si ipotizza che questa attività sia parte di un percorso ampio (troppo ampio per entrare tutto nella relazione) sullo stesso tema, descrivere qui il percorso in modo schematico/sintetico.
-Indicare su quali parti del percorso si concentrerà la relazione.
-
 ## Prerequisiti
 Elencare i contenuti che si suppone siano già stati svolti e appresi dagli studenti
 
-## Contenuti (spiegati a un informatico)
-Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardanti esami obbligatori della triennale), elencarli semplicemente.
-Se l'attività riguarda contenuti specifici o particolari (es. elaborazione immagini, crittografia, computazione quantistica, specifiche tecniche di IA, ...) illustrarli brevemente o fornire link, avendo in mente (solo in questa breve sezione) di spiegarli ad un informatico.
+### Percorso
+Se si ipotizza che questa attività sia parte di un percorso ampio sullo stesso tema, descrivere qui il percorso
+
+## Contenuti (spiegati ai prof universitari)
+Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardanti esami obbligatori della triennale), elencarli semplicemente. Se l'attività riguarda contenuti specifici o particolari (es. elaborazione immagini, crittografia, quantum computing, specifiche tecniche di IA) illustrarli brevemente o fornire link, avendo in mente (solo in questa breve sezione) di spiegarli ad un informatico.
 
 ## Grandi idee
 Se ha senso per il materiale proposto, descrivere brevemente (qualche frase) quali sono le "grandi idee" (come spiegato a lezione) che questa attività vuole insegnare.
@@ -58,24 +56,26 @@ Nelle varie sottosezioni, vanno elencati traguardi e obiettivi di apprendimento 
 
 ### Traguardi/obiettivi generali dai documenti ministeriali/proposte
 Indicare quali traguardi/obiettivi generali presenti nei documenti rilevanti vengono
-raggiunti (es. Indicazioni nazionali per il primo ciclo,
+raggiunti (es. Indicazioni nazionali per il primo ciclo, Nuovi scenari,
 Proposta CINI numerata, Indicazioni nazionali / linee guida per scuola
 secondaria di secondo grado).
 
 ### Traguardi/obiettivi generali
-E' possibile (ma non obbligatorio e non sempre necessario) aggiungere i propri traguardi e obiettivi generali
+E' possibile (ma non obbligatorio e non sempre necessario) aggiungere i propri traguardi e obiettivi generali, come spiegato in classe
 
 ### Obiettivi specifici in forma operativa
 Gli obiettivi vanno scritti ipotizzando che inizino tutti con "Lo studente/la studentessa è in grado di...",
-seguendo la tassonomia di Bloom rivisitata (o le altre tassonomie mostrate),
+seguendo la tassonomia di Bloom rivisitata,
 e facendo attenzione a non cadere negli errori tipici, come spiegato in classe.
 
 ## Metodologie didattiche
-Indicare quali metodologie didattiche si utilizzano - sia quelle più generali (es. lezione frontale, dialogata, cooperative learning, flipped classroom) sia quelle specifiche (es. unplugged, pair-programming) citate o discusse a lezione - e spiegarle brevemente.
+Elencare brevemente quali metodologie didattiche si utilizzano e spiegarle brevemente.
+
+Sia quelle più generali (es. lezione frontale, dialogata, cooperative learning, flipped classroom) sia quelle specifiche (es. unplugged, pair-programming) citate o discusse a lezione.
 
 Massima libertà di introdurre altre metodologie non spiegate a lezione, debitamente corredate di chiara spiegazione e riferimenti bibliografici.
 
-Se si parla di didattica della programmazione, fare anche riferimento ai relativi concetti (macchina concettuale, misconcezioni, visualizzazione, program comprehension, ...) spiegati a lezione.
+Se si parla di didattica della programmazione, fare anche riferimento ai relativi concetti (macchina concettuale, misconcezioni, visualizzazione, program comprehension, eccetera) spiegati a lezione.
 
 ## Tempi
 Un'idea generale e indicativa dei tempi richiesti
@@ -91,10 +91,10 @@ Quali materiali e strumenti (hardware e software, di ogni tipo, non solo informa
 
 Viene lasciata a voi massima libertà su come organizzarla.
 Deve contenere almeno:
-1. Guida per gli insegnanti, deve contenere almeno:
-    * Indicazione chiara delle varie fasi dell'attività (o delle attività) e consigli su come utilizzare il materiale didattico. E' possibile inframezzarli al materiale didattico per studenti (ma in tal caso rendere esplicito e facile capire cosa è solo per l'insegnante e cosa invece può/deve essere dato agli studenti)
+1. Materiale didattico per studenti, se si pensa di fornirlo (es. slide, esercizi, riassunti)
+2. Guida per gli insegnanti, deve contenere almeno:
+    * Indicazione chiara delle varie fasi dell'attività e consigli su come utilizzare il materiale didattico. E' possibile inframezzarli al materiale didattico per studenti (ma in tal caso rendere esplicito e facile capire cosa è solo per l'insegnante e cosa invece può/deve essere dato agli studenti)
     * Suggerimenti su come valutare il raggiungimento degli obiettivi di apprendimento da voi individuati (focus non tanto sui voti, ma su valutazione formativa e continuativa)
-2. Materiale didattico per studenti, se si pensa di fornirlo (es. slide, esercizi, schede, riassunti...)
 
 La descrizione dovrebbe essere sufficientemente completa e dettagliata da consentire ad un insegnante di replicare l'esperienza senza sforzo (anche se poi starà al bravo insegnante eventualmente modificarla e adattarla al proprio contesto).
 
@@ -123,4 +123,4 @@ La struttura (sezioni e sottosezioni) qui fornita va rispettata con precisione.
 
 La tabella iniziale (titolo, autore, data) non va riprodotta in formato tabellare: sono campi utili per inserire nel documento formattato le relative informazioni (es. finiranno nei corrispettivi campi per titolo, autore, data se si converte questo documento con pandoc per generare latex o html).
 
-I docenti non valutano la relazione il base alla sua lunghezza: meglio una relazione breve e non ripetitiva, ma che dice esattamente le cose che mostrano comprensione dei contenuti del corso. Attenzione però ad inserire sufficienti dettagli affinché un insegnante possa replicare l'attività.
+I docenti non valutano la relazione il base alla sua lunghezza: meglio una relazione breve e non ripetitiva, ma che dice esattamente le cose che mostrano comprensione dei materiali del corso. Attenzione però ad inserire sufficienti dettagli affinché un insegnante possa replicare l'attività.
