@@ -39,12 +39,12 @@ Perché è importante svolgere questa attività nella scuola?
 ## Innovatività
 Perché questa proposta è innovativa? Cosa è già presente su questo tema nella ricerca in Didattica dell'Informatica o nelle risorse disponibili online (è obbligatorio cercare risultati scientifici e risorse didattiche già presenti, e descriverli brevemente) e in cosa si differenzia/cosa mantiene/cosa va a migliorare questa proposta?
 
+## Prerequisiti
+Elencare i contenuti che si suppone siano già stati svolti e appresi dagli studenti
+
 ### Percorso
 Se si ipotizza che questa attività sia parte di un percorso ampio (troppo ampio per entrare tutto nella relazione) sullo stesso tema, descrivere qui il percorso in modo schematico/sintetico.
 Indicare su quali parti del percorso si concentrerà la relazione.
-
-## Prerequisiti
-Elencare i contenuti che si suppone siano già stati svolti e appresi dagli studenti
 
 ## Contenuti (spiegati a un informatico)
 Se si tratta di contenuti banalmente chiari per un informatico (e.g. riguardanti esami obbligatori della triennale), elencarli semplicemente.
