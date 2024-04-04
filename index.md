@@ -82,9 +82,12 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 4 aprile
 
-**Compiti per oggi**: leggere [questo articolo](https://www.cs.unibo.it/~michael.lodi2/csed2024/LO_under.pdf) e produrre uno schema/una sintesi, da *consegnare su Virtuale*
+[comment]: # (  **Compiti per oggi**: leggere [questo articolo](https://www.cs.unibo.it/~michael.lodi2/csed2024/LO_under.pdf) e produrre uno schema/una sintesi, da *consegnare su Virtuale* )
 
 
-[Progettazione didattica, obiettivi di apprendimento]()
+[Progettazione didattica, obiettivi di apprendimento](https://www.cs.unibo.it/~michael.lodi2/csed2024/progettazione.pdf)
 
-[Relazione d'esame: aspetti pratici ed esempi]()
+[Relazione d'esame: aspetti pratici ed esempi](https://www.cs.unibo.it/~michael.lodi2/csed2024/relazione.pdf)
+
+
+### Lezione del 5 aprile
