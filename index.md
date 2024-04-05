@@ -91,3 +91,14 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 
 ### Lezione del 5 aprile
+[Fare è imparare](http://www.cs.unibo.it/~renzo/csed24/fare.pdf)
+
+### Lezione del 11 aprile
+
+### Lezione del 18 aprile
+
+### Lezione del 19 aprile
+<!--
+[Fare è capire](http://www.cs.unibo.it/~renzo/csed23/farecapire.pdf)
+-->
+
