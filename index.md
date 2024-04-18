@@ -109,9 +109,9 @@ Didattica della Programmazione (parte 1): [il video della lezione è disponibile
 
 Didattica della Programmazione (parte 2)
 
-Tutte le slide di Didattica della Programmazione
+[Tutte le slide di Didattica della Programmazione](https://www.cs.unibo.it/~michael.lodi2/csed2024/programmazione.pdf)
 
-Vengono assegnati compiti su Virtuale per il 28 aprile e per il 7 maggio
+Svolgere il compito sui Pattern Elementari su Virtuale per il 28 aprile e poi il compito di "peer-evaluation" per il 7 maggio
 
 ### Lezione del 19 aprile
 <!--
