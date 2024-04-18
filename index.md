@@ -101,12 +101,24 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 11 aprile
 
+Didattica della Programmazione (parte 1): [il video della lezione è disponibile su Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=86fd1ed9-ef73-4222-94e5-b14f0077c8a6&instance=Virtuale)
+
 ### *La lezione del 12 aprile è cancellata*
 
 ### Lezione del 18 aprile
+
+Didattica della Programmazione (parte 2)
+
+Tutte le slide di Didattica della Programmazione
+
+Vengono assegnati compiti su Virtuale per il 28 aprile e per il 7 maggio
 
 ### Lezione del 19 aprile
 <!--
 [Fare è capire](http://www.cs.unibo.it/~renzo/csed23/farecapire.pdf)
 -->
+
+### Lezione del 2 maggio
+
+*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi*
 
