@@ -114,9 +114,7 @@ Didattica della Programmazione (parte 2)
 Svolgere il compito sui Pattern Elementari su Virtuale per il 28 aprile e poi il compito di "peer-evaluation" per il 7 maggio
 
 ### Lezione del 19 aprile
-<!--
 [Fare è capire](http://www.cs.unibo.it/~renzo/csed23/farecapire.pdf)
--->
 
 ### Lezione del 2 maggio
 
