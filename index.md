@@ -130,3 +130,15 @@ Svolgere il compito sui Pattern Elementari su Virtuale per il 28 aprile e poi il
 
 [NAND game](https://nandgame.com/)
 
+### Lezione del 9 maggio
+
+Valutazione degli apprendimenti
+
+### Lezione del 10 maggio
+
+### Leizione del 16 maggio
+
+### Ricevimento allargato del 17 maggio
+
+*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi*
+
