@@ -136,6 +136,8 @@ Valutazione degli apprendimenti
 
 ### Lezione del 10 maggio
 
+[Libertà e Scuola](http://www.cs.unibo.it/~renzo/csed24/liberta.pdf)
+
 ### Leizione del 16 maggio
 
 ### Ricevimento allargato del 17 maggio
