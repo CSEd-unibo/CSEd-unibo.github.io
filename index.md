@@ -132,7 +132,7 @@ Svolgere il compito sui Pattern Elementari su Virtuale per il 28 aprile e poi il
 
 ### Lezione del 9 maggio
 
-Valutazione degli apprendimenti
+[Valutazione degli apprendimenti](https://www.cs.unibo.it/~michael.lodi2/csed2024/valutazione.pdf)
 
 ### Lezione del 10 maggio
 
