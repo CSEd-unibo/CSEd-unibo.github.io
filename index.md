@@ -138,7 +138,8 @@ Svolgere il compito sui Pattern Elementari su Virtuale per il 28 aprile e poi il
 
 [Libertà e Scuola](http://www.cs.unibo.it/~renzo/csed24/liberta.pdf)
 
-### Leizione del 16 maggio
+### Lezione del 16 maggio
+[reti scollegate](http://www.cs.unibo.it/~renzo/csed24/unplugged-internet0.pdf)
 
 ### Ricevimento allargato del 17 maggio
 
