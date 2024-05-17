@@ -4,8 +4,6 @@ author: Nome Cognome
 date: 01/04/24
 ---
 
-*Formato Provvisorio*
-
 Esame di Didattica dell'Informatica, A.A. 2023/2024
 
 # Changelog (se necessario)
