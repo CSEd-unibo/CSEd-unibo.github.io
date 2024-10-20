@@ -8,6 +8,9 @@ Students, by reading, tracing, completing, or solving various instances of diffe
 
 It's not about teaching the pattern in the abstract, but rather observing it (and naming it) explicitly in concrete instances of its application.
 
+Italian version of this page: [here](https://csed-unibo.github.io/#!pages/pattern_cicli.md)
+
+
 ## Linear Scans
 
 These are scans where we process *all* the elements of a collection, knowing in advance (possibly in constant time) how many elements there are or when we have reached the end.

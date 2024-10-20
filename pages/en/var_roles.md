@@ -12,9 +12,9 @@ We do not suggest teaching the roles in the abstract, but rather explicitly iden
 Original roles [here](http://saja.kapsi.fi/var_roles/role_list.html).
 More information on the use of roles in teaching can be found [here](http://saja.kapsi.fi/var_roles/teaching.html).
 
-Italian version of this page: [here](../pages/ruoli_variabili.md)
+Italian version of this page: [here](https://csed-unibo.github.io/#!pages/ruoli_variabili.md)
 
-*NB: complete the **fill-in-the-blank exercises** listed under each role **only after reading all the roles**.* [Solutions](roles_solutions.md)
+*NB: complete the **fill-in-the-blank exercises** listed under each role **only after reading all the roles**.* [Solutions](roles_solution.md)
 
 ## Fixed Value
 A variable takes the role of a "fixed value" if its value is not modified at runtime, **after initialization**.
