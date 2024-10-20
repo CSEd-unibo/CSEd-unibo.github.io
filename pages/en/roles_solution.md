@@ -1,17 +1,5 @@
 
-# Variable Roles
-
-The studies on variable roles are by [Jorma Sajaniemi](http://saja.kapsi.fi/) and colleagues.
-This page is inspired by the material available [here](http://saja.kapsi.fi/var_roles/).
-
-Variable roles refer to typical uses that variables have in programs.
-
-[According](http://www.cs.joensuu.fi/~saja/var_roles/abstracts/cse05.pdf) to the researchers who proposed them, the following roles cover 99% of simple programs.
-
-We do not suggest teaching the roles in the abstract, but rather explicitly identifying and naming them when encountering concrete examples of their application.
-More information on the use of roles in teaching can be found [here](http://saja.kapsi.fi/var_roles/teaching.html).
-
-*NB: complete the **fill-in-the-blank exercises** listed under each role only after reading all the roles.*
+# Variable Roles Solutions
 
 ## Fixed Value
 A variable takes the role of a "fixed value" if its value is not modified at runtime, **after initialization**.
@@ -195,13 +183,3 @@ print()
 The variable ```p``` is a **walker**
 The variable ```LL``` is  [a fixed value]
 What does the program do? [Traverses and prints all the values of the Linked List LL]
-
-
-
-
-Other roles, which we will not study today, include:
-
-## Organizer
-These are essentially auxiliary data structures (e.g., lists) used to rearrange elements after initialization.
-## Container
-An auxiliary data structure in which elements can be added and removed (e.g., a stack).
