@@ -246,3 +246,5 @@ nel quale Aica supera abbondantemente il limite del ridicolo affermando che con 
 [Wiki del corso A.A. 21/22](../index2122.md)
 
 [Wiki del corso A.A. 22/23](../index2223.md)
+
+[Wiki del corso A.A. 23/24](../index2324.md)
