@@ -1,4 +1,4 @@
-# Didattica dell'Informatica - Università di Bologna
+ # Didattica dell'Informatica - Università di Bologna
 
 ## Anno Accademico 2023/24
 
