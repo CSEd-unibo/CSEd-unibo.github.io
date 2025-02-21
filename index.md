@@ -43,11 +43,13 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 ### Lezione del 26 febbario
 
 Per questa lezione:
+
 * Portare il proprio computer
 * Installare l'[IDE di Arduino](https://www.arduino.cc/en/software)
 
 ### Lezione del 28 febbario
 
 Per questa lezione:
+
 * Leggere le slide sulle "big ideas"
 * Proporre (almeno) una "big idea" sul forum su Virtuale (ed eventualmente interagire con i colleghi sul forum)
