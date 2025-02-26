@@ -47,6 +47,10 @@ Per questa lezione:
 * Portare il proprio computer
 * Installare l'[IDE di Arduino](https://www.arduino.cc/en/software)
 
+[Fare è imparare](http://www.cs.unibo.it/~renzo/csed25/fare.pdf)
+
+[Fare è capire](http://www.cs.unibo.it/~renzo/csed25/farecapire.pdf)
+
 ### Lezione del 28 febbario
 
 Per questa lezione:
