@@ -56,6 +56,7 @@ Per questa lezione:
 [Informatica senza computer](https://www.cs.unibo.it/~michael.lodi2/csed2025/unplugged.pdf)
 
 Materiali di studio:
+
 * fino a pagina 9 di [questo capitolo](https://inria.hal.science/hal-02379212v1/preview/Libro-preprint.pdf)
 * sezione 8.4 di [questa tesi](https://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf#page=131.25)
 
