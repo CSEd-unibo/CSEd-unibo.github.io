@@ -40,7 +40,7 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 [Big ideas](https://www.cs.unibo.it/~michael.lodi2/csed2025/bigideas.pdf)
 
-### Lezione del 26 febbario
+### Lezione del 26 febbraio
 
 Per questa lezione:
 
@@ -51,9 +51,21 @@ Per questa lezione:
 
 [Fare è capire](http://www.cs.unibo.it/~renzo/csed25/farecapire.pdf)
 
-### Lezione del 28 febbario
+### Lezione del 28 febbraio
+
+[Informatica senza computer](https://www.cs.unibo.it/~michael.lodi2/csed2025/unplugged.pdf)
+
+Materiali di studio:
+* fino a pagina 9 di [questo capitolo](https://inria.hal.science/hal-02379212v1/preview/Libro-preprint.pdf)
+* sezione 8.4 di [questa tesi](https://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf#page=131.25)
+
+
+### Lezione del 5 marzo
+
+
+### Lezione del 7 marzo
 
 Per questa lezione:
 
-* Leggere le slide sulle "big ideas"
-* Proporre (almeno) una "big idea" sul forum su Virtuale (ed eventualmente interagire con i colleghi sul forum)
+* Leggere le indicazioni aggiuntive sul forum delle Big ideas, rileggere con attenzione le slide sulle Big ideas, e provare a migliorare una "propria" Big idea e/o quella/e di altri studenti
+
