@@ -63,6 +63,7 @@ Materiali di studio:
 
 ### Lezione del 5 marzo
 
+[Didattica dell’Architettura dei Sistemi](http://www.cs.unibo.it/~renzo/csed25/architecture.pdf)
 
 ### Lezione del 7 marzo
 
