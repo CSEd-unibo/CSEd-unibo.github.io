@@ -67,7 +67,16 @@ Materiali di studio:
 
 ### Lezione del 7 marzo
 
+[Didattica della Programmazione: introduzione, conoscenze, cognizione umana, schemi e macchina concettuale](https://www.cs.unibo.it/~michael.lodi2/csed2025/didaprog07032025.pdf)
+
+
+### Lezione del 12 marzo
+
+
+### Lezione del 14 marzo
+
 Per questa lezione:
 
-* Leggere le indicazioni aggiuntive sul forum delle Big ideas, rileggere con attenzione le slide sulle Big ideas, e provare a migliorare una "propria" Big idea e/o quella/e di altri studenti
-
+* ripassare le slide di Didattica della programmazione (7 marzo)
+* se si era assenti, è possibile guardare una registrazione (fino a 1:25:00) dello scorso anno, su Virtuale
+* portare il computer (o tablet con schermo grande)
