@@ -72,6 +72,9 @@ Materiali di studio:
 
 ### Lezione del 12 marzo
 
+[Didattica dei Sistemi Operativi](http://www.cs.unibo.it/~renzo/csed25/os.pdf)
+
+[Il ristorante Brachetti](http://www.cs.unibo.it/~renzo/csed25/ristorante.pdf)
 
 ### Lezione del 14 marzo
 
