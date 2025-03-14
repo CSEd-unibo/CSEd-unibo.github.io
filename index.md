@@ -69,6 +69,8 @@ Materiali di studio:
 
 [Didattica della Programmazione: introduzione, conoscenze, cognizione umana, schemi e macchina concettuale](https://www.cs.unibo.it/~michael.lodi2/csed2025/didaprog07032025.pdf)
 
+Registrazione dello scorso anno presente su Virtuale.
+
 
 ### Lezione del 12 marzo
 
@@ -78,8 +80,14 @@ Materiali di studio:
 
 ### Lezione del 14 marzo
 
-Per questa lezione:
+[Didattica della Programmazione: misconcezioni, scaffolding. Didattica remota e costruzione di quiz](https://www.cs.unibo.it/~michael.lodi2/csed2025/didaprog14032025.pdf)
 
-* ripassare le slide di Didattica della programmazione (7 marzo)
-* se si era assenti, è possibile guardare una registrazione (fino a 1:25:00) dello scorso anno, su Virtuale
-* portare il computer (o tablet con schermo grande)
+Registrazione presente su Virtuale.
+
+Provare a svolgere il quiz su Virtuale.
+
+### Lezione del 19 marzo
+
+### Lezione del 21 marzo
+
+Mettersi in pari con le prime due lezioni di Didattica della programmazione.
