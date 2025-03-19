@@ -88,6 +88,8 @@ Provare a svolgere il quiz su Virtuale.
 
 ### Lezione del 19 marzo
 
+[Didattica delle Reti](http://www.cs.unibo.it/~renzo/csed25/network.pdf)
+
 ### Lezione del 21 marzo
 
 Mettersi in pari con le prime due lezioni di Didattica della programmazione.
