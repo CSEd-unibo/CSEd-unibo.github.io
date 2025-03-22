@@ -67,7 +67,7 @@ Materiali di studio:
 
 ### Lezione del 7 marzo
 
-[Didattica della Programmazione: introduzione, conoscenze, cognizione umana, schemi e macchina concettuale](https://www.cs.unibo.it/~michael.lodi2/csed2025/didaprog07032025.pdf)
+Didattica della Programmazione: introduzione, conoscenze, cognizione umana, schemi e macchina concettuale
 
 Registrazione dello scorso anno presente su Virtuale.
 
@@ -80,7 +80,7 @@ Registrazione dello scorso anno presente su Virtuale.
 
 ### Lezione del 14 marzo
 
-[Didattica della Programmazione: misconcezioni, scaffolding. Didattica remota e costruzione di quiz](https://www.cs.unibo.it/~michael.lodi2/csed2025/didaprog14032025.pdf)
+Didattica della Programmazione: misconcezioni, scaffolding. Didattica remota e costruzione di quiz
 
 Registrazione presente su Virtuale.
 
@@ -92,4 +92,15 @@ Provare a svolgere il quiz su Virtuale.
 
 ### Lezione del 21 marzo
 
-Mettersi in pari con le prime due lezioni di Didattica della programmazione.
+[TUTTE le slide di Didattica della programmazione qui](https://www.cs.unibo.it/~michael.lodi2/csed2025/didaprogtutte.pdf)
+
+Didattica della programmazione: Block model, ruoli delle variabili, pattern per la scansione di sequenze.
+
+Compito di valutazione tra pari:
+
+* in maniera individuale, studiare [i pattern per la scansione di sequenze](pages/pattern_cicli.md) e svolgere il compito indicato in fondo
+* consegna su Virtuale per il **4 aprile**
+* il vostro lavoro verrà poi "valutato" da due colleghi per il **23 aprile**
+* esperimento di valutazione tra pari... fatto prima della lezione sulla valutazione (che si terrà a Maggio)
+
+
