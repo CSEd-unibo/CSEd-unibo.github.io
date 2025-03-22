@@ -103,4 +103,10 @@ Compito di valutazione tra pari:
 * il vostro lavoro verrà poi "valutato" da due colleghi per il **23 aprile**
 * esperimento di valutazione tra pari... fatto prima della lezione sulla valutazione (che si terrà a Maggio)
 
+### Le lezioni del 26 e del 28 marzo non si svolgeranno
+
+
+### Lezione del 2 aprile
+
+
 
