@@ -106,7 +106,12 @@ Compito di valutazione tra pari:
 ### Le lezioni del 26 e del 28 marzo non si svolgeranno
 
 
-### Lezione del 2 aprile
+### Lezione del 1 aprile (al posto di quella del 2 aprile)
+
+
+### Lezione del 4 aprile
+
+Per oggi completare la prima parte del compito
 
 
 
