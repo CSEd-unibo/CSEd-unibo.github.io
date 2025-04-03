@@ -108,10 +108,15 @@ Compito di valutazione tra pari:
 
 ### Lezione del 1 aprile (al posto di quella del 2 aprile)
 
+[Necessity learning design](https://www.cs.unibo.it/~michael.lodi2/csed2025/nld.pdf)
+
+* Studiare [questo breve articolo](https://cris.unibo.it/retrieve/37c19746-4456-43e7-b4fe-f0e141b80258/Necessity%20Itadinfo.pdf)
+* Per approfondimenti, [l'articolo completo](https://infedu.vu.lt/journal/INFEDU/article/721/info)
+
 
 ### Lezione del 4 aprile
 
-Per oggi completare la prima parte del compito
+Per stasera completare la prima parte del compito
 
 
 
