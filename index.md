@@ -118,5 +118,9 @@ Compito di valutazione tra pari:
 
 Per stasera completare la prima parte del compito
 
+Paradigmi e teorie dell'apprendimento
+
+* [Oraganizzatore grafico anticipato](https://www.cs.unibo.it/~michael.lodi2/csed2025/organizzatoreParadigmi.pdf)
+
 
 
