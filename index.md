@@ -110,17 +110,19 @@ Compito di valutazione tra pari:
 
 [Necessity learning design](https://www.cs.unibo.it/~michael.lodi2/csed2025/nld.pdf)
 
+* Provare [questi esercizi](https://www.cs.unibo.it/~michael.lodi2/nld/)
 * Studiare [questo breve articolo](https://cris.unibo.it/retrieve/37c19746-4456-43e7-b4fe-f0e141b80258/Necessity%20Itadinfo.pdf)
 * Per approfondimenti, [l'articolo completo](https://infedu.vu.lt/journal/INFEDU/article/721/info)
 
+Registrazione della parte finale post-esercitazione presente su Virtuale
 
 ### Lezione del 4 aprile
 
-Per stasera completare la prima parte del compito
-
-Paradigmi e teorie dell'apprendimento
+[Paradigmi e teorie dell'apprendimento](https://www.cs.unibo.it/~michael.lodi2/csed2025/paradigmi.pdf)
 
 * [Oraganizzatore grafico anticipato](https://www.cs.unibo.it/~michael.lodi2/csed2025/organizzatoreParadigmi.pdf)
+* Leggere [questo brano](https://lcl.media.mit.edu/resources/activity/week1/gears.it.pdf?pdf=gears.it) e riflettere su quali sono stati "gli ingranaggi della vostra infanzia"
+* Studiare il capitolo 3 di [questa tesi](https://amsdottorato.unibo.it/id/eprint/9188/1/Tesi_Dottorato_Lodi.pdf#page=53.20)
 
 
 
