@@ -118,11 +118,40 @@ Registrazione della parte finale post-esercitazione presente su Virtuale
 
 ### Lezione del 4 aprile
 
-[Paradigmi e teorie dell'apprendimento](https://www.cs.unibo.it/~michael.lodi2/csed2025/paradigmi.pdf)
+[Paradigmi e teorie dell'apprendimento (slide aggiornate)](https://www.cs.unibo.it/~michael.lodi2/csed2025/paradigmi.pdf)
 
 * [Oraganizzatore grafico anticipato](https://www.cs.unibo.it/~michael.lodi2/csed2025/organizzatoreParadigmi.pdf)
 * Leggere [questo brano](https://lcl.media.mit.edu/resources/activity/week1/gears.it.pdf?pdf=gears.it) e riflettere su quali sono stati "gli ingranaggi della vostra infanzia"
 * Studiare il capitolo 3 di [questa tesi](https://amsdottorato.unibo.it/id/eprint/9188/1/Tesi_Dottorato_Lodi.pdf#page=53.20)
 
 
+### Lezione del 9 aprile
+
+[Dal basso o dall'alto?](https://www.cs.unibo.it/~michael.lodi2/csed2025/topbottom.pdf)
+
+[Linguaggi di programmazione per la didattica](https://www.cs.unibo.it/~michael.lodi2/csed2025/linguaggi.pdf)
+
+* Studiare tutto (in particolare da pagina 9) [questo capitolo](https://inria.hal.science/hal-02379212v1/preview/Libro-preprint.pdf)
+* Studiare la sezione 8.3 di [questa tesi](https://amsdottorato.unibo.it/id/eprint/9188/1/Tesi_Dottorato_Lodi.pdf#page=120.40)
+
+
+### Lezione del 11 aprile
+
+### Lezione del 16 aprile
+
+Progettazione didattica e dettagli sull'esame finale
+
+### Lezione del 23 aprile
+
+### Lezione del 30 aprile
+
+### Lezione del 7 maggio
+
+*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi*
+
+### Lezione del 9 maggio
+
+### Lezione del 14 maggio
+
+### Lezione del 16 maggio
 
