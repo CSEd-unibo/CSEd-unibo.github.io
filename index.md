@@ -137,6 +137,11 @@ Registrazione della parte finale post-esercitazione presente su Virtuale
 
 ### Lezione del 11 aprile
 
+[Strategie e metodologie didattiche](https://www.cs.unibo.it/~michael.lodi2/csed2025/strategie.pdf)
+
+* Il documento prodotto dagli studenti è disponibile su Virtuale (sia in una versione congelata, sia in versione ancora modificabile - liberi di proseguire il lavoro!)
+* Più avanti verrà linkata una versione revisionata dal prof
+
 ### Lezione del 16 aprile
 
 Progettazione didattica e dettagli sull'esame finale
