@@ -144,7 +144,11 @@ Registrazione della parte finale post-esercitazione presente su Virtuale
 
 ### Lezione del 16 aprile
 
-Progettazione didattica e dettagli sull'esame finale
+[Progettazione didattica](https://www.cs.unibo.it/~michael.lodi2/csed2025/progettazione.pdf)
+
+[Dettagli sull'esame finale](https://www.cs.unibo.it/~michael.lodi2/csed2025/relazionefinale.pdf)
+
+La registrazione della lezione sarà disponibile nei prossimi giorni su Virtuale
 
 ### Lezione del 23 aprile
 
