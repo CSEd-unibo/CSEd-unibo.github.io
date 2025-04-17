@@ -1,10 +1,10 @@
 ---
 title: Titolo Materiale Didattico
 author: Nome Cognome
-date: 01/04/24
+date: 17/04/25
 ---
 
-Esame di Didattica dell'Informatica, A.A. 2023/2024
+Esame di Didattica dell'Informatica, A.A. 2024/2025
 
 # Changelog (se necessario)
 
@@ -25,6 +25,7 @@ l'attività?
 
 - Per la scuola dell'infanzia / primaria / scuole \"medie\" si può fare riferimento a una delle discipline nelle Indicazioni Nazionali, nei Nuovi Scenari, e/o alla disciplina Informatica dalla Proposta CINI
 - Per le scuole secondarie di secondo grado (superiori), fare riferimento ai documenti ministeriali (e secondariamente alla Proposta CINI)
+- Se verranno pubblicate *in modo definitivo* nuovi documenti ministeriali, riferisi anche a quelli ([verranno linkati qui]()).
 
 Può essere---adattata---rivolta a studenti di diverse età e indirizzi?
 
@@ -92,7 +93,8 @@ Deve contenere almeno:
 1. Guida per gli insegnanti, deve contenere almeno:
     * Indicazione chiara delle varie fasi dell'attività (o delle attività) e consigli su come utilizzare il materiale didattico. E' possibile inframezzarli al materiale didattico per studenti (ma in tal caso rendere esplicito e facile capire cosa è solo per l'insegnante e cosa invece può/deve essere dato agli studenti)
     * Suggerimenti su come valutare il raggiungimento degli obiettivi di apprendimento da voi individuati (focus non tanto sui voti, ma su valutazione formativa e continuativa)
-2. Materiale didattico per studenti, se si pensa di fornirlo (es. slide, esercizi, schede, riassunti...)
+2. Materiale didattico per studenti, se si pensa di fornirlo (es. slide, esercizi, schede, riassunti, tool online...)
+    * Se possibile, cercare di rendere il documento principale completo (es. se è presente un link a poche slide o a un breve quiz, mettere gli screen delle slide / le domande del quiz anche nel testo della relazione, di modo che chi la legge non debba continuamente passare da un file all'altro)
 
 La descrizione dovrebbe essere sufficientemente completa e dettagliata da consentire ad un insegnante di replicare l'esperienza senza sforzo (anche se poi starà al bravo insegnante eventualmente modificarla e adattarla al proprio contesto).
 
