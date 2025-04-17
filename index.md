@@ -146,9 +146,11 @@ Registrazione della parte finale post-esercitazione presente su Virtuale
 
 [Progettazione didattica](https://www.cs.unibo.it/~michael.lodi2/csed2025/progettazione.pdf)
 
+* Studiare bene [questo articolo](https://oaj.fupress.net/index.php/formare/article/view/13175/11019) (ignorare gli esempi sulla tassonimia RIZA)
+
 [Dettagli sull'esame finale](https://www.cs.unibo.it/~michael.lodi2/csed2025/relazionefinale.pdf)
 
-La registrazione della lezione sarà disponibile nei prossimi giorni su Virtuale
+La registrazione è su Virtuale
 
 ### Lezione del 23 aprile
 
