@@ -154,6 +154,18 @@ La registrazione è su Virtuale
 
 ### Lezione del 23 aprile
 
+[Informatica a scuola (slide riordinate e integrate rispetto a quelle presentate in classe)](https://www.cs.unibo.it/~michael.lodi2/csed2025/infoscuola.pdf)
+
+La registrazione è su Virtuale, insieme ad un forum di discussione.
+
+* Studiare [questo articolo](https://www.cs.unibo.it/~michael.lodi2/60cfu/materiali/itadinfo_coding.pdf) sulle parole Coding e Pensiero computazionale nei documenti ministeriali
+* Studiare [questo articolo](https://ioinformatics.org/journal/v14_2020_113_132.pdf) sulle caratteristiche del pensiero computazionale (potete saltare la lunga tabella nelle prime pagine)
+* Studiare [questo articolo](https://mondodigitale.aicanet.net/2017-5/articoli/MD72_02_abbiamo_davvero_bisogno_del_pensiero_computazionale.pdf) sul Pensiero computazionale
+* Per approfondimenti, [questo lungo articolo](https://link.springer.com/article/10.1007/s11191-021-00202-5)
+
+Per la relazione d'esame sarà importante tenere conto dei traguardi e obiettivi presenti nei documenti ministeriali citati nelle slide per i diversi livelli di scuola.
+
+
 ### Lezione del 30 aprile
 
 ### Lezione del 7 maggio
