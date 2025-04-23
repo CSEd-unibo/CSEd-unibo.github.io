@@ -1,3 +1,9 @@
+##PREMESSA
+
+Questi contenuti sono stati scritti da R. Davoli una decina di anni fa, ma, essendo conoscenza per lo più conoscenza a medio-lungo termine, sono perfettamente attuali.
+
+Più di recente, abbiamo ragionato di contenuti insieme agli insegnanti [nel progetto I4](https://www.cs.unibo.it/~michael.lodi2/i4/) (vedere i 4 "possibili temi")
+
 ##CONOSCENZE DI BASE
 
 (v. [Concetti fondamentali dell'Informatica](concetti_fondamentali.md) )
@@ -321,3 +327,6 @@ Programma come testo, diritto di autore. Concetto di Plagio. Licenze.
 Software proprietario e software libero.
 Protocolli e Formati aperti e chiusi.
 Open Data.
+
+
+

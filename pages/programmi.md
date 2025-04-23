@@ -1,4 +1,4 @@
-#Riflessioni sui *Programmi*
+#Riflessioni sui *"Programmi"*
 
 ##Tabella A-41
 
@@ -30,13 +30,15 @@ ragioneria (fortunatamente ad esaurimento) consente l'insegnamento di:
 
 [Scuola secondaria di II grado in Italia](https://it.wikipedia.org/wiki/Scuola_secondaria_di_secondo_grado_in_Italia)
 
-[Quadri orari delle scuole secondarie superiori](https://www.orientamentoistruzione.it/_file/documenti/QUADRI_ORARI/MIUR-%20Scuola%20Secondaria-superiore.pdf)
+[Scuola secondaria di II grado in Italia (Ministero)](https://www.mim.gov.it/web/guest/scuola-secondaria-di-secondo-grado)
+
+[Quadri orari delle scuole secondarie superiori](https://www.zanichelli.it/scuola/piani-di-studio-scuola-secondaria-di-ii-grado)
 
 [Esami di Stato](https://www.istruzione.it/esame_di_stato/index.shtml)
 
 ##Licei
 
-[Indicazioni Nazionali](https://www.istruzione.it/alternanza/allegati/NORMATIVA%20ASL/INDICAZIONI%20NAZIONALI%20PER%20I%20LICEI.pdf)
+**[Indicazioni Nazionali](https://www.istruzione.it/alternanza/allegati/NORMATIVA%20ASL/INDICAZIONI%20NAZIONALI%20PER%20I%20LICEI.pdf)**
 
 ###Liceo Scientifico, Articolazione: Scienze Applicate
 
@@ -86,8 +88,8 @@ Quinto Anno:
 *Lo studente diverrà familiare con gli strumenti informatici, al fine precipuo di rappresentare e manipolare oggetti matematici e studierà le modalità di rappresentazione dei dati elementari testuali e multimediali.  Un tema fondamentale di studio sarà il concetto di algoritmo e l’elaborazione di strategie di risoluzioni algoritmiche nel caso di problemi semplici e di facile modellizzazione; e, inoltre, il concetto di funzione calcolabile e di calcolabilità e alcuni semplici esempi relativi*
 
 ## Tecnici e Professionali
-[Linee guida primo biennio](http://www.gazzettaufficiale.it/eli/gu/2010/09/22/222/so/222/sg/pdf)
-[Linee guida secondo biennio e quinto anno](http://www.gazzettaufficiale.it/eli/gu/2012/03/30/76/so/60/sg/pdf)
+**[Linee guida primo biennio](http://www.gazzettaufficiale.it/eli/gu/2010/09/22/222/so/222/sg/pdf)**
+**[Linee guida secondo biennio e quinto anno](http://www.gazzettaufficiale.it/eli/gu/2012/03/30/76/so/60/sg/pdf)**
 
 ##Tecnico settore Economico
 
