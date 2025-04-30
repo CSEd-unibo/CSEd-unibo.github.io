@@ -168,6 +168,10 @@ Per la relazione d'esame sarà importante tenere conto dei traguardi e obiettivi
 
 ### Lezione del 30 aprile
 
+[Valutazione](https://www.cs.unibo.it/~michael.lodi2/csed2025/valutazione.pdf)
+
+* Studiare [questo articolo](http://www.laboratorioformazione.it/index.php?view=download&alias=128-le-rubriche-valutative&category_slug=87-mario-castoldi&option=com_docman&Itemid=514) sulla costruzione di una rubric
+
 ### Lezione del 7 maggio
 
 *Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi*
