@@ -182,7 +182,7 @@ Ultima lezione del prof Lodi, su argomenti "avanzati"
 
 ### Ricevimento allargato del 14 maggio
 
-*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi.* **La lezione verrà anche trasmessa su Teams per favorire la partecipazione**
+*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi.* **Il ricevimento verrà anche trasmesso su Teams per favorire la partecipazione**
 
 ### Finale del 16 maggio (salvo imprevisti)
 
