@@ -178,7 +178,12 @@ Per la relazione d'esame sarà importante tenere conto dei traguardi e obiettivi
 
 ### Lezione del 9 maggio
 
-### Lezione del 14 maggio
+Ultima lezione del prof Lodi, su argomenti "avanzati"
 
-### Lezione del 16 maggio
+### Ricevimento allargato del 14 maggio
 
+*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi.* **La lezione verrà anche trasmessa su Teams per favorire la partecipazione**
+
+### Finale del 16 maggio (salvo imprevisti)
+
+Una lezione speciale del Prof. Davoli
