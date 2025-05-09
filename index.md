@@ -178,7 +178,13 @@ Per la relazione d'esame sarà importante tenere conto dei traguardi e obiettivi
 
 ### Lezione del 9 maggio
 
-Ultima lezione del prof Lodi, su argomenti "avanzati"
+[Argomenti "avanzati"](https://www.cs.unibo.it/~michael.lodi2/csed2025/avanzati.pdf) (contiene anche esempi di attività e unità didattiche)
+
+* Scaffolding con UMC
+* Didattica degli Algoritmi e delle Strutture dati oltre l'unplugged
+* Aggiornamenti su Snap!
+* Didattica della Crittografia
+
 
 ### Ricevimento allargato del 14 maggio
 
