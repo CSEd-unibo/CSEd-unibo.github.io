@@ -186,9 +186,12 @@ Per la relazione d'esame sarà importante tenere conto dei traguardi e obiettivi
 * Didattica della Crittografia
 
 
+Registrazione presente su Virtuale.
+
+
 ### Ricevimento allargato del 14 maggio
 
-*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi.* **Il ricevimento verrà anche trasmesso su Teams per favorire la partecipazione**
+*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi.* **Il ricevimento verrà anche trasmesso su Teams (aula virtuale del corso) per favorire la partecipazione**
 
 ### Finale del 16 maggio (salvo imprevisti)
 
