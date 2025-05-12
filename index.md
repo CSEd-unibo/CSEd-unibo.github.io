@@ -191,7 +191,7 @@ Registrazione presente su Virtuale.
 
 ### Ricevimento allargato del 14 maggio
 
-*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi.* **Il ricevimento verrà anche trasmesso su Teams (aula virtuale del corso) per favorire la partecipazione**
+*Gli studenti presentano possibili idee per la relazione finale, discusse con docenti e colleghi.* **Il ricevimento verrà anche trasmesso su Teams ([Lezioni online qui](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/479040)) per favorire la partecipazione**
 
 ### Finale del 16 maggio (salvo imprevisti)
 
