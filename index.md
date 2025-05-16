@@ -196,3 +196,5 @@ Registrazione presente su Virtuale.
 ### Finale del 16 maggio (salvo imprevisti)
 
 Una lezione speciale del Prof. Davoli
+[Libertà](http://www.cs.unibo.it/~renzo/csed25/liberta.pdf)
+
