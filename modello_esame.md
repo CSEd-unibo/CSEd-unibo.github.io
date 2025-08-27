@@ -1,7 +1,7 @@
 ---
 title: Titolo Materiale Didattico
 author: Nome Cognome
-date: 17/04/25
+date: 27/08/25
 ---
 
 Esame di Didattica dell'Informatica, A.A. 2024/2025
@@ -23,9 +23,8 @@ In quale specifica disciplina scolastica (o le discipline, ovviamente
 l'informatica deve essere la disciplina prevalente) si colloca
 l'attività?
 
-- Per la scuola dell'infanzia / primaria / scuole \"medie\" si può fare riferimento a una delle discipline nelle Indicazioni Nazionali, nei Nuovi Scenari, e/o alla disciplina Informatica dalla Proposta CINI
-- Per le scuole secondarie di secondo grado (superiori), fare riferimento ai documenti ministeriali (e secondariamente alla Proposta CINI)
-- Se verranno pubblicate *in modo definitivo* nuovi documenti ministeriali, riferisi anche a quelli ([verranno linkati qui]()).
+- Per la scuola dell'infanzia / primaria / scuole \"medie\" si può fare riferimento a una delle discipline nelle Nuove Indicazioni Nazionali ([versione del 7 luglio 2025, in cui Informatica è divisa tra Matematica e Tecnologia)[https://www.mim.gov.it/documents/20182/0/INDICAZIONI_NAZIONALI_7_7_2025.pdf/63802aed-f9f4-dd6e-f427-c45aa9222f31?version=1.0&t=1751893295452]) e/o alla disciplina Informatica dalla Proposta CINI
+- Per le scuole secondarie di secondo grado (superiori), fare riferimento ai documenti ministeriali (e secondariamente alla Proposta CINI nel caso del primo biennio)
 
 Può essere---adattata---rivolta a studenti di diverse età e indirizzi?
 
