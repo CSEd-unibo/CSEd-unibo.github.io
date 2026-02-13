@@ -30,7 +30,7 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 17 febbraio
 
-[Introduzione al corso e all'esame]()
+[Introduzione al corso e all'esame](http://www.cs.unibo.it/~renzo/csed26/)
 
 [Lezione: cosa non è l'informatica](http://www.cs.unibo.it/~renzo/csed26/noinfo.pdf)
 
