@@ -30,9 +30,17 @@ S. Fincher, A. Robins. The Cambridge Handbook of Computing Education Research (C
 
 ### Lezione del 17 febbraio
 
-[Introduzione al corso e all'esame](http://www.cs.unibo.it/~renzo/csed26/)
+[Introduzione al corso e all'esame](http://www.cs.unibo.it/~renzo/csed26/intro26.pdf)
 
 [Lezione: cosa non è l'informatica](http://www.cs.unibo.it/~renzo/csed26/noinfo.pdf)
 
 ### Lezione del 18 febbraio
+Per questa lezione:
+
+* Portare il proprio computer
+* Installare l'[IDE di Arduino](https://www.arduino.cc/en/software)
+
+[Fare è imparare](http://www.cs.unibo.it/~renzo/csed26/fare.pdf)
+
+[Fare è capire](http://www.cs.unibo.it/~renzo/csed26/farecapire.pdf)
 
