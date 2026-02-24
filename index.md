@@ -44,3 +44,14 @@ Per questa lezione:
 
 [Fare è capire](http://www.cs.unibo.it/~renzo/csed26/farecapire.pdf)
 
+### Lezione del 24 febbraio
+
+[Didattica dell'architettura degli elaboratori](http://www.cs.unibo.it/~renzo/csed26/architecture.pdf)
+
+[Papergates: le porte logiche di carta](http://www.cs.unibo.it/~renzo/csed26/papergates.pdf)
+
+### Lezione del 25 febbraio
+
+[Didattica delle reti di comunicazione](http://www.cs.unibo.it/~renzo/csed26/network.pdf)
+
+[TCPigeon: il "trasporto" dei piccioni](http://www.cs.unibo.it/~renzo/csed26/TCPigeon.pdf)
