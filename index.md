@@ -55,3 +55,14 @@ Per questa lezione:
 [Didattica delle reti di comunicazione](http://www.cs.unibo.it/~renzo/csed26/network.pdf)
 
 [TCPigeon: il "trasporto" dei piccioni](http://www.cs.unibo.it/~renzo/csed26/TCPigeon.pdf)
+
+### Lezione del 03 marzo
+
+[Software e Libertà](http://www.cs.unibo.it/~renzo/csed26/liberta.pdf)
+
+### La lezione del 04 marzo tace
+
+### Lezione del 10 marzo
+
+### Lezione del 11 marzo
+
