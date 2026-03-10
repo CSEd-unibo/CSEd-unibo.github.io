@@ -2,7 +2,7 @@
 
 ## Anno Accademico 2025/26
 
-Docenti: Renzo Davoli (Resp. corso e Mod. 1) e Docente Modulo Due (Mod. 2)
+Docenti: Renzo Davoli (Resp. corso e Mod. 1) e Michael Lodi (Mod. 2)
 
 [Il corso su Virtuale](https://virtuale.unibo.it/course/view.php?id=68542)
 
@@ -64,5 +64,9 @@ Per questa lezione:
 
 ### Lezione del 10 marzo
 
+[Introduzione, didattica e didattica dell'informatica, apprendimento significativo](https://www.cs.unibo.it/~michael.lodi2/csed2026/introdidattica.pdf)
+
+
 ### Lezione del 11 marzo
+
 
