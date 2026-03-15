@@ -67,6 +67,18 @@ Per questa lezione:
 [Introduzione, didattica e didattica dell'informatica, apprendimento significativo](https://www.cs.unibo.it/~michael.lodi2/csed2026/introdidattica.pdf)
 
 
-### Lezione del 11 marzo
+### Lezione dell'11 marzo
+
+[Informatica senza computer](https://www.cs.unibo.it/~michael.lodi2/csed2026/unplugged.pdf)
+
+Materiali di studio:
+
+* fino a pagina 9 di [questo capitolo](https://inria.hal.science/hal-02379212v1/preview/Libro-preprint.pdf)
+* sezione 8.4 di [questa tesi](https://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf#page=131.25)
+
+### Lezione del 17 marzo
+
+
+### Lezione del 18 marzo
 
 
