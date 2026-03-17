@@ -71,14 +71,19 @@ Per questa lezione:
 
 [Informatica senza computer](https://www.cs.unibo.it/~michael.lodi2/csed2026/unplugged.pdf)
 
-Materiali di studio:
+Studiare:
 
 * fino a pagina 9 di [questo capitolo](https://inria.hal.science/hal-02379212v1/preview/Libro-preprint.pdf)
 * sezione 8.4 di [questa tesi](https://amsdottorato.unibo.it/9188/1/Tesi_Dottorato_Lodi.pdf#page=131.25)
 
 ### Lezione del 17 marzo
 
+[Introduzione "leggera" alla didattica della programmazione](https://www.canva.com/design/DAG0h48i4UQ/0e8jw5TR3TG5wIrs2Gud9w/edit)
+
+* Studiare [questo breve articolo](https://www.cs.unibo.it/~michael.lodi2/60cfu/materiali/itadinfo_notional.pdf)
+
+[Didattica della Programmazione: introduzione, conoscenze, cognizione umana, schemi](https://www.cs.unibo.it/~michael.lodi2/csed2026/didaprog1.pdf)
 
 ### Lezione del 18 marzo
 
-
+Didattica della Programmazione: notional machine, misconcezioni, scaffolding.
