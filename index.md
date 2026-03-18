@@ -86,4 +86,13 @@ Studiare:
 
 ### Lezione del 18 marzo
 
-Didattica della Programmazione: notional machine, misconcezioni, scaffolding.
+[Didattica della Programmazione: notional machine, misconcezioni, scaffolding, program comprehension](https://www.cs.unibo.it/~michael.lodi2/csed2026/didaprog2.pdf)
+
+
+### Lezione del 24 marzo... solo da remoto!
+
+Il link all'aula virtuale Teams si troverà qui: [https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/518540/](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/518540/)
+
+Per oggi, leggere e capire i "ruoli delle variabili" (non fare l'esercizio) presenti [a questa pagina](pages/ruoli_variabili.md).
+
+### La lezione del 25 marzo tace (lauree)
