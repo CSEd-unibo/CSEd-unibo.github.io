@@ -91,7 +91,7 @@ Studiare:
 
 ### Lezione del 24 marzo... solo da remoto!
 
-Il link all'aula virtuale Teams si troverà qui: [https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/518540/](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/518540/)
+[Link all'aula virtuale Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTc3MjRjMmEtOTk5MS00MGZkLWEwYzctNDhiMjY0NGM5YTMx%40thread.v2/0?context=%7b%22Tid%22%3a%22e99647dc-1b08-454a-bf8c-699181b389ab%22%2c%22Oid%22%3a%221336b26d-f91b-4c13-a7f4-0e3924442a79%22%7d)
 
 Per oggi, leggere e capire i "ruoli delle variabili" (non fare l'esercizio) presenti [a questa pagina](pages/ruoli_variabili.md).
 
