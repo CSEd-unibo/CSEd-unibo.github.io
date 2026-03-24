@@ -93,8 +93,72 @@ Studiare:
 
 [Didattica della Programmazione: conoscenza strategica](https://www.cs.unibo.it/~michael.lodi2/csed2026/didaprog3.pdf)
 
+Ho assegnato un compito di valutazione tra pari:
+
+* in maniera individuale, studiare [i pattern per la scansione di sequenze](pages/pattern_cicli.md) e svolgere il compito indicato in fondo
+* consegna su Virtuale per l'**8 aprile**
+* il vostro lavoro verrà poi "valutato" da due colleghi per il **22 aprile**
+* esperimento di valutazione tra pari... fatto prima della lezione sulla valutazione
+
+
 [Semplificare senza banalizzare e le "big ideas"](https://www.cs.unibo.it/~michael.lodi2/csed2026/bigideas.pdf)
+
+Compito:
+
+* leggere le slide
+* guardare [questo brevissimo video](https://ladigitale.dev/digiview/#/v/6407a07fb3e21)
+* opzionalmente, approfondire con [questo video un po' più lungo](https://www.youtube.com/watch?v=Gm1uN9fSGNM)
+* inventare una nuova "big idea" e **scriverla sul forum su Virtuale** (quando volete, prima della fine del corso)
 
 
 
 ### La lezione del 25 marzo tace (lauree)
+
+
+### Lezione del 31 marzo
+
+### Lezione dell'1 aprile
+
+La lezione si svolge regolarmente solo in presenza, ma verrà anche registrata.
+
+### Lezione dell'8 aprile
+
+Per oggi consegnare la prima parte del compito sui [pattern elementari](https://virtuale.unibo.it/mod/workshop/view.php?id=2256192)
+
+
+### Lezione del 14 aprile
+
+
+### Lezione del 15 aprile
+
+La lezione potrebbe iniziare (forse, o forse no) con lieve ritardo
+
+
+### Lezione del 21 aprile
+
+
+### Lezione del 22 aprile
+
+Per oggi consegnare la seconda parte del compito sui [pattern elementari](https://virtuale.unibo.it/mod/workshop/view.php?id=2256192) (valutazione tra pari)
+
+
+### La lezione del 28 aprile tace
+
+
+### Lezione del 29 aprile
+
+
+### Lezione del 5 maggio
+
+
+### Lezione del 6 maggio
+
+
+### Lezione del 12 maggio
+
+
+### Lezione del 13 maggio
+
+
+### Lezione del 20 maggio
+
