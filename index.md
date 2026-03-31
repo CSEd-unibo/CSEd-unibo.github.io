@@ -117,9 +117,17 @@ Compito:
 
 ### Lezione del 31 marzo
 
+[Necessity learning design](https://www.cs.unibo.it/~michael.lodi2/csed2026/nld.pdf)
+
+* Provare [questi esercizi](https://www.cs.unibo.it/~michael.lodi2/nld/)
+* Studiare [questo breve articolo](https://cris.unibo.it/retrieve/37c19746-4456-43e7-b4fe-f0e141b80258/Necessity%20Itadinfo.pdf)
+* Per approfondimenti, e se volete creare una "sequenza di Necessity", leggere [l'articolo completo](https://infedu.vu.lt/journal/INFEDU/article/721/info)
+
 ### Lezione dell'1 aprile
 
-La lezione si svolge regolarmente solo in presenza, ma verrà anche registrata.
+Linguaggi di programmazione per la didattica
+
+*La lezione si svolge regolarmente solo in presenza, ma verrà anche registrata.*
 
 ### Lezione dell'8 aprile
 
