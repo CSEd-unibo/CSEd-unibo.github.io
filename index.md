@@ -125,22 +125,25 @@ Compito:
 
 ### Lezione dell'1 aprile
 
-Linguaggi di programmazione per la didattica
+[Dal basso o dall'alto?](https://www.cs.unibo.it/~michael.lodi2/csed2025/topbottom.pdf)
 
-*La lezione si svolge regolarmente solo in presenza, ma verrà anche registrata.*
+[Linguaggi di programmazione per la didattica](https://www.cs.unibo.it/~michael.lodi2/csed2026/linguaggi.pdf)
+
+* Studiare tutto (in particolare da pagina 9) [questo capitolo](https://inria.hal.science/hal-02379212v1/preview/Libro-preprint.pdf)
+* Studiare la sezione 8.3 di [questa tesi](https://amsdottorato.unibo.it/id/eprint/9188/1/Tesi_Dottorato_Lodi.pdf#page=120.40)
+
 
 ### Lezione dell'8 aprile
 
-Per oggi consegnare la prima parte del compito sui [pattern elementari](https://virtuale.unibo.it/mod/workshop/view.php?id=2256192)
+**NB**: la lezione di oggi consiste nel partecipare a [questo evento](https://site.unibo.it/accademiascienzebologna/it/agenda/le-discipline-stem) presso la Sala Ulisse dell’Accademia delle Scienze di Bologna (Via Zamboni, 31) dalle 15.30 alla fine (prevista alle 17.30). [Su Virtuale maggiore contesto]()
+
+*Per oggi consegnare la prima parte del compito sui [pattern elementari](https://virtuale.unibo.it/mod/workshop/view.php?id=2256192)*
 
 
 ### Lezione del 14 aprile
 
 
 ### Lezione del 15 aprile
-
-La lezione potrebbe iniziare (forse, o forse no) con lieve ritardo
-
 
 ### Lezione del 21 aprile
 
@@ -166,6 +169,8 @@ Per oggi consegnare la seconda parte del compito sui [pattern elementari](https:
 
 
 ### Lezione del 13 maggio
+
+### Lezione del 19 maggio
 
 
 ### Lezione del 20 maggio
