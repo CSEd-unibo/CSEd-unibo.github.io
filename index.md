@@ -125,7 +125,7 @@ Compito:
 
 ### Lezione dell'1 aprile
 
-[Dal basso o dall'alto?](https://www.cs.unibo.it/~michael.lodi2/csed2025/topbottom.pdf)
+[Dal basso o dall'alto?](https://www.cs.unibo.it/~michael.lodi2/csed2026/topbottom.pdf)
 
 [Linguaggi di programmazione per la didattica](https://www.cs.unibo.it/~michael.lodi2/csed2026/linguaggi.pdf)
 
@@ -146,7 +146,6 @@ Compito:
 ### Lezione del 15 aprile
 
 ### Lezione del 21 aprile
-
 
 ### Lezione del 22 aprile
 
@@ -169,6 +168,7 @@ Per oggi consegnare la seconda parte del compito sui [pattern elementari](https:
 
 
 ### Lezione del 13 maggio
+
 
 ### Lezione del 19 maggio
 
