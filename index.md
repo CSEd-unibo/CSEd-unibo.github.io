@@ -135,12 +135,16 @@ Compito:
 
 ### Lezione dell'8 aprile
 
-**NB**: la lezione di oggi consiste nel partecipare a [questo evento](https://site.unibo.it/accademiascienzebologna/it/agenda/le-discipline-stem) presso la Sala Ulisse dell’Accademia delle Scienze di Bologna (Via Zamboni, 31) dalle 15.30 alla fine (prevista alle 17.30). [Su Virtuale maggiore contesto]()
+**NB**: la lezione di oggi consiste nel partecipare a [questo evento](https://site.unibo.it/accademiascienzebologna/it/agenda/le-discipline-stem) 
+
+La registrazione sarà (probabilmente) visibile [qui](https://www.youtube.com/@accademiadellescienze).
 
 *Per oggi consegnare la prima parte del compito sui [pattern elementari](https://virtuale.unibo.it/mod/workshop/view.php?id=2256192)*
 
 
 ### Lezione del 14 aprile
+
+[Scaffolding con UMC, didattica degli algoritmi](https://www.cs.unibo.it/~michael.lodi2/csed2026/avanzi.pdf)
 
 
 ### Lezione del 15 aprile
@@ -162,6 +166,9 @@ Per oggi consegnare la seconda parte del compito sui [pattern elementari](https:
 
 
 ### Lezione del 6 maggio
+
+*Gli studenti presentano possibili idee (non vincolanti) di argomento, target, metodologie per l'esame finale, discusse con docenti e colleghi*
+
 
 
 ### Lezione del 12 maggio
