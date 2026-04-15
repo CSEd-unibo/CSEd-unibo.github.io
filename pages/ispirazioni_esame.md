@@ -64,7 +64,7 @@ Queste attività sono ben progettate, ma spesso non seguono (ovviamente) lo sche
 - TCPigeon <https://www.cs.unibo.it/~renzo/csed26/TCPigeon.pdf>
 
 - "Il ristorante Brachetti", un'attività unplugged di teatralizzazione di concetti relativi ai sistemi operativi  
-  <https://www.cs.unibo.it/~renzo/csed25/ristorante.pdf>
+  <https://www.cs.unibo.it/renzo/brachetti/ristorante.pdf>
 
 - Le le altre attività viste con il Prof. Davoli
 

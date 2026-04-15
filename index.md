@@ -169,7 +169,7 @@ Per oggi consegnare la seconda parte del compito sui [pattern elementari](https:
 
 *Gli studenti presentano possibili idee (non vincolanti) di argomento, target, metodologie per l'esame finale, discusse con docenti e colleghi*
 
-
+[Ispirazioni per l'argomento d'esame](pages/ispirazioni_esame.md)
 
 ### Lezione del 12 maggio
 
