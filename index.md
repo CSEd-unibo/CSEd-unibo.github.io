@@ -154,9 +154,12 @@ Studiare
 
 ### Lezione del 15 aprile
 
-Progettazione didattica
+[Progettazione didattica](https://www.cs.unibo.it/~michael.lodi2/csed2026/progettazione.pdf)
 
 * Studiare bene [questo articolo](https://oaj.fupress.net/index.php/formare/article/view/13175/11019) (ignorare gli esempi sulla tassonimia RIZA)
+
+[Ispirazioni per l'argomento d'esame](pages/ispirazioni_esame.md)
+
 
 
 ### Lezione del 21 aprile
@@ -179,8 +182,7 @@ Per oggi consegnare la seconda parte del compito sui [pattern elementari](https:
 
 *Gli studenti presentano possibili idee (non vincolanti) di argomento, target, metodologie per l'esame finale, discusse con docenti e colleghi*
 
-[Ispirazioni per l'argomento d'esame](pages/ispirazioni_esame.md)
-
+    
 ### Lezione del 12 maggio
 
 
