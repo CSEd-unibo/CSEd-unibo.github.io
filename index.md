@@ -146,8 +146,18 @@ La registrazione sarà (probabilmente) visibile [qui](https://www.youtube.com/@a
 
 [Scaffolding con UMC, didattica degli algoritmi](https://www.cs.unibo.it/~michael.lodi2/csed2026/avanzi.pdf)
 
+Studiare 
+
+* la sezione "Che cos’è UMC?" di [questa guida](https://lodi.ml/umc/guidaUMC.pdf)
+* la sezione 2.2 di [questo articolo](https://dl.acm.org/doi/pdf/10.1145/3587102.3588793)
+* le sezioni 2 e 3 di [questo articolo](https://dl.acm.org/doi/pdf/10.1145/3626252.3630950)
 
 ### Lezione del 15 aprile
+
+Progettazione didattica
+
+* Studiare bene [questo articolo](https://oaj.fupress.net/index.php/formare/article/view/13175/11019) (ignorare gli esempi sulla tassonimia RIZA)
+
 
 ### Lezione del 21 aprile
 
