@@ -11,7 +11,8 @@
 
 [Esame]() 
 
-* [Struttura esame dal 2026](pages/struttura_esame.md)
+* [Struttura esame](pages/struttura_esame.md)
 * [Criteri valutazione (rubric)](pages/rubric_esame.md)
+* [Ispirazioni per l'esame](pages/ispirazioni_esame.md)
 
 [Riferimenti](pages/riferimenti.md)
