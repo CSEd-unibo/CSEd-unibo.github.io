@@ -165,7 +165,7 @@ Studiare
 ### Lezione del 21 aprile
 
 
-Paradigmi e teorie dell'apprendimento
+[Paradigmi e teorie dell'apprendimento](https://www.cs.unibo.it/~michael.lodi2/csed2026/paradigmi.pdf)
 
 * [Oraganizzatore grafico anticipato](https://www.cs.unibo.it/~michael.lodi2/csed2026/organizzatoreParadigmi.pdf)
 * Leggere [questo brano](https://lcl.media.mit.edu/resources/activity/week1/gears.it.pdf?pdf=gears.it) e riflettere su quali sono stati "gli ingranaggi della vostra infanzia"
@@ -175,7 +175,7 @@ Paradigmi e teorie dell'apprendimento
 
 ### Lezione del 22 aprile
 
-*Per oggi portare un computer (o al limte un tablet) per poter scrivere individualmente.*
+**Per oggi portare un computer (o al limte un tablet) per poter scrivere individualmente su un documento condiviso.**
 
 Per oggi consegnare la seconda parte del compito sui [pattern elementari](https://virtuale.unibo.it/mod/workshop/view.php?id=2256192) (valutazione tra pari)
 
