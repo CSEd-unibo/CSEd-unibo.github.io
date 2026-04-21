@@ -164,7 +164,18 @@ Studiare
 
 ### Lezione del 21 aprile
 
+
+Paradigmi e teorie dell'apprendimento
+
+* [Oraganizzatore grafico anticipato](https://www.cs.unibo.it/~michael.lodi2/csed2026/organizzatoreParadigmi.pdf)
+* Leggere [questo brano](https://lcl.media.mit.edu/resources/activity/week1/gears.it.pdf?pdf=gears.it) e riflettere su quali sono stati "gli ingranaggi della vostra infanzia"
+* Studiare il capitolo 3 di [questa tesi](https://amsdottorato.unibo.it/id/eprint/9188/1/Tesi_Dottorato_Lodi.pdf#page=53.20)
+
+
+
 ### Lezione del 22 aprile
+
+*Per oggi portare un computer (o al limte un tablet) per poter scrivere individualmente.*
 
 Per oggi consegnare la seconda parte del compito sui [pattern elementari](https://virtuale.unibo.it/mod/workshop/view.php?id=2256192) (valutazione tra pari)
 
