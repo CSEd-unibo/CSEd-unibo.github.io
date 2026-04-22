@@ -175,9 +175,11 @@ Studiare
 
 ### Lezione del 22 aprile
 
-**Per oggi portare un computer (o al limte un tablet) per poter scrivere individualmente su un documento condiviso.**
+*Per oggi consegnare la seconda parte del compito sui [pattern elementari](https://virtuale.unibo.it/mod/workshop/view.php?id=2256192) (valutazione tra pari)*
 
-Per oggi consegnare la seconda parte del compito sui [pattern elementari](https://virtuale.unibo.it/mod/workshop/view.php?id=2256192) (valutazione tra pari)
+[Strategie e metodologie didattiche](https://www.cs.unibo.it/~michael.lodi2/csed2026/metodologie.pdf)
+
+* Il documento prodotto dagli studenti è disponibile su Virtuale (in versione ancora modificabile - liberi di proseguire il lavoro!)
 
 
 ### La lezione del 28 aprile tace
