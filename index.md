@@ -187,6 +187,10 @@ Studiare
 
 ### Lezione del 29 aprile
 
+[Valutazione](https://www.cs.unibo.it/~michael.lodi2/csed2026/valutazione.pdf)
+
+* Studiare [questo articolo](http://www.laboratorioformazione.it/index.php?view=download&alias=128-le-rubriche-valutative&category_slug=87-mario-castoldi&option=com_docman&Itemid=514) sulla costruzione di una rubric
+
 
 ### Lezione del 5 maggio
 
