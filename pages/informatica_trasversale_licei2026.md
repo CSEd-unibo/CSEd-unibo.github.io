@@ -1,8 +1,8 @@
 # Informatica, digitale e intelligenza artificiale nelle nuove Indicazioni per i Licei - Un riassunto di un LLM
 
-**Criterio adottato.** Sono state raccolte le parti che riguardano direttamente o indirettamente: informatica, intelligenza artificiale, IA generativa, apprendimento automatico, algoritmi, sistemi algoritmici, tecnologie digitali, strumenti informatici, reti, crittografia, simulazioni computazionali, dati, piattaforme digitali e cittadinanza digitale.
+ Sono state raccolte le parti che riguardano direttamente o indirettamente: informatica, intelligenza artificiale, IA generativa, apprendimento automatico, algoritmi, sistemi algoritmici, tecnologie digitali, strumenti informatici, reti, crittografia, simulazioni computazionali, dati, piattaforme digitali e cittadinanza digitale.
 
- **Esclusioni richieste.** Sono state escluse soltanto:
+Sono state escluse (perché discusse altrove):
 
  1. la sottosezione **INFORMATICA** nel **primo biennio di Matematica**;
  2. la disciplina autonoma **INFORMATICA** nel **Liceo scientifico – opzione Scienze applicate**.
@@ -11,9 +11,9 @@
 
 ### Tutti i licei o quasi tutti
 
-- **Premessa:** IA generativa come sfida antropologica; coscienza digitale; uso etico, antropocentrico e trasparente; IA come copilota; valutazione di processo.
+- **Premessa:** IA generativa come sfida antropologica; coscienza digitale; uso etico, antropocentrico e trasparente; IA come copilota.
 - **Lingua e letteratura italiana:** testi generati da IA; chatbot; media narrativi inclusi videogiochi, audiovisivi e graphic novel.
-- **Storia e Geografia:** IA nella didattica della storia; scenari controfattuali; simulazioni di personaggi; validazione docente; IA generativa e cartografia digitale.
+- **Storia e Geografia:** IA nella didattica della storia; scenari controfattuali; simulazioni di personaggi; IA generativa e cartografia digitale.
 - **Introduzione a Matematica e discipline scientifiche:** informatica come componente essenziale; IA come oggetto e strumento di ricerca/apprendimento; tecnologie e ingegnerie.
 - **Matematica:** concetti e linguaggio alla base dei sistemi di IA; strumenti informatici; IA come sistema con cui interagire criticamente.
 - **Fisica:** IA, calcolo quantistico, modellizzazione, sistemi complessi, costi energetici e validazione scientifica.
@@ -109,7 +109,7 @@ Nei documenti dei licei, la disciplina **Lingua e letteratura italiana** contien
 
 ### Presenza
 
-La citazione sulla scrittura umana e i testi generati da IA ricorre, con formulazione identica o quasi identica, nei percorsi caricati: Liceo artistico, Liceo classico, Liceo linguistico, Liceo musicale e coreutico, Liceo scientifico, Liceo scientifico opzione scienze applicate, Liceo scientifico sportivo, Liceo delle scienze umane, Liceo delle scienze umane opzione economico-sociale, Liceo del Made in Italy. Nel Liceo artistico è ripetuta nei diversi indirizzi.
+La citazione sulla scrittura umana e i testi generati da IA ricorre, con formulazione identica o quasi identica, nei percorsi: Liceo artistico, Liceo classico, Liceo linguistico, Liceo musicale e coreutico, Liceo scientifico, Liceo scientifico opzione scienze applicate, Liceo scientifico sportivo, Liceo delle scienze umane, Liceo delle scienze umane opzione economico-sociale, Liceo del Made in Italy. Nel Liceo artistico è ripetuta nei diversi indirizzi.
 
 ### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
@@ -167,7 +167,7 @@ Nei documenti relativi a **Storia e Geografia** l’IA compare come supporto all
 
 La citazione è presente nella disciplina **Storia e Geografia** dei percorsi liceali con minime variazioni. È stata riscontrata, ad esempio, nel Liceo scientifico sportivo e ricorre nella struttura comune dei documenti di Storia e Geografia.
 
-### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo scientifico sportivo — Storia e Geografia — Linee generali / metodologia.
 
@@ -255,7 +255,7 @@ La formulazione compare, con minime variazioni, nei documenti dei licei, in part
 
 ## 8. Matematica: basi concettuali dell’IA, strumenti informatici, reti neurali, modelli e apprendimento automatico
 
-> Nota: qui **non** è inclusa la sottosezione **INFORMATICA** del primo biennio, come richiesto. Sono invece incluse le altre parti di Matematica che menzionano informatica, IA, algoritmi, reti neurali, modelli, apprendimento automatico, crittografia, complessità computazionale e strumenti informatici.
+Nota: qui **non** è inclusa la sottosezione **INFORMATICA** del primo biennio
 
 ### 8.1 Perché studiare Matematica: concetti e linguaggio alla base dell’IA
 
@@ -267,7 +267,7 @@ La Matematica è presentata come base concettuale e linguistica per comprendere 
 
 Presente, con formulazioni identiche o quasi identiche, nei diversi licei. Nel Liceo musicale la formulazione è adattata con un parallelo con lo studio della Musica.
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** tutti i licei — Matematica — Perché studiare Matematica.
 
@@ -277,7 +277,7 @@ Presente, con formulazioni identiche o quasi identiche, nei diversi licei. Nel L
 
 #### Sintesi
 
-L’informatica è descritta come strumento formale per descrivere, modellizzare e interpretare la realtà, soprattutto nei contesti in cui l’elaborazione automatica delle informazioni è determinante. Questa formulazione è distinta dalla sottosezione “INFORMATICA” esclusa.
+L’informatica è descritta come strumento formale per descrivere, modellizzare e interpretare la realtà, soprattutto nei contesti in cui l’elaborazione automatica delle informazioni è determinante. 
 
 #### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
@@ -295,7 +295,7 @@ L’informatica è descritta come strumento formale per descrivere, modellizzare
 
 Tra le competenze finali di Matematica compaiono: comprensione di princìpi e concetti fondamentali dell’informatica; valutazione critica delle tecnologie digitali; interazione critica e responsabile con sistemi di IA.
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Matematica — Linee generali e competenze — competenze finali.
 
@@ -309,7 +309,7 @@ Tra le competenze finali di Matematica compaiono: comprensione di princìpi e co
 
 Nel secondo biennio, alcune parti di Matematica collegano la modellizzazione, la ricerca di parametri e la regressione ai primi algoritmi di apprendimento automatico nell’ambito dell’IA.
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo scientifico; Liceo scientifico opzione scienze applicate; Liceo scientifico sportivo — Matematica — Secondo biennio — Funzioni e modelli.
 
@@ -321,7 +321,7 @@ Nel secondo biennio, alcune parti di Matematica collegano la modellizzazione, la
 
 In Geometria e Algebra, i sistemi lineari sono collegati alla regressione e alle reti neurali.
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo scientifico; Liceo scientifico opzione scienze applicate; Liceo scientifico sportivo — Matematica — Secondo biennio — Geometria e Algebra.
 
@@ -333,7 +333,7 @@ In Geometria e Algebra, i sistemi lineari sono collegati alla regressione e alle
 
 Nel quinto anno, i modelli statistici sono collegati alla modellizzazione/simulazione di fenomeni aleatori e alla prospettiva dei sistemi di IA generativa.
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo scientifico; Liceo scientifico opzione scienze applicate; Liceo scientifico sportivo — Matematica — Quinto anno — Modelli statistici.
 
@@ -345,7 +345,7 @@ Nel quinto anno, i modelli statistici sono collegati alla modellizzazione/simula
 
 Questa è la parte che era mancata nella versione precedente: nel quinto anno dello Scientifico sono esplicitamente indicati, tra i possibili temi di approfondimento interdisciplinare, grafi e reti, sistemi dinamici, codici e crittografia, sistemi di IA e apprendimento automatico.
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo scientifico — Matematica — Quinto anno — Approfondimenti.
 
@@ -379,7 +379,7 @@ Nella Matematica del Liceo scientifico opzione scienze applicate — non nella d
 
 Nel Liceo sportivo, gli approfondimenti matematici collegano IA e apprendimento automatico all’analisi della prestazione sportiva.
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo scientifico sportivo — Matematica — Quinto anno — Approfondimenti.
 
@@ -391,7 +391,7 @@ Nel Liceo sportivo, gli approfondimenti matematici collegano IA e apprendimento 
 
 Nel Liceo musicale e coreutico, gli approfondimenti matematici connettono grafi, Fourier, modelli probabilistici e strumenti di IA alla composizione musicale e coreutica.
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo musicale e coreutico — Matematica — Quinto anno — Approfondimenti.
 
@@ -413,7 +413,7 @@ La Fisica è spesso collegata allo sviluppo e al controllo delle nuove tecnologi
 
 Presente con formulazioni identiche o quasi identiche in più licei: Liceo classico, Liceo scientifico, Liceo scientifico opzione scienze applicate, Liceo scientifico sportivo, Liceo delle scienze umane, opzione economico-sociale e altri adattamenti.
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo classico; Liceo scientifico; Liceo scientifico sportivo; Liceo delle scienze umane; Liceo delle scienze umane opzione economico-sociale; Liceo scientifico opzione scienze applicate — Fisica — Perché studiare Fisica.
 
@@ -421,7 +421,7 @@ Presente con formulazioni identiche o quasi identiche in più licei: Liceo class
 
 ### 9.2 Fisica e collegamenti con informatica e strumenti computazionali
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo scientifico — Fisica — Linee generali e competenze.
 
@@ -650,7 +650,7 @@ Nel Liceo artistico le occorrenze più rilevanti riguardano: uso di software di 
 
 ### 13.1 Laboratorio artistico: processi generativi automatizzati e output generativo
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo artistico — Laboratorio artistico — Perché fare pratica nel Laboratorio artistico.
 
@@ -658,7 +658,7 @@ Nel Liceo artistico le occorrenze più rilevanti riguardano: uso di software di 
 
 ### 13.2 Tecnologie: modellazione 3D, prototipazione digitale, realtà aumentata, stop motion, montaggio video
 
-#### Estratti dal testo della proposta di Nuove Indicazioni Nazionalile
+#### Estratti dal testo della proposta di Nuove Indicazioni Nazionali
 
 **Fonte:** Liceo artistico — discipline artistiche / Laboratorio artistico — Tecnologie.
 
