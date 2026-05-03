@@ -1,4 +1,4 @@
-### Liceo Scientifico, Articolazione: Scienze Applicate  (proposta di Nuove Indicazioni 2026)
+### Liceo Scientifico, Articolazione: Scienze Applicate  (Bozza di Nuove Indicazioni 2026)
 
 
 #### **INFORMATICA**

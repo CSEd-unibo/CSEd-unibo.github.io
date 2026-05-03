@@ -680,11 +680,11 @@ Nel Liceo artistico le occorrenze più rilevanti riguardano: uso di software di 
 
 ---
 
-## 14. Liceo scientifico opzione scienze applicate: cosa è incluso e cosa resta escluso
+## 14. Liceo scientifico opzione scienze applicate
 
 ### Sintesi
 
-Nel documento del Liceo scientifico opzione scienze applicate sono incluse in questa ricognizione tutte le occorrenze in Matematica, Fisica, Storia e Geografia, Filosofia, Lingua italiana, Lingua straniera e Scienze naturali che riguardano informatica/IA/digitale. È invece esclusa, come richiesto, la disciplina autonoma **INFORMATICA**.
+Nel documento del Liceo scientifico opzione scienze applicate sono incluse in questa ricognizione tutte le occorrenze in Matematica, Fisica, Storia e Geografia, Filosofia, Lingua italiana, Lingua straniera e Scienze naturali che riguardano informatica/IA/digitale. È invece esclusa, perché discussa altrove, la disciplina autonoma **INFORMATICA**.
 
 ### Parti incluse dal documento OSA
 

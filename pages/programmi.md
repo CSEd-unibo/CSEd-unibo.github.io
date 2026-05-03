@@ -38,7 +38,7 @@ ragioneria o simili (fortunatamente ad esaurimento) consente l'insegnamento di:
 
 **[Indicazioni Nazionali vigenti](https://www.istruzione.it/alternanza/allegati/NORMATIVA%20ASL/INDICAZIONI%20NAZIONALI%20PER%20I%20LICEI.pdf)**
 
-**[Proposta di Nuove Indicazioni Nazionali licei 2026](https://www.mim.gov.it/-/pubblicato-il-testo-delle-nuove-indicazioni-nazionali-per-i-licei-)**
+**[BOZZA di Nuove Indicazioni Nazionali licei 2026](https://www.mim.gov.it/-/pubblicato-il-testo-delle-nuove-indicazioni-nazionali-per-i-licei-)**
 
 ### Tutti i licei (fino al 2026)
 
@@ -50,7 +50,7 @@ NB: la disciplina matematica può essere insegnata da A-26 e A-27, non da A-41.
 > 
 > Lo studente diverrà familiare con gli strumenti informatici, al fine precipuo di rappresentare e manipolare oggetti matematici e studierà le modalità di rappresentazione dei dati elementari testuali e multimediali.  Un tema fondamentale di studio sarà il concetto di algoritmo e l’elaborazione di strategie di risoluzioni algoritmiche nel caso di problemi semplici e di facile modellizzazione; e, inoltre, il concetto di funzione calcolabile e di calcolabilità e alcuni semplici esempi relativi
 
-### PROPOSTA 2026: Tutti i licei tranne il LSA (proposta di Nuove Indicazioni 2026)
+### BOZZA 2026: Tutti i licei tranne il LSA (bozza di Nuove Indicazioni 2026)
 
 #### Informatica come ambito della matematica, primo biennio
 
@@ -75,7 +75,7 @@ Il nuovo testo proposto, con micro varianti [esplicitate qui](collazione.md)
 
 
 
-#### PROPOSTA 2026: Informatica e Intelligenza Artificiale in tutte le altre discipline
+#### BOZZA 2026: Informatica e Intelligenza Artificiale in tutte le altre discipline (bozza di Nuove Indicazioni 2026)
 
 [Qui un riassunto dei pricipali elementi di Informatica ed AI nelle altre discipline](informatica_trasversale_licei2026.md)
 
@@ -120,11 +120,11 @@ Quinto Anno:
 * CS: semplici simulazioni (supporto alla ''ricerca scientifica'', connessi a quanto studiato in Fisica o Scienze)
 
 
-### PROPOSTA 2026: Liceo Scientifico, Articolazione: Scienze Applicate  (proposta di Nuove Indicazioni 2026)
+### BOZZA 2026: Liceo Scientifico, Articolazione: Scienze Applicate  (bozza di Nuove Indicazioni 2026)
 
-[Testo completo della proposta di Informatica per LSA](lsa_proposta.md)
+[Testo completo della bozza 2026 di Informatica per LSA](lsa_proposta.md)
 
-Appunti sintetici tratti dalla proposta di nuove indicazioni.
+Appunti sintetici tratti dalla bozza di nuove indicazioni.
 
 Aree tematiche:
 
