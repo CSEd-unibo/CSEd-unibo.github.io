@@ -40,9 +40,9 @@ ragioneria o simili (fortunatamente ad esaurimento) consente l'insegnamento di:
 
 **[BOZZA di Nuove Indicazioni Nazionali licei 2026](https://www.mim.gov.it/-/pubblicato-il-testo-delle-nuove-indicazioni-nazionali-per-i-licei-)**
 
-### Tutti i licei (fino al 2026)
+### Tutti i licei tranne il Liceo Scientifico Scienze applicate (fino al 2026)
 
-#### Primo biennio, nella disciplina Matematica
+#### Nella disciplina Matematica, primo biennio
 
 NB: la disciplina matematica può essere insegnata da A-26 e A-27, non da A-41.
 
