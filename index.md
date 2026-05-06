@@ -211,5 +211,6 @@ Per l'esame sarà importante tenere conto dei traguardi e obiettivi presenti nei
 *Salvo imprevisti, questa sarà l'ultima lezione* 
 
 
-### Il 19 XOR 20 maggio ci sarà un ricevimento solo online 
+### Ricevimento online del 20 maggio ore 15
 
+*Gli studenti presentano possibili idee (non vincolanti) di argomento, target, metodologie per l'esame finale, discusse con docenti e colleghi*
