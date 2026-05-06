@@ -50,9 +50,7 @@ NB: la disciplina matematica può essere insegnata da A-26 e A-27, non da A-41.
 > 
 > Lo studente diverrà familiare con gli strumenti informatici, al fine precipuo di rappresentare e manipolare oggetti matematici e studierà le modalità di rappresentazione dei dati elementari testuali e multimediali.  Un tema fondamentale di studio sarà il concetto di algoritmo e l’elaborazione di strategie di risoluzioni algoritmiche nel caso di problemi semplici e di facile modellizzazione; e, inoltre, il concetto di funzione calcolabile e di calcolabilità e alcuni semplici esempi relativi
 
-### BOZZA 2026: Tutti i licei tranne il LSA (bozza di Nuove Indicazioni 2026)
-
-#### Informatica come ambito della matematica, primo biennio
+#### BOZZA 2026: Tutti i licei tranne il LSSA (bozza di Nuove Indicazioni 2026) Informatica come ambito della matematica, primo biennio
 
 Il nuovo testo proposto, con micro varianti [esplicitate qui](collazione.md)
 , recita al momento più o meno così: 
@@ -75,7 +73,7 @@ Il nuovo testo proposto, con micro varianti [esplicitate qui](collazione.md)
 
 
 
-#### BOZZA 2026: Informatica e Intelligenza Artificiale in tutte le altre discipline (bozza di Nuove Indicazioni 2026)
+### BOZZA 2026: Informatica e Intelligenza Artificiale in tutte le altre discipline (bozza di Nuove Indicazioni 2026) per tutti i licei
 
 [Qui un riassunto dei pricipali elementi di Informatica ed AI nelle altre discipline](informatica_trasversale_licei2026.md)
 
@@ -83,7 +81,7 @@ Il nuovo testo proposto, con micro varianti [esplicitate qui](collazione.md)
 ### Liceo Scientifico, Articolazione: Scienze Applicate
 
 
-| 2h settimanali per tutti e 5 gli anni. |
+| Informatica come disciplina autonoma, 2h settimanali per tutti e 5 gli anni. |
 |------|
 
 Appunti tratti dalle linee guida ministeriali.
@@ -120,7 +118,7 @@ Quinto Anno:
 * CS: semplici simulazioni (supporto alla ''ricerca scientifica'', connessi a quanto studiato in Fisica o Scienze)
 
 
-### BOZZA 2026: Liceo Scientifico, Articolazione: Scienze Applicate  (bozza di Nuove Indicazioni 2026)
+#### BOZZA 2026: Liceo Scientifico, Articolazione: Scienze Applicate  (bozza di Nuove Indicazioni 2026)
 
 [Testo completo della bozza 2026 di Informatica per LSA](lsa_proposta.md)
 
@@ -172,7 +170,7 @@ Quinto Anno:
 * IA: tecniche di apprendimento automatico.
 * CS: algoritmi di calcolo numerico; simulazioni a supporto del calcolo scientifico.
 
-Differenze macroscopiche rispetto alle indicazioni attuali:
+*Differenze rispetto alle indicazioni attuali:*
 
 * sparisce come area autonoma DE, cioè elaborazione di documenti, anche se resta nel primo biennio la produzione di documenti elettronici;
 * RC/IS vengono sostanzialmente accorpate in RS: reti di computer e servizi su rete;
