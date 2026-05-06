@@ -208,12 +208,8 @@ Per l'esame sarà importante tenere conto dei traguardi e obiettivi presenti nei
     
 ### Lezione del 12 maggio
 
-
-### Lezione del 13 maggio
-
-
-### Lezione del 19 maggio
+*Salvo imprevisti, questa sarà l'ultima lezione* 
 
 
-### Lezione del 20 maggio
+### Il 19 XOR 20 maggio ci sarà un ricevimento solo online 
 
