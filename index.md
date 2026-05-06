@@ -194,6 +194,12 @@ Studiare
 
 ### Lezione del 5 maggio
 
+[Informatica a scuola](https://www.cs.unibo.it/~michael.lodi2/csed2026/infoscuola.pdf)
+
+Per l'esame sarà importante tenere conto dei traguardi e obiettivi presenti nei documenti ministeriali citati nelle slide per i diversi livelli di scuola.
+
+* Studiare [questo articolo](https://www.cs.unibo.it/~michael.lodi2/60cfu/materiali/itadinfo_coding.pdf) sulle parole Coding e Pensiero computazionale nei documenti ministeriali pre-2025
+
 
 ### Lezione del 6 maggio
 
