@@ -84,9 +84,14 @@ Studiare:
 
 [Didattica della Programmazione: introduzione, conoscenze, cognizione umana, schemi](https://www.cs.unibo.it/~michael.lodi2/csed2026/didaprog1.pdf)
 
+> Le registrazioni (n. 1 e 2) del 2024 e 2025 che coprono questi stessi argomenti sono su Virtuale (colonna destra Panopto)
+
 ### Lezione del 18 marzo
 
 [Didattica della Programmazione: notional machine, misconcezioni, scaffolding, program comprehension](https://www.cs.unibo.it/~michael.lodi2/csed2026/didaprog2.pdf)
+
+> La registrazione (n. 2) del 2025 che copre questi stessi argomenti è su Virtuale (colonna destra Panopto)
+
 
 
 ### Lezione del 24 marzo... solo da remoto!
@@ -110,7 +115,7 @@ Compito:
 * opzionalmente, approfondire con [questo video un po' più lungo](https://www.youtube.com/watch?v=Gm1uN9fSGNM)
 * inventare una nuova "big idea" e **scriverla sul forum su Virtuale** (quando volete, prima della fine del corso)
 
-
+> La registrazione (n. 3) di questa esatta lezione è su Virtuale (colonna destra Panopto)
 
 ### La lezione del 25 marzo tace (lauree)
 
@@ -123,6 +128,9 @@ Compito:
 * Studiare [questo breve articolo](https://cris.unibo.it/retrieve/37c19746-4456-43e7-b4fe-f0e141b80258/Necessity%20Itadinfo.pdf)
 * Per approfondimenti, e se volete creare una "sequenza di Necessity", leggere [l'articolo completo](https://infedu.vu.lt/journal/INFEDU/article/721/info)
 
+> La registrazione (n. 4) del 2025 che copre questi stessi argomenti è su Virtuale (colonna destra Panopto)
+ 
+
 ### Lezione dell'1 aprile
 
 [Dal basso o dall'alto?](https://www.cs.unibo.it/~michael.lodi2/csed2026/topbottom.pdf)
@@ -131,6 +139,8 @@ Compito:
 
 * Studiare tutto (in particolare da pagina 9) [questo capitolo](https://inria.hal.science/hal-02379212v1/preview/Libro-preprint.pdf)
 * Studiare la sezione 8.3 di [questa tesi](https://amsdottorato.unibo.it/id/eprint/9188/1/Tesi_Dottorato_Lodi.pdf#page=120.40)
+
+> La registrazione (n. 5) di questa esatta lezione è su Virtuale (colonna destra Panopto)
 
 
 ### Lezione dell'8 aprile
@@ -152,6 +162,9 @@ Studiare
 * la sezione 2.2 di [questo articolo](https://dl.acm.org/doi/pdf/10.1145/3587102.3588793)
 * le sezioni 2 e 3 di [questo articolo](https://dl.acm.org/doi/pdf/10.1145/3626252.3630950)
 
+> La registrazione (n. 6) del 2025 che copre questi stessi argomenti è su Virtuale (colonna destra Panopto)
+
+
 ### Lezione del 15 aprile
 
 [Progettazione didattica](https://www.cs.unibo.it/~michael.lodi2/csed2026/progettazione.pdf)
@@ -160,6 +173,7 @@ Studiare
 
 [Ispirazioni per l'argomento d'esame](pages/ispirazioni_esame.md)
 
+> La registrazione (n. 7) del 2025 che copre questi stessi argomenti è su Virtuale (colonna destra Panopto)
 
 
 ### Lezione del 21 aprile
@@ -200,6 +214,8 @@ Per l'esame sarà importante tenere conto dei traguardi e obiettivi presenti nei
 
 * Studiare [questo articolo](https://www.cs.unibo.it/~michael.lodi2/60cfu/materiali/itadinfo_coding.pdf) sulle parole Coding e Pensiero computazionale nei documenti ministeriali pre-2025
 
+> La registrazione (n. 8) del 2025 che copre questi stessi argomenti (ma mancano tutti gli aggiornamenti sulle Indicazioni Nazionali 25/26) è su Virtuale (colonna destra Panopto)
+
 
 ### Lezione del 6 maggio
 
@@ -208,9 +224,28 @@ Per l'esame sarà importante tenere conto dei traguardi e obiettivi presenti nei
     
 ### Lezione del 12 maggio
 
-*Salvo imprevisti, questa sarà l'ultima lezione* 
+[Argomenti avanzati](https://www.cs.unibo.it/~michael.lodi2/csed2026/avanzifinali.pdf)
+
+* Didattica dell'AI e didattica della programmazione con AI
+
+* Coding, pensiero computazionale, informatica
+
+    * Studiare bene [questo articolo](https://www.cs.unibo.it/~michael.lodi2/60cfu/materiali/itadinfo_coding.pdf) sulle parole Coding e Pensiero computazionale nei documenti ministeriali
+    * Studiare [questo articolo](https://ioinformatics.org/journal/v14_2020_113_132.pdf) sulle caratteristiche del pensiero computazionale (potete saltare la lunga tabella nelle prime pagine)
+    * Studiare [questo articolo](https://mondodigitale.aicanet.net/2017-5/articoli/MD72_02_abbiamo_davvero_bisogno_del_pensiero_computazionale.pdf) sul Pensiero computazionale
+    * Per approfondimenti, [questo lungo articolo](https://link.springer.com/article/10.1007/s11191-021-00202-5)
+
+* Didattica della Crittografia
+
+> La parte relativa al coding/pensiero computazionale non è stata svolta in classe per mancanza di tempo. Si trova una registrazione (n. 8) del 2025 che copre questi stessi argomenti su Virtuale (colonna destra Panopto). **Si tratta di termini importanti nella Didattica dell'Informatica quindi consiglio vivamente di guardarla**.
+
+> La parte relativa alla didattica della crittografia non è stata svolta in classe per mancanza di tempo. Si trova una registrazione (n. 6) del 2025 che copre questi stessi argomenti su Virtuale (colonna destra Panopto)
 
 
+
+    
 ### Ricevimento online del 20 maggio ore 15
 
 *Gli studenti presentano possibili idee (non vincolanti) di argomento, target, metodologie per l'esame finale, discusse con docenti e colleghi*
+
+Link: 
